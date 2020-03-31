@@ -1,6 +1,6 @@
 ---
 title: "Práctica 1"
-linktitle: "Práctica 1"
+linktitle: "Práctica 1: Paywall"
 date: "2020-01-10"
 class_date: "2020-03-31"
 citeproc: false
@@ -8,7 +8,7 @@ bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
 output:
   blogdown::html_page:
-    template: ../../pandoc/toc-title2_html.template
+    template: ../../pandoc/toc-title_html.template
     toc: true
 menu:
   class:
@@ -21,154 +21,10 @@ editor_options:
 ---
 
 
-# Librerías
+La tarea para esta primera semana es simple, y apropiada para tiempos de cuarentena: ver un documental, y un video breve
 
-```{r load, eval = FALSE, echo = TRUE}
+El documental se asocia a la primera crisis del quehacer científico comentada en clases: crisis de acceso. Se llama **"Paywall"**, y aborda con detalle las características e implicancias de las barreras de pago hacia el conocimiento científico, lo que ha impulsado fuertemente movimientos y políticas de ciencia abierta. Lo pueden encontrar en la siguiente dirección: [https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/](https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/), desde donde se puede ver con subtítulos en español.
 
-my_packages <- c("tidyverse", "fs", "devtools")
-install.packages(my_packages)
+El video tiene que ver con la segunda crisis, reproducibilidad: [https://www.youtube.com/watch?v=FpCrY7x5nEE](https://www.youtube.com/watch?v=FpCrY7x5nEE).
 
-devtools::install_github("kjhealy/socviz")
-
-```
-
-```{r libs}
-
-library(tidyverse)
-library(socviz)
-
-
-```
-
-To extract the course packet to your desktop:
-
-```{r extract, eval = FALSE, echo = TRUE}
-
-setup_course_notes()
-```
-
-# First steps
-
-```{r}
-
-library(gapminder)
-
-gapminder
-
-```
-
-
-```{r}
-
-p <- ggplot(data = gapminder,
-            mapping = aes(x = gdpPercap,
-                          y = lifeExp))
-
-p
-
-```
-
-
-```{r ch-03-fig-lexp-gdp-01}
-p + geom_point()
-```
-
-
-```{r ch-03-fig-lexp-gdp-02, fig.cap='Life Expectancy vs GDP, using a smoother.'}
-
-p <- ggplot(data = gapminder,
-            mapping = aes(x = gdpPercap,
-                          y=lifeExp))
-p + geom_smooth()
-
-```
-
-```{r ch-03-fig-lexp-gdp-04, fig.cap='Life Expectancy vs GDP, points and an ill-advised linear fit.', out.width="100%", fig.width=8, fig.height=5}
-p <- ggplot(data = gapminder,
-            mapping = aes(x = gdpPercap,
-                          y=lifeExp))
-p + geom_point() + geom_smooth(method = "lm")
-```
-
-
-```{r ch-03-fig-lexp-gdp-05, fig.cap='Life Expectancy vs GDP scatterplot, with a GAM smoother and a log scale on the x-axis.', out.width="100%", fig.width=8, fig.height=5}
-
-p <- ggplot(data = gapminder,
-            mapping = aes(x = gdpPercap,
-                          y=lifeExp))
-p + geom_point() +
-    geom_smooth(method = "gam") +
-    scale_x_log10()
-
-```
-
-
-## Mapping aesthetics vs setting them
-
-```{r ch-03-fig-lexp-gdp-07, fig.cap='What has gone wrong here?', fig.width=8, fig.height=5}
-
-p <- ggplot(data = gapminder,
-            mapping = aes(x = gdpPercap,
-                          y = lifeExp,
-                          color = "purple"))
-p + geom_point() +
-    geom_smooth(method = "loess") +
-    scale_x_log10()
-```
-
-```{r ch-03-fig-lexp-gdp-08, fig.cap='Setting the color attribute of the points directly.', out.width="100%", fig.width=8, fig.height=5}
-
-p <- ggplot(data = gapminder,
-            mapping = aes(x = gdpPercap,
-                          y = lifeExp))
-p + geom_point(color = "purple") +
-    geom_smooth(method = "loess") +
-    scale_x_log10()
-```
-
-
-```{r ch-03-fig-lexp-gdp-10, fig.cap='A more polished plot of Life Expectancy vs GDP.', out.width="100%", fig.width=8, fig.height=5.25}
-
-p <- ggplot(data = gapminder, mapping = aes(x = gdpPercap, y=lifeExp))
-p + geom_point(alpha = 0.3) + geom_smooth(method = "gam") +
-    scale_x_log10(labels = scales::dollar) +
-    labs(x = "GDP Per Capita", y = "Life Expectancy in Years",
-         title = "Economic Growth and Life Expectancy",
-         subtitle = "Data points are country-years",
-         caption = "Source: Gapminder.")
-```
-
-
-```{r ch-03-fig-lexp-gdp-11, fig.cap='Mapping the continent variable to the color aesthetic.', out.width="100%", fig.width=8.5, fig.height=5}
-
-p <- ggplot(data = gapminder,
-            mapping = aes(x = gdpPercap,
-                          y = lifeExp,
-                          color = continent))
-p + geom_point() +
-    geom_smooth(method = "loess") +
-    scale_x_log10()
-```
-
-
-```{r ch-03-fig-lexp-gdp-12, fig.cap='Mapping the continent variable to the color aesthetic, and correcting the error bars using the fill aesthetic.', out.width="100%", fig.width=8.5, fig.height=5}
-
-p <- ggplot(data = gapminder,
-            mapping = aes(x = gdpPercap,
-                          y = lifeExp,
-                          color = continent,
-                          fill = continent))
-p + geom_point() +
-    geom_smooth(method = "loess") +
-    scale_x_log10()
-```
-
-# Aesthetics can be mapped per geom
-
-
-```{r ch-03-fig-lexp-gdp-13, fig.cap='Mapping aesthetics on a per-geom basis. Here color is mapped to continent for the points but not the smoother.', out.width="100%", fig.width=8.5, fig.height=5}
-
-p <- ggplot(data = gapminder, mapping = aes(x = gdpPercap, y = lifeExp))
-p + geom_point(mapping = aes(color = continent)) + geom_smooth(method = "loess") +
-    scale_x_log10()
-```
+Anotar preguntas y comentarios, y los discutimos la próxima sesión.

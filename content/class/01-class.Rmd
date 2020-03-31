@@ -1,6 +1,6 @@
 ---
-title: "Presentación"
-linktitle: "1: Presentación"
+title: "Introducción"
+linktitle: "1: Programa del curso"
 date: "2020-01-10"
 class_date: "2020-03-31"
 citeproc: false
@@ -12,20 +12,22 @@ output:
     toc: true
 menu:
   class:
-    parent: Contenidos
+    parent: Clases
     weight: 1
 type: docs
 weight: 1
-pdf: /slides/01_dataviz_s20_looking_at_data.pdf
-thumb: /slides/01_dataviz_s20_looking_at_data.png
 editor_options:
   chunk_output_type: console
 ---
 
 ## Documento presentación
 
-`r blogdown::shortcode("slides")`
+<iframe src=/slides/01-programa/01_csa_programa.html height="500" width="775">
+</iframe>
 
+Acceso en pantalla completa [AQUÍ](/slides/01-programa/01_csa_programa.html) 
+
+--
 
 ## Links
 

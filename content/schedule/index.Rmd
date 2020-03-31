@@ -3,7 +3,20 @@ title: "Planificación"
 slug: schedule
 ---
 
-## Probando texto
+## Organización general del curso
+
+<embed src="/docs/CSA2020prog_sesiones.pdf" type="application/pdf" width="100%" height="600px" />
+
+Ver en pantalla completa [AQUÍ](/docs/CSA2020prog_sesiones.pdf)
+
+
+<div style="width:130%">
+
+<i class="fas fa-chalkboard-teacher"></i> Material de presentaciones semanales
+
+<i class="fas fa-book-reader"></i> Lecturas
+
+<i class="fas fa-user-edit"></i> Prácticas
 
 ---
 

@@ -1,0 +1,10 @@
+---
+title: "Planificación"
+slug: schedule
+---
+
+## Probando texto
+
+---
+
+`r blogdown::shortcode("schedule")`

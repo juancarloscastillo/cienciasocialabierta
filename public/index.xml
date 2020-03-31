@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course materials | Ciencia Social Abierta</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Course materials</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Thu, 23 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/social-image.png</url>
+      <title>Course materials</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Tables, Text, Labels, Notes</title>
+      <link>/class/03-class/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/class/03-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#slides&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;slides&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;/slides/03_dataviz_s20_work_with_geoms.pdf&#34;&gt;Download the slides from today’s class&lt;/a&gt;.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;/slides/03_dataviz_s20_work_with_geoms.pdf&#34;&gt;&lt;img src=&#34;/slides/03_dataviz_s20_work_with_geoms.png&#34; alt=&#34;First slide&#34; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Get Started / Make Some Plots</title>
+      <link>/class/02-class/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/class/02-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#slides&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;slides&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;/slides/02_dataviz_s20_getting_started.pdf&#34;&gt;Download the slides from today’s class&lt;/a&gt;.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;/slides/02_dataviz_s20_getting_started.pdf&#34;&gt;&lt;img src=&#34;/slides/02_dataviz_s20_getting_started.png&#34; alt=&#34;First slide&#34; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presentación</title>
+      <link>/class/01-class/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/class/01-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#links&#34;&gt;Links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;/slides/01_dataviz_s20_looking_at_data.pdf&#34;&gt;Download the slides from today’s class&lt;/a&gt;.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;/slides/01_dataviz_s20_looking_at_data.pdf&#34;&gt;&lt;img src=&#34;/slides/01_dataviz_s20_looking_at_data.png&#34; alt=&#34;First slide&#34; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+&lt;div id=&#34;links&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.r-project.org/&#34;&gt;The R Project for Statistical Computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rstudio.com&#34;&gt;R Studio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Práctica 1</title>
+      <link>/assignment/01-code/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/assignment/01-code/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#librerías&#34;&gt;Librerías&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#first-steps&#34;&gt;First steps&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#mapping-aesthetics-vs-setting-them&#34;&gt;Mapping aesthetics vs setting them&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#aesthetics-can-be-mapped-per-geom&#34;&gt;Aesthetics can be mapped per geom&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;librerías&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Librerías&lt;/h1&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;my_packages &amp;lt;- c(&amp;quot;tidyverse&amp;quot;, &amp;quot;fs&amp;quot;, &amp;quot;devtools&amp;quot;)
+install.packages(my_packages)
+
+devtools::install_github(&amp;quot;kjhealy/socviz&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(tidyverse)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Registered S3 method overwritten by &amp;#39;rvest&amp;#39;:
+##   method            from
+##   read_xml.response xml2&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## ── Attaching packages ─────────────────────────────────────── tidyverse 1.2.1 ──&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## ✔ ggplot2 3.2.1     ✔ purrr   0.3.2
+## ✔ tibble  2.1.2     ✔ dplyr   0.8.3
+## ✔ tidyr   1.0.0     ✔ stringr 1.4.0
+## ✔ readr   1.3.1     ✔ forcats 0.4.0&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+## ✖ dplyr::filter() masks stats::filter()
+## ✖ dplyr::lag()    masks stats::lag()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(socviz)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;To extract the course packet to your desktop:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;setup_course_notes()&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;first-steps&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;First steps&lt;/h1&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(gapminder)
+
+gapminder&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## # A tibble: 1,704 x 6
+##    country     continent  year lifeExp      pop gdpPercap
+##    &amp;lt;fct&amp;gt;       &amp;lt;fct&amp;gt;     &amp;lt;int&amp;gt;   &amp;lt;dbl&amp;gt;    &amp;lt;int&amp;gt;     &amp;lt;dbl&amp;gt;
+##  1 Afghanistan Asia       1952    28.8  8425333      779.
+##  2 Afghanistan Asia       1957    30.3  9240934      821.
+##  3 Afghanistan Asia       1962    32.0 10267083      853.
+##  4 Afghanistan Asia       1967    34.0 11537966      836.
+##  5 Afghanistan Asia       1972    36.1 13079460      740.
+##  6 Afghanistan Asia       1977    38.4 14880372      786.
+##  7 Afghanistan Asia       1982    39.9 12881816      978.
+##  8 Afghanistan Asia       1987    40.8 13867957      852.
+##  9 Afghanistan Asia       1992    41.7 16317921      649.
+## 10 Afghanistan Asia       1997    41.8 22227415      635.
+## # … with 1,694 more rows&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;p &amp;lt;- ggplot(data = gapminder,
+            mapping = aes(x = gdpPercap,
+                          y = lifeExp))
+
+p&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/assignment/01-code_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;p + geom_point()&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/assignment/01-code_files/figure-html/ch-03-fig-lexp-gdp-01-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;p &amp;lt;- ggplot(data = gapminder,
+            mapping = aes(x = gdpPercap,
+                          y=lifeExp))
+p + geom_smooth()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## `geom_smooth()` using method = &amp;#39;gam&amp;#39; and formula &amp;#39;y ~ s(x, bs = &amp;quot;cs&amp;quot;)&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:ch-03-fig-lexp-gdp-02&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/assignment/01-code_files/figure-html/ch-03-fig-lexp-gdp-02-1.png&#34; alt=&#34;Life Expectancy vs GDP, using a smoother.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: Life Expectancy vs GDP, using a smoother.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;p &amp;lt;- ggplot(data = gapminder,
+            mapping = aes(x = gdpPercap,
+                          y=lifeExp))
+p + geom_point() + geom_smooth(method = &amp;quot;lm&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:ch-03-fig-lexp-gdp-04&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/assignment/01-code_files/figure-html/ch-03-fig-lexp-gdp-04-1.png&#34; alt=&#34;Life Expectancy vs GDP, points and an ill-advised linear fit.&#34; width=&#34;100%&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 2: Life Expectancy vs GDP, points and an ill-advised linear fit.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;p &amp;lt;- ggplot(data = gapminder,
+            mapping = aes(x = gdpPercap,
+                          y=lifeExp))
+p + geom_point() +
+    geom_smooth(method = &amp;quot;gam&amp;quot;) +
+    scale_x_log10()&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:ch-03-fig-lexp-gdp-05&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/assignment/01-code_files/figure-html/ch-03-fig-lexp-gdp-05-1.png&#34; alt=&#34;Life Expectancy vs GDP scatterplot, with a GAM smoother and a log scale on the x-axis.&#34; width=&#34;100%&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 3: Life Expectancy vs GDP scatterplot, with a GAM smoother and a log scale on the x-axis.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;mapping-aesthetics-vs-setting-them&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Mapping aesthetics vs setting them&lt;/h2&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;p &amp;lt;- ggplot(data = gapminder,
+            mapping = aes(x = gdpPercap,
+                          y = lifeExp,
+                          color = &amp;quot;purple&amp;quot;))
+p + geom_point() +
+    geom_smooth(method = &amp;quot;loess&amp;quot;) +
+    scale_x_log10()&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:ch-03-fig-lexp-gdp-07&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/assignment/01-code_files/figure-html/ch-03-fig-lexp-gdp-07-1.png&#34; alt=&#34;What has gone wrong here?&#34; width=&#34;768&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 4: What has gone wrong here?
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;p &amp;lt;- ggplot(data = gapminder,
+            mapping = aes(x = gdpPercap,
+                          y = lifeExp))
+p + geom_point(color = &amp;quot;purple&amp;quot;) +
+    geom_smooth(method = &amp;quot;loess&amp;quot;) +
+    scale_x_log10()&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:ch-03-fig-lexp-gdp-08&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/assignment/01-code_files/figure-html/ch-03-fig-lexp-gdp-08-1.png&#34; alt=&#34;Setting the color attribute of the points directly.&#34; width=&#34;100%&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 5: Setting the color attribute of the points directly.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;p &amp;lt;- ggplot(data = gapminder, mapping = aes(x = gdpPercap, y=lifeExp))
+p + geom_point(alpha = 0.3) + geom_smooth(method = &amp;quot;gam&amp;quot;) +
+    scale_x_log10(labels = scales::dollar) +
+    labs(x = &amp;quot;GDP Per Capita&amp;quot;, y = &amp;quot;Life Expectancy in Years&amp;quot;,
+         title = &amp;quot;Economic Growth and Life Expectancy&amp;quot;,
+         subtitle = &amp;quot;Data points are country-years&amp;quot;,
+         caption = &amp;quot;Source: Gapminder.&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:ch-03-fig-lexp-gdp-10&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/assignment/01-code_files/figure-html/ch-03-fig-lexp-gdp-10-1.png&#34; alt=&#34;A more polished plot of Life Expectancy vs GDP.&#34; width=&#34;100%&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 6: A more polished plot of Life Expectancy vs GDP.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;p &amp;lt;- ggplot(data = gapminder,
+            mapping = aes(x = gdpPercap,
+                          y = lifeExp,
+                          color = continent))
+p + geom_point() +
+    geom_smooth(method = &amp;quot;loess&amp;quot;) +
+    scale_x_log10()&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:ch-03-fig-lexp-gdp-11&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/assignment/01-code_files/figure-html/ch-03-fig-lexp-gdp-11-1.png&#34; alt=&#34;Mapping the continent variable to the color aesthetic.&#34; width=&#34;100%&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 7: Mapping the continent variable to the color aesthetic.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;p &amp;lt;- ggplot(data = gapminder,
+            mapping = aes(x = gdpPercap,
+                          y = lifeExp,
+                          color = continent,
+                          fill = continent))
+p + geom_point() +
+    geom_smooth(method = &amp;quot;loess&amp;quot;) +
+    scale_x_log10()&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:ch-03-fig-lexp-gdp-12&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/assignment/01-code_files/figure-html/ch-03-fig-lexp-gdp-12-1.png&#34; alt=&#34;Mapping the continent variable to the color aesthetic, and correcting the error bars using the fill aesthetic.&#34; width=&#34;100%&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 8: Mapping the continent variable to the color aesthetic, and correcting the error bars using the fill aesthetic.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;aesthetics-can-be-mapped-per-geom&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Aesthetics can be mapped per geom&lt;/h1&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;p &amp;lt;- ggplot(data = gapminder, mapping = aes(x = gdpPercap, y = lifeExp))
+p + geom_point(mapping = aes(color = continent)) + geom_smooth(method = &amp;quot;loess&amp;quot;) +
+    scale_x_log10()&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:ch-03-fig-lexp-gdp-13&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/assignment/01-code_files/figure-html/ch-03-fig-lexp-gdp-13-1.png&#34; alt=&#34;Mapping aesthetics on a per-geom basis. Here color is mapped to continent for the points but not the smoother.&#34; width=&#34;100%&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 9: Mapping aesthetics on a per-geom basis. Here color is mapped to continent for the points but not the smoother.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Problem set 1</title>
+      <link>/assignment/01-problem-set/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/assignment/01-problem-set/</guid>
+      <description>
+
+
+&lt;div id=&#34;task&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Task&lt;/h1&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Truth, Beauty, and Data</title>
+      <link>/reading/01-reading/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/reading/01-reading/</guid>
+      <description>
+
+
+&lt;div id=&#34;required&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Required&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://socviz.co/lookatdata.html&#34;&gt;Chapter 1&lt;/a&gt; in Kieran Healy, &lt;em&gt;Data Visualization&lt;/em&gt; &lt;span class=&#34;citation&#34;&gt;[@Healy:2019]&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Chapters 2 and 3 in Alberto Cairo, &lt;em&gt;The Truthful Art&lt;/em&gt; &lt;span class=&#34;citation&#34;&gt;[@Cairo:2016]&lt;/span&gt; (&lt;em&gt;skim the introduction and chapter 1&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Midterm Prjoect</title>
+      <link>/assignment/01-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/assignment/01-project/</guid>
+      <description>
+
+
+&lt;div id=&#34;task&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Task&lt;/h1&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Planificación</title>
+      <link>/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/schedule/</guid>
+      <description>
+
+
+&lt;div id=&#34;probando-texto&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Probando texto&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;table class=&#34;table schedule&#34; style=&#34;max-width:100%&#34;&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td align=&#34;right&#34; style=&#34;width:20%;text-align:right&#34;&gt;&lt;/td&gt;
+            &lt;td style=&#34;width:50%;text-align:left&#34;&gt;UNIDAD 1&lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
+                &lt;font color=&#34;f1f1f1&#34;&gt;
+                    &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/font&gt;
+            &lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
+                &lt;font color=&#34;f1f1f1&#34;&gt;
+                    &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/font&gt;
+            &lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
+                &lt;font color=&#34;f1f1f1&#34;&gt;
+                    &lt;i class=&#34;fas fa-chalkboard-teacher fa-lg&#34;&gt;&lt;/i&gt;&lt;/font&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td align=&#34;right&#34; style=&#34;width:20%;text-align:right&#34;&gt;Semana 1&lt;/td&gt;
+            &lt;td style=&#34;width:50%;text-align:left&#34;&gt;Presentación e introducción&lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a
+                    href=&#34;/reading/01-reading/&#34;&gt;
+                    &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a
+                    href=&#34;/assignment/01-code/&#34;&gt;
+                    &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;/class/01-class/&#34;&gt;
+                    &lt;i class=&#34;fas fa-chalkboard-teacher fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td align=&#34;right&#34; style=&#34;width:20%;text-align:right&#34;&gt;Week 2&lt;/td&gt;
+            &lt;td style=&#34;width:50%;text-align:left&#34;&gt;Mapping Data to Visual Elements&lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
+                &lt;font color=&#34;f1f1f1&#34;&gt;
+                    &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/font&gt;
+            &lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
+                &lt;font color=&#34;f1f1f1&#34;&gt;
+                    &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/font&gt;
+            &lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;/class/02-class/&#34;&gt;
+                    &lt;i class=&#34;fas fa-chalkboard-teacher fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td align=&#34;right&#34; style=&#34;width:20%;text-align:right&#34;&gt;Week 3&lt;/td&gt;
+            &lt;td style=&#34;width:50%;text-align:left&#34;&gt;Tables, Text, Labels, Notes&lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
+                &lt;font color=&#34;f1f1f1&#34;&gt;
+                    &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/font&gt;
+            &lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
+                &lt;font color=&#34;f1f1f1&#34;&gt;
+                    &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/font&gt;
+            &lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;/class/03-class/&#34;&gt;
+                    &lt;i class=&#34;fas fa-chalkboard-teacher fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td align=&#34;right&#34; style=&#34;width:20%;text-align:right&#34;&gt;Week 4&lt;/td&gt;
+            &lt;td style=&#34;width:50%;text-align:left&#34;&gt;Working with Models&lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
+                &lt;font color=&#34;f1f1f1&#34;&gt;
+                    &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/font&gt;
+            &lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
+                &lt;font color=&#34;f1f1f1&#34;&gt;
+                    &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/font&gt;
+            &lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;/class/04-class/&#34;&gt;
+                    &lt;i class=&#34;fas fa-chalkboard-teacher fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td align=&#34;right&#34; style=&#34;width:20%;text-align:right&#34;&gt;Week 5&lt;/td&gt;
+            &lt;td style=&#34;width:50%;text-align:left&#34;&gt;Maps&lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
+                &lt;font color=&#34;f1f1f1&#34;&gt;
+                    &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/font&gt;
+            &lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
+                &lt;font color=&#34;f1f1f1&#34;&gt;
+                    &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/font&gt;
+            &lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
+                &lt;font color=&#34;f1f1f1&#34;&gt;
+                    &lt;i class=&#34;fas fa-chalkboard-teacher fa-lg&#34;&gt;&lt;/i&gt;&lt;/font&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td align=&#34;right&#34; style=&#34;width:20%;text-align:right&#34;&gt;Week 6&lt;/td&gt;
+            &lt;td style=&#34;width:50%;text-align:left&#34;&gt;Polishing your Plots&lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
+                &lt;font color=&#34;f1f1f1&#34;&gt;
+                    &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/font&gt;
+            &lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
+                &lt;font color=&#34;f1f1f1&#34;&gt;
+                    &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/font&gt;
+            &lt;/td&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
+                &lt;font color=&#34;f1f1f1&#34;&gt;
+                    &lt;i class=&#34;fas fa-chalkboard-teacher fa-lg&#34;&gt;&lt;/i&gt;&lt;/font&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/tbody&gt;
+
+&lt;/table&gt;
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programa</title>
+      <link>/programa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/programa/</guid>
+      <description>
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#descripción-general&#34;&gt;Descripción general&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#propósito-general&#34;&gt;Propósito general&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#resultados-de-aprendizaje&#34;&gt;Resultados de aprendizaje&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#contenidos&#34;&gt;Contenidos&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#unidad-i-introducción-a-la-ciencia-abierta&#34;&gt;Unidad I: Introducción a la ciencia abierta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#unidad-ii-reproducibilidad-y-transparencia&#34;&gt;Unidad II: Reproducibilidad y transparencia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#unidad-iii-accesibilidad-y-pubilcación&#34;&gt;3. Unidad III: Accesibilidad y pubilcación&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#metodología&#34;&gt;Metodología&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#evaluación&#34;&gt;Evaluación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#requisitos-de-aprobación&#34;&gt;Requisitos de aprobación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#palabras-clave&#34;&gt;Palabras clave&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografía-obligatoria-o-central&#34;&gt;Bibliografía Obligatoria (… o central)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#software&#34;&gt;Software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#planificación-de-las-sesiones-y-materiales-respectivos&#34;&gt;Planificación de las sesiones y materiales respectivos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;descripción-general&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Descripción general&lt;/h2&gt;
+&lt;p&gt;Partiendo desde la concepción de &lt;strong&gt;Ciencia Abierta&lt;/strong&gt; (Open Science) y de investigación reproducible, este curso presenta formas alternativas a la manera tradicional de concebir la generación de conocimiento de manera cerrada y competitiva, y desde ahí se proponen y ejercitan una serie de herramientas técnicas en el análisis de datos que facilitan la reproducibilidad, colaboración y comunicación de procesos de investigación.&lt;/p&gt;
+&lt;p&gt;El curso permitirá a los participantes lograr un producto de investigación (artículo, documento de trabajo) con foco en el análisis de datos realizado de manera abierta y reproducible.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;propósito-general&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Propósito general&lt;/h2&gt;
+&lt;p&gt;El quehacer académico muchas veces es criticado por su falta de aporte, transparencia y relevancia para la sociedad, crítica que se acentúa en las ciencias sociales. Desde la academia misma han surgido cuestionamientos sobre la capacidad de un trabajo que sea más abierto y auditable, que favorezca la colaboración entre académic_s y no académic_s, y que se comunique de manera eficiente dentro de la academia y fuera de ella.&lt;/p&gt;
+&lt;p&gt;Partiendo desde la concepción de Ciencia Abierta (Open Science) y de investigación reproducible, este curso presenta formas alternativas a la manera tradicional de concebir la generación de conocimiento de manera cerrada y competitiva, y desde ahí se proponen y ejercitan una serie de herramientas técnicas que facilitan la reproducibilidad, colaboración y comunicación de procesos de investigación.&lt;/p&gt;
+&lt;p&gt;El curso se dirige no solamente a aquellos estudiantes con interés principal en la investigación académica, sino también a quienes se quieran dedicar profesionalmente al análisis y reporte de información y datos sociales, trabajo en equipo multidisciplinario, y al vínculo entre academia y políticas públicas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;resultados-de-aprendizaje&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Resultados de aprendizaje&lt;/h2&gt;
+&lt;p&gt;Al finalizar el curso, ud. será capaz de:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Comprender las limitaciones y problemas de la manera tradicional de realizar investigación social.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Conocer las herramientas que permiten y promueven una apertura de los procesos de investigación social&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Conocer los flujos de trabajo reproducibles y transparentes&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Desarrollar un proceso de investigación abierto basado en los propios intereses de investigación, orientados hacia la publicación de un producto académico (artículo, documento de trabajo).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;contenidos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Contenidos&lt;/h2&gt;
+&lt;div id=&#34;unidad-i-introducción-a-la-ciencia-abierta&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Unidad I: Introducción a la ciencia abierta&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cierre y crisis de la ciencia&lt;/li&gt;
+&lt;li&gt;Marquetización de la academia y consecuencias para su quehacer&lt;/li&gt;
+&lt;li&gt;Propuestas de políticas de apertura científica a nivel internacional&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;unidad-ii-reproducibilidad-y-transparencia&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Unidad II: Reproducibilidad y transparencia&lt;/h3&gt;
+&lt;p&gt;2.1 Programación literaria&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Trabajando en texto plano: Introducción a Rmarkdown y Latex&lt;/li&gt;
+&lt;li&gt;Generación de reportes dinámicos vía Knitr.&lt;/li&gt;
+&lt;li&gt;Gestión de fuentes bibliográficas: Zotero, BibTex y BetterBibTex&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2.2 Flujos, control y documentación&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Flujos reproducibles (protocolo IPO)&lt;/li&gt;
+&lt;li&gt;Control de versiones con Git&lt;/li&gt;
+&lt;li&gt;Trabajo colaborativo y versionado con Github&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;unidad-iii-accesibilidad-y-pubilcación&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;3. Unidad III: Accesibilidad y pubilcación&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Pre-registros y planes de pre-analisis&lt;/li&gt;
+&lt;li&gt;Publicación abierta vía pre-prints (SoxArxiv) y página web (Github pages)&lt;/li&gt;
+&lt;li&gt;Generación de presentaciones dinámicas (Xaringan)&lt;/li&gt;
+&lt;li&gt;Visualización de datos, Shiny apps, reportes interactivos&lt;/li&gt;
+&lt;li&gt;Proyectos de investigación en OSF (Open Science Framework)&lt;/li&gt;
+&lt;li&gt;Visualización de datos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;metodología&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Metodología&lt;/h2&gt;
+&lt;p&gt;El curso se organiza en sesiones semanales, con una parte lectiva seguida de una práctica. En la parte lectiva se transmiten y discuten los conceptos centrales de la ciencia abierta. En la parte práctica se aplicarán los conceptos transmitidos en la parte lectiva, además de resolver dudas en el avance de los trabajos de investigación.&lt;/p&gt;
+&lt;p&gt;El curso estará orientado a que l_s participantes puedan al final generar un producto de investigación con características de apertura científica. Para ello, pueden profundizar en algún trabajo previo que les permita avanzar hacia una publicación académica en un proceso de investigación supervisado y reproducible.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;evaluación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Evaluación&lt;/h2&gt;
+&lt;p&gt;La evaluación consistirá en la elaboración de un reporte en el formato de artículo de investigación.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Entrega 1 (20%): Reporte en texto plano. Consiste en la entrega de un trabajo escrito en formato plano, se sugiere algún trabajo de curso previo que contemple análisis de datos y en el que se quiera avanzar en su publicación.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Entrega 2 (30%): Reproducibilidad. Documentación de la investigación en un protocolo reproducible (Protocolo IPO).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Entrega 3: (50%): Control de versiones y publicación. Desarrollo de repositorio abierto y publicación en formato web y/o pre-print.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;requisitos-de-aprobación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Requisitos de aprobación&lt;/h2&gt;
+&lt;p&gt;Nota mínima de aprobación: 4,0 (en escala de 1 a 7).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;palabras-clave&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Palabras clave&lt;/h2&gt;
+&lt;p&gt;Ciencia abierta, reproducibilidad, acceso abierto, transparencia, pre-prints, repositorios, control de versiones, markdown.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografía-obligatoria-o-central&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Bibliografía Obligatoria (… o central)&lt;/h2&gt;
+&lt;p&gt;Hay cuatro libros que me parecen centrales para este curso, pero tres de ellos están en inglés y no se consideran obligatorios sino más bien de consulta (o cabecera).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;El libro base del curso es &lt;a href=&#34;https://www.ucpress.edu/book/9780520296954/transparent-and-reproducible-social-science-research&#34;&gt;“Transparent and Reproducible Social Science Research”&lt;/a&gt;, de Christensen, G. S., Freese, J., &amp;amp; Miguel, E. (2019). Es lo más cercano a los temas del curso, y como ven muy reciente, del tema no había bibliografía así de especializada hasta el año pasado. Lamentablemente, y también paradojicamente, es un libro no disponible de manera gratuita. Muy recomendable. Comentaremos algunos de sus contenidos en las primeras sesiones introductorias.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Un segundo texto no tiene relación directa con apertura, pero sí muchos elementos que ayudan para llevar a cabo análisis reproducibles en R: &lt;a href=&#34;https://r4ds.had.co.nz/&#34;&gt;R for Data Science&lt;/a&gt; (conocido como RDS) de Garrett Grolemund y Hadley Wickham (2017). Afortunadamente tenemos una versión traducida al español y disponible de manera abierta online: &lt;a href=&#34;https://es.r4ds.hadley.nz/&#34;&gt;“R para Ciencia de Datos”&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;El tercero es más específico para la Unidad 2 sobre escritura en texto plano: &lt;a href=&#34;https://kieranhealy.org/files/papers/plain-person-text.pdf&#34;&gt;“The Plain Person’s Guide to Plain Text Social Science”&lt;/a&gt;, de Kieran Healy en su última version 2019. Para mi gusto uno de los libros inspiradores sobre las implicancias para la escritura del trabajo académico abierto, y escrito por un gran sociólogo.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Y el cuarto es &lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/&#34;&gt;R Markdown: The definitive guide&lt;/a&gt;, de Yihui Xie, J. J. Allaire &amp;amp; Garrett Grolemund (2019). Abarca los detalles del proceso de investigación reproducible vinculando escritura y análisis, pero con mucho énfasis en publicación y presentación de resultados.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;El detalle de otras lecturas sugeridas para cada clase aparece en la página de &lt;a href=&#34;/schedule/&#34;&gt;Planificación&lt;/a&gt;) de las sesiones.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;software&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Software&lt;/h2&gt;
+&lt;p&gt;Como software de escritorio vamos a utilizar R/Rstudio y Git/Github. Rstudio avanza cada vez más hacia un editor generalizado de texto, con funciones que van mucho más allá del análisis de datos. Si bien me parece apropiado para el curso, corresponde decir que la opción por editores también es algo abierto, sobre todo en un curso que tiene que ver con apertura. Otros editores muy usados son [Emacs]&lt;a href=&#34;https://www.gnu.org/software/emacs/&#34; class=&#34;uri&#34;&gt;https://www.gnu.org/software/emacs/&lt;/a&gt;, &lt;a href=&#34;https://www.sublimetext.com/&#34;&gt;Sublime&lt;/a&gt; y &lt;a href=&#34;https://atom.io/&#34;&gt;Atom&lt;/a&gt;. Si a alguien le interesa podemos hacer alguna sesión adicional sobre Atom, que es el editor que yo uso.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;planificación-de-las-sesiones-y-materiales-respectivos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Planificación de las sesiones y materiales respectivos&lt;/h2&gt;
+&lt;p&gt;Consultar la página &lt;a href=&#34;/schedule/&#34;&gt;Planificación&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

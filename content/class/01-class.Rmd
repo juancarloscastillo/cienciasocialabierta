@@ -25,7 +25,18 @@ editor_options:
 <iframe src=/slides/01-programa/01_csa_programa.html height="500" width="775">
 </iframe>
 
-Acceso en pantalla completa [AQUÍ](/slides/01-programa/01_csa_programa.html) 
+Acceso en pantalla completa [AQUÍ](/slides/01-programa/01_csa_programa.html)
+
+## Video sesión 1
+
+<div style="width: 100%; height: 600px; overflow: hidden;">
+<video  style="width: 100%;" controls>
+<source src="https://www.dropbox.com/s/d4uh7ozdlerf40i/sesion1_sca.mp4?raw=1" type="video/mp4">
+</video>
+</div>
+
+
+
 
 --
 

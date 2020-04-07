@@ -20,7 +20,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-
+ 
 La tarea para esta primera semana es simple, y apropiada para tiempos de cuarentena: ver un documental, y un video breve
 
 El documental se asocia a la primera crisis del quehacer científico comentada en clases: crisis de acceso. Se llama **"Paywall"**, y aborda con detalle las características e implicancias de las barreras de pago hacia el conocimiento científico, lo que ha impulsado fuertemente movimientos y políticas de ciencia abierta. Lo pueden encontrar en la siguiente dirección: [https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/](https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/), desde donde se puede ver con subtítulos en español.

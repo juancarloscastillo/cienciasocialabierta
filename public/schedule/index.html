@@ -274,6 +274,46 @@
   <meta name="msapplication-TileColor" content="#FFFFFF" />
   <meta name="msapplication-TileImage" content="/img/mstile-144x144.png" />
 
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">
+  <link rel="stylesheet" href="github-activity-0.1.5.min.css">
+
+  <script src="//code.jquery.com/jquery-1.11.0.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
+  <script type="text/javascript" src="github-activity-0.1.5.min.js"></script>
+  <script>
+    function updateFeed(username) {
+      GitHubActivity.feed({ username: username, selector: '#feed' });
+    }
+
+    $(document).ready(function() {
+      updateFeed('caseyscarborough');
+
+      $('#update').click(function() { updateFeed($("#username").val()); });
+      $("#username").keypress(function(e) {
+        if (e.which === 13) {
+          updateFeed($("#username").val());
+        }
+      });
+    });
+  </script>
+  <style>
+    html, body {
+      width: 100%;
+      height: 100%;
+    }
+
+    body {
+      padding: 20px;
+      font-family: 'Helvetica', 'Arial';
+    }
+
+    #feed {
+      width: 700px;
+      height: 600px;
+      margin: 30px 0;
+    }
+  </style>
+
 
   <title>Planificación | Ciencia Social Abierta</title>
 

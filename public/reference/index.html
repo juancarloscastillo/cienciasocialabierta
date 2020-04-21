@@ -265,6 +265,46 @@
   <meta name="msapplication-TileColor" content="#FFFFFF" />
   <meta name="msapplication-TileImage" content="/img/mstile-144x144.png" />
 
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">
+  <link rel="stylesheet" href="github-activity-0.1.5.min.css">
+
+  <script src="//code.jquery.com/jquery-1.11.0.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
+  <script type="text/javascript" src="github-activity-0.1.5.min.js"></script>
+  <script>
+    function updateFeed(username) {
+      GitHubActivity.feed({ username: username, selector: '#feed' });
+    }
+
+    $(document).ready(function() {
+      updateFeed('caseyscarborough');
+
+      $('#update').click(function() { updateFeed($("#username").val()); });
+      $("#username").keypress(function(e) {
+        if (e.which === 13) {
+          updateFeed($("#username").val());
+        }
+      });
+    });
+  </script>
+  <style>
+    html, body {
+      width: 100%;
+      height: 100%;
+    }
+
+    body {
+      padding: 20px;
+      font-family: 'Helvetica', 'Arial';
+    }
+
+    #feed {
+      width: 700px;
+      height: 600px;
+      margin: 30px 0;
+    }
+  </style>
+
 
   <title>Referencias | Ciencia Social Abierta</title>
 
@@ -509,8 +549,73 @@
   
   <div class="article-style">
 
+<div id="TOC">
+<ul>
+<li><a href="#sobre-acceso">Sobre acceso:</a></li>
+<li><a href="#sobre-reproducibilidad-y-transparencia">Sobre reproducibilidad y transparencia</a></li>
+<li><a href="#plataformas-y-sitios-web">Plataformas y sitios web:</a></li>
+</ul>
+</div>
 
-<p>Aquí próximamente links y material complementario</p>
+<p>Abajo se presentan algunas referencias comentadas, ordenadas en las áreas de acceso y de reproducibilidad.</p>
+<div id="sobre-acceso" class="section level2">
+<h2>Sobre acceso:</h2>
+<ul>
+<li><p>Película <a href="https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/">Paywall</a> (desde esta dirección se puede ver con subtítulos en español).</p></li>
+<li><p><a href="%5Bhttp://redc.revistas.csic.es/index.php/redc/article/view/789/923">Políticas de acceso abierto a la ciencia en las universidades españolas</a>, de Abadal et al 2013. En este artículo se investiga el estado del acceso abierto en una serie de instituciones de educación superior en España. No es muy reciente, pero me parece inspirador para realizar algo similar en Chile (… por si alguien se anima).</p></li>
+<li><p>Nota sobre <a href="https://www.derechosdigitales.org/8067/la-evolucion-del-open-access-en-chile/">La evolución del open access en Chile</a> en Derechos Digitales (2014).</p></li>
+<li><p>Nota sobre <a href="https://www.bcn.cl/observatorio/europa/noticias/open-access-2013-acceso-abierto-y-libre-a-la-informacion">Open Access – Acceso abierto y libre a la Información</a>, de la Biblioteca del Congreso de Chile (2015).</p></li>
+<li><p><a href="https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt">Guerrilla Open Access Manifesto</a>, de Aaron Swartz (2013). También está el <a href="https://www.youtube.com/watch?v=VBkD04z-8V8">documental sobre Aaron Swartz</a>.</p></li>
+</ul>
+</div>
+<div id="sobre-reproducibilidad-y-transparencia" class="section level2">
+<h2>Sobre reproducibilidad y transparencia</h2>
+<ul>
+<li><a href="https://science.sciencemag.org/content/348/6242/1422">Promoting an open research culture</a>, de Nosek et al (2015). Este artículo es una referencia fundamental, ya que propone una serie de estándares de transparencia y apertura en ciencia conocidos como TOP (Transparency and Openness Promotion guidelines), que son 8 y donde cada uno tiene tres niveles:</li>
+</ul>
+<p><img src="/images/top.jpg" /></p>
+<ul>
+<li><p>En la misma línea del anterior está el artículo de Aczel et al (2020) <a href="https://www.nature.com/articles/s41562-019-0772-6">A consensus-based transparency checklist</a>, tiene asociado un <a href="http://www.shinyapps.org/apps/TransparencyChecklist/">sitio web</a> donde se está la lista de checkeo que se puede aplicar a las investigaciones.</p></li>
+<li><p>The <a href="https://kieranhealy.org/files/papers/plain-person-text.pdf">Plain Person’s guide to Plain Text Social Science</a> (La “Guía de texto simple para personas simples en ciencias sociales”), de Kieran Healey. Este texto se enfoca en un aspecto central de la reproducibilidad del trabajo académico, que es la escritura. El argumento central es que para trabajar de manera reproducible y transparente hay que escribir en un formato simple, que es el texto simple o texto plano (plain text). Para ello, desarrolla una serie de herramientas interconectadas (como markdown, knitr, pandoc y bibtex), que veremos durante este curso y que se resumen en este esquema:</p></li>
+</ul>
+<p><img src="/images/healey_plain.png" /></p>
+<ul>
+<li><p>Cómo mejorar su relación con su futuro yo (<a href="https://scielo.conicyt.cl/pdf/revcipol/v36n3/art11.pdf">How to improve your relationship with your future self</a>), de Bowers &amp; Voors. Este ensayo ofrece consejos prácticos sobre cómo efectuar análisis de datos y escritura científica de forma transparente y reproducible. Se argumenta que organizar la investigación de esta manera en tiempo presente no sólo mejorará la acumulación de conocimientos dentro de una disciplina, sino que también mejorará la vida académica futura del/a investigador/a. El argumento está organizado en torno a una serie de lecciones que conducen a acciones concretas:</p>
+<ul>
+<li><ol style="list-style-type: decimal">
+<li>El análisis de datos es programación computacional.</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: decimal">
+<li>Ningún analista de datos es una isla por mucho tiempo.</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: decimal">
+<li>El territorio del análisis de datos requiere del uso de mapas.</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: decimal">
+<li>El control de versiones evita la superposición de versiones, la reconciliación del historial y favorece la organización del trabajo.</li>
+</ol></li>
+<li><ol start="5" style="list-style-type: decimal">
+<li>La prueba minimiza el error.</li>
+</ol></li>
+<li><ol start="6" style="list-style-type: decimal">
+<li>El trabajo * puede* ser reproducible.</li>
+</ol></li>
+<li><ol start="7" style="list-style-type: decimal">
+<li>La investigación debe ser una comunicación creíble.</li>
+</ol></li>
+</ul></li>
+<li><p><a href="https://blog.scielo.org/es/2014/02/27/la-reproducibilidad-en-los-resultados-de-investigacion-la-punta-del-iceberg/#.Xp8AvHX0lhE">La reproducibilidad en los resultados de investigación: la punta del iceberg</a>, de Lilian Nassi-Calò.</p></li>
+</ul>
+</div>
+<div id="plataformas-y-sitios-web" class="section level2">
+<h2>Plataformas y sitios web:</h2>
+<ul>
+<li><a href="https://osf.io/">Open Science Framework</a>.</li>
+<li><a href="https://www.projecttier.org">TIER protocol</a>.</li>
+<li><a href="https://www.bitss.org/">BITSS - Berkeley Initiative for Transparency in the Social Sciences</a>.</li>
+<li><a href="https://socopen.org/">SocArxiv</a>.</li>
+</ul>
+</div>
 </div>
   
 

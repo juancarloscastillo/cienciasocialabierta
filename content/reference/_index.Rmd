@@ -12,7 +12,7 @@ Abajo se presentan algunas referencias comentadas, ordenadas en las áreas de ac
 
 - Película [Paywall](https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/) (desde esta dirección se puede ver con subtítulos en español).
 
-- [Políticas de acceso abierto a la ciencia en las universidades españolas]([http://redc.revistas.csic.es/index.php/redc/article/view/789/923), de Abadal et al 2013. En este artículo se investiga el estado del acceso abierto en una serie de instituciones de educación superior en España. No es muy reciente, pero me parece inspirador para realizar algo similar en Chile (... por si alguien se anima).
+- [Políticas de acceso abierto a la ciencia en las universidades españolas](http://redc.revistas.csic.es/index.php/redc/article/view/789/923), de Abadal et al 2013. En este artículo se investiga el estado del acceso abierto en una serie de instituciones de educación superior en España. No es muy reciente, pero me parece inspirador para realizar algo similar en Chile (... por si alguien se anima).
 
 - Nota sobre [La evolución del open access en Chile](https://www.derechosdigitales.org/8067/la-evolucion-del-open-access-en-chile/) en Derechos Digitales (2014).
 

@@ -7,7 +7,7 @@ output:
 ---
 
 Abajo se presentan algunas referencias comentadas, ordenadas en las áreas de acceso y de reproducibilidad.
-
+ 
 ## Sobre acceso:
 
 - Película [Paywall](https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/) (desde esta dirección se puede ver con subtítulos en español).

@@ -46,10 +46,10 @@ h1, h2, h3 {
     font-size: 65px;
 }
 .remark-slide-content h2 {
-    font-size: 45px;
+    font-size: 55px;
 }
 .remark-slide-content h3 {
-    font-size: 35px;
+    font-size: 45px;
 }
 .remark-code, .remark-inline-code {
   font-family: 'Source Code Pro', 'Lucida Console', Monaco, monospace;

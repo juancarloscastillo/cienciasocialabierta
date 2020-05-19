@@ -24,7 +24,7 @@ editor_options:
 
 <span class="sidenote">Para ver en pantalla completa click [**aquí**](/slides/03-textoplano/03_textoplano.html). Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. </span>
 
-<iframe src=/slides/02-reproducibilidad/02_reproducibilidad.html  height="550" width=100% allowfullscreen="true">
+<iframe src=/slides/03-textoplano/03_textoplano.html  height="550" width=100% allowfullscreen="true">
 </iframe>
 
 ## Video clase
@@ -38,6 +38,3 @@ editor_options:
 ## Lecturas
 
 - [Capítulo Lenguaje reproducible, secciones 1.1 y 1.2, libro Investigación Social Abierta](https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html)
-
-
---

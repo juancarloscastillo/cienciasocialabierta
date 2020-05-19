@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Course materials | Ciencia Social Abierta</title>
-    <link>https://cienciasocialabierta.netlify.com/</link>
-      <atom:link href="https://cienciasocialabierta.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Course materials</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <image>
-      <url>https://cienciasocialabierta.netlify.com/img/social-image.png</url>
+      <url>/img/social-image.png</url>
       <title>Course materials</title>
-      <link>https://cienciasocialabierta.netlify.com/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Introducción</title>
-      <link>https://cienciasocialabierta.netlify.com/class/01-class/</link>
+      <link>/class/01-class/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/class/01-class/</guid>
+      <guid>/class/01-class/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
@@ -32,9 +32,9 @@
 
 &lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/01-programa/01_csa_programa.html&#34; height=&#34;500&#34; width=&#34;775&#34;&gt;
+&lt;iframe src=&#34;/slides/01-programa/01_csa_programa.html&#34; height=&#34;500&#34; width=&#34;775&#34;&gt;
 &lt;/iframe&gt;
-&lt;p&gt;Acceso en pantalla completa &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/01-programa/01_csa_programa.html&#34;&gt;AQUÍ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Acceso en pantalla completa &lt;a href=&#34;/slides/01-programa/01_csa_programa.html&#34;&gt;AQUÍ&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;video-sesión-1&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Video sesión 1&lt;/h2&gt;
@@ -57,9 +57,9 @@
     
     <item>
       <title>Hacia una ciencia abierta</title>
-      <link>https://cienciasocialabierta.netlify.com/class/02-class/</link>
+      <link>/class/02-class/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/class/02-class/</guid>
+      <guid>/class/02-class/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
@@ -74,8 +74,8 @@
 
 &lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/02-reproducibilidad/02_reproducibilidad.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/02-reproducibilidad/02_reproducibilidad.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/02-reproducibilidad/02_reproducibilidad.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;/slides/02-reproducibilidad/02_reproducibilidad.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
@@ -96,9 +96,9 @@
     
     <item>
       <title>Escritura en texto simple</title>
-      <link>https://cienciasocialabierta.netlify.com/class/03-class/</link>
+      <link>/class/03-class/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/class/03-class/</guid>
+      <guid>/class/03-class/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
@@ -114,8 +114,8 @@
 
 &lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/03-textoplano/03_textoplano.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/03-textoplano/03_textoplano.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/03-textoplano/03_textoplano.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;/slides/03-textoplano/03_textoplano.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
@@ -137,9 +137,9 @@
     
     <item>
       <title>Práctica 1</title>
-      <link>https://cienciasocialabierta.netlify.com/assignment/01-code/</link>
+      <link>/assignment/01-code/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/assignment/01-code/</guid>
+      <guid>/assignment/01-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
@@ -154,9 +154,9 @@
     
     <item>
       <title>Práctica 2</title>
-      <link>https://cienciasocialabierta.netlify.com/assignment/02-code/</link>
+      <link>/assignment/02-code/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/assignment/02-code/</guid>
+      <guid>/assignment/02-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
@@ -165,7 +165,7 @@
 &lt;p&gt;La práctica para esta semana consiste en generar un documento en Markdown. Para eso:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;revisar video tutorial de la sesión 3 sobre escritura en texto simple&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;leer capítulo sobre Markdown en libro Investigación Social Abierta (este libro es todavía un proyecto, espero esté listo a fin de semestre, pero hay algunos capítulos que vamos a ir usando)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;leer capítulo sobre Markdown en libro &lt;a href=&#34;https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html&#34;&gt;Investigación Social Abierta&lt;/a&gt; (este libro es todavía un proyecto, espero esté listo a fin de semestre, pero hay algunos capítulos que vamos a ir usando)&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;con esto, crear un archivo Markdown en RStudio y probar las distintas marcas de edición.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Anotar preguntas y comentarios, y los discutimos la próxima sesión.&lt;/p&gt;
@@ -174,9 +174,9 @@
     
     <item>
       <title>Truth, Beauty, and Data</title>
-      <link>https://cienciasocialabierta.netlify.com/reading/01-reading/</link>
+      <link>/reading/01-reading/</link>
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/reading/01-reading/</guid>
+      <guid>/reading/01-reading/</guid>
       <description>
 
 
@@ -192,9 +192,9 @@
     
     <item>
       <title>Planificación</title>
-      <link>https://cienciasocialabierta.netlify.com/schedule/</link>
+      <link>/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/schedule/</guid>
+      <guid>/schedule/</guid>
       <description>
 
 
@@ -222,7 +222,7 @@
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;31&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/01-class&#34;&gt;&lt;strong&gt;1. Presentación&lt;/strong&gt;&lt;/a&gt; &lt;br&gt; - Programa y forma de trabajo &lt;br/&gt; - La crisis de la ciencia cerrada&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/class/01-class&#34;&gt;&lt;strong&gt;1. Presentación&lt;/strong&gt;&lt;/a&gt; &lt;br&gt; - Programa y forma de trabajo &lt;br/&gt; - La crisis de la ciencia cerrada&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/&#34;&gt;Película Paywall&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://doi.org/10.1126/science.aab2374&#34;&gt;Nosek, B. A. et al (2015). Promoting an open research culture. Science, 348(6242), 1422–1425.&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -234,7 +234,7 @@
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;12&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/02-class&#34;&gt;&lt;strong&gt;2. Hacia una ciencia abierta&lt;/strong&gt;&lt;/a&gt; &lt;br&gt; • apertura &lt;br&gt; • reproducibilidad &lt;br&gt; • accesibilidad&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/class/02-class&#34;&gt;&lt;strong&gt;2. Hacia una ciencia abierta&lt;/strong&gt;&lt;/a&gt; &lt;br&gt; • apertura &lt;br&gt; • reproducibilidad &lt;br&gt; • accesibilidad&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://blog.scielo.org/es/2014/02/27/la-reproducibilidad-en-los-resultados-de-investigacion-la-punta-del-iceberg/&#34;&gt;Nassi-Calo (2014) La reproducibilidad en los resultados de investigación&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -318,14 +318,15 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;p&gt;{{ template &#34;_internal/disqus.html&#34; . }}&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Programa</title>
-      <link>https://cienciasocialabierta.netlify.com/programa/</link>
+      <link>/programa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/programa/</guid>
+      <guid>/programa/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -437,7 +438,7 @@
 &lt;li&gt;&lt;p&gt;El tercero es más específico para la Unidad 2 sobre escritura en texto plano: &lt;a href=&#34;https://kieranhealy.org/files/papers/plain-person-text.pdf&#34;&gt;“The Plain Person’s Guide to Plain Text Social Science”&lt;/a&gt;, de Kieran Healy en su última version 2019. Para mi gusto uno de los libros inspiradores sobre las implicancias para la escritura del trabajo académico abierto, y escrito por un gran sociólogo.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Y el cuarto es &lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/&#34;&gt;R Markdown: The definitive guide&lt;/a&gt;, de Yihui Xie, J. J. Allaire &amp;amp; Garrett Grolemund (2019). Abarca los detalles del proceso de investigación reproducible vinculando escritura y análisis, pero con mucho énfasis en publicación y presentación de resultados.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;El detalle de otras lecturas sugeridas para cada clase aparece en la página de &lt;a href=&#34;https://cienciasocialabierta.netlify.com/schedule/&#34;&gt;Planificación&lt;/a&gt;) de las sesiones.&lt;/p&gt;
+&lt;p&gt;El detalle de otras lecturas sugeridas para cada clase aparece en la página de &lt;a href=&#34;/schedule/&#34;&gt;Planificación&lt;/a&gt;) de las sesiones.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;software&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Software&lt;/h2&gt;
@@ -445,7 +446,7 @@
 &lt;/div&gt;
 &lt;div id=&#34;planificación-de-las-sesiones-y-materiales-respectivos&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Planificación de las sesiones y materiales respectivos&lt;/h2&gt;
-&lt;p&gt;Consultar la página &lt;a href=&#34;https://cienciasocialabierta.netlify.com/schedule/&#34;&gt;Planificación&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Consultar la página &lt;a href=&#34;/schedule/&#34;&gt;Planificación&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>

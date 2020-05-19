@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prácticas | Ciencia Social Abierta</title>
-    <link>https://cienciasocialabierta.netlify.com/assignment/</link>
-      <atom:link href="https://cienciasocialabierta.netlify.com/assignment/index.xml" rel="self" type="application/rss+xml" />
+    <link>/assignment/</link>
+      <atom:link href="/assignment/index.xml" rel="self" type="application/rss+xml" />
     <description>Prácticas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <image>
-      <url>https://cienciasocialabierta.netlify.com/img/social-image.png</url>
+      <url>/img/social-image.png</url>
       <title>Prácticas</title>
-      <link>https://cienciasocialabierta.netlify.com/assignment/</link>
+      <link>/assignment/</link>
     </image>
     
     <item>
       <title>Práctica 1</title>
-      <link>https://cienciasocialabierta.netlify.com/assignment/01-code/</link>
+      <link>/assignment/01-code/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/assignment/01-code/</guid>
+      <guid>/assignment/01-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
@@ -31,9 +31,9 @@
     
     <item>
       <title>Práctica 2</title>
-      <link>https://cienciasocialabierta.netlify.com/assignment/02-code/</link>
+      <link>/assignment/02-code/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/assignment/02-code/</guid>
+      <guid>/assignment/02-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
@@ -42,7 +42,7 @@
 &lt;p&gt;La práctica para esta semana consiste en generar un documento en Markdown. Para eso:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;revisar video tutorial de la sesión 3 sobre escritura en texto simple&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;leer capítulo sobre Markdown en libro Investigación Social Abierta (este libro es todavía un proyecto, espero esté listo a fin de semestre, pero hay algunos capítulos que vamos a ir usando)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;leer capítulo sobre Markdown en libro &lt;a href=&#34;https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html&#34;&gt;Investigación Social Abierta&lt;/a&gt; (este libro es todavía un proyecto, espero esté listo a fin de semestre, pero hay algunos capítulos que vamos a ir usando)&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;con esto, crear un archivo Markdown en RStudio y probar las distintas marcas de edición.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Anotar preguntas y comentarios, y los discutimos la próxima sesión.&lt;/p&gt;

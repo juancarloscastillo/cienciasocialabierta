@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Referencias | Ciencia Social Abierta</title>
-    <link>https://cienciasocialabierta.netlify.com/reference/</link>
-      <atom:link href="https://cienciasocialabierta.netlify.com/reference/index.xml" rel="self" type="application/rss+xml" />
+    <link>/reference/</link>
+      <atom:link href="/reference/index.xml" rel="self" type="application/rss+xml" />
     <description>Referencias</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <image>
-      <url>https://cienciasocialabierta.netlify.com/img/social-image.png</url>
+      <url>/img/social-image.png</url>
       <title>Referencias</title>
-      <link>https://cienciasocialabierta.netlify.com/reference/</link>
+      <link>/reference/</link>
     </image>
     
   </channel>

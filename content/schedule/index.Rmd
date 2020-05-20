@@ -10,18 +10,18 @@ slug: schedule
 31 | [**1. Presentación**](/class/01-class) <br> - Programa y forma de trabajo <br/> - La crisis de la ciencia cerrada  | [Película Paywall](https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/)  |  [Nosek, B. A. et al (2015). Promoting an open research culture. Science, 348(6242), 1422–1425.](https://doi.org/10.1126/science.aab2374)
 <font color="orange"> **MAYO** </font>  |   |   |
 12  | [**2. Hacia una ciencia abierta**](/class/02-class) <br> • apertura <br> • reproducibilidad <br> • accesibilidad  |   |  [Nassi-Calo (2014) La reproducibilidad en los resultados de investigación](http://blog.scielo.org/es/2014/02/27/la-reproducibilidad-en-los-resultados-de-investigacion-la-punta-del-iceberg/)
-19  | [**3. Introducción a la escritura en texto plano**]()   | Práctica Markdown  | [Healey (2019) The Plain Person’s Guide to Plain Text Social Science](https://plain-text.co/) <br> <br>[Introducción a Markdown](http://rusersgroup.com/blog/rmarkdown) <br> [Capítulo Lenguaje reproducible, secciones 1.1 y 1.2, libro Investigación Social Abierta](https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html)
-26  | [**4. Documentos dinámicos**]()  | Práctica Knitr  | [Bowers & Voors (2016) How to improve your relationship with your future self](https://scielo.conicyt.cl/pdf/revcipol/v36n3/art11.pdf)<br><br> [Hoja referencia Rmarkdown](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf)
+19  | [**3. Introducción a la escritura en texto plano**](/class/03-class)   | [Práctica Markdown](/assignment/02-code)  | [Healey (2019) The Plain Person’s Guide to Plain Text Social Science](https://plain-text.co/) <br> <br>[Introducción a Markdown](http://rusersgroup.com/blog/rmarkdown) <br> [Capítulo Lenguaje reproducible, secciones 1.1 y 1.2, libro Investigación Social Abierta](https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html)
+26  | [**4. Documentos dinámicos**](/class/04-class)  | Práctica Knitr  | [Bowers & Voors (2016) How to improve your relationship with your future self](https://scielo.conicyt.cl/pdf/revcipol/v36n3/art11.pdf)<br><br> [Hoja referencia Rmarkdown](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf)
 <font color="orange"> **JUNIO** </font> |   |   |
-2  | [**5. Citando en texto plano: Zotero/Bibtex**]()  | Práctica Zotero / BetterBibTex | [Zotero](https://www.zotero.org/)
-9 | [**6. Proyectos reproducibles y abiertos**]()  | Práctica OSF <br><br> **Entrega trabajo 1**: Documento abierto y transparente  | [OSF](https://osf.io/)
-16 | [**7. Flujo de trabajo reproducible**]()  | Práctica IPO    | [IPO](https://juancarloscastillo.github.io/ipo/) <br> [TIER](https://www.projecttier.org/)
-23 | [**8. Control de versiones**]()   | Práctica Git    | [Git](https://git-scm.com/)
-30  | [**9. Versionamiento y colaboración**]()  | Práctica Gihub  <br> <br> **Entrega trabajo 2**: Proyecto reproducible |[Github](https://github.com/)
+2  | [**5. Citando en texto plano: Zotero/Bibtex**](/class/05-class)  | Práctica Zotero / BetterBibTex | [Zotero](https://www.zotero.org/)
+9 | [**6. Proyectos reproducibles y abiertos**](/class/06-class)  | Práctica OSF <br><br> **Entrega trabajo 1**: Documento abierto y transparente  | [OSF](https://osf.io/)
+16 | [**7. Flujo de trabajo reproducible**](/class/07-class)  | Práctica IPO    | [IPO](https://juancarloscastillo.github.io/ipo/) <br> [TIER](https://www.projecttier.org/)
+23 | [**8. Control de versiones**](/class/08-class)   | Práctica Git    | [Git](https://git-scm.com/)
+30  | [**9. Versionamiento y colaboración**](/class/09-class)  | Práctica Gihub  <br> <br> **Entrega trabajo 2**: Proyecto reproducible |[Github](https://github.com/)
 <font color="orange"> **JULIO** </font> |   |   |
-7 | [**10. Pre-prints / Curatoría de datos**]()  | Práctica Preprints | [SocArxiv](https://socopen.org/)
-14  | [**11. Publicación web** ]() | Practica Github Pages  | [Github pages](https://pages.github.com/) <br> [blogdown](https://bookdown.org/yihui/blogdown/)
-21  | [**12. Xaringan (bonus track)**]()  | Práctica presentaciones con Xaringan <br> | [Xaringan](https://slides.yihui.org/xaringan/#1)
+7 | [**10. Pre-prints / Curatoría de datos**](/class/10-class)  | Práctica Preprints | [SocArxiv](https://socopen.org/)
+14  | [**11. Publicación web** ](/class/11-class) | Practica Github Pages  | [Github pages](https://pages.github.com/) <br> [blogdown](https://bookdown.org/yihui/blogdown/)
+21  | [**12. Xaringan (bonus track)**](/class/12-class)  | Práctica presentaciones con Xaringan <br> | [Xaringan](https://slides.yihui.org/xaringan/#1)
 28  |   | **Entrega trabajo 3**: Pre-print y publicación   |
 
 {{ template "_internal/disqus.html" . }}

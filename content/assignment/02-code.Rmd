@@ -24,7 +24,7 @@ editor_options:
 La práctica para esta semana consiste en generar un documento en Markdown. Para eso:
 
 - revisar video tutorial de la sesión 3 sobre escritura en texto simple
-
+ 
 - leer capítulo sobre Markdown en libro [Investigación Social Abierta](https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html) (este libro es todavía un proyecto, espero esté listo a fin de semestre, pero hay algunos capítulos que vamos a ir usando)
 
 - con esto, crear un archivo Markdown en RStudio y probar las distintas marcas de edición.

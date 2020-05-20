@@ -109,6 +109,7 @@
 &lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#video-clase&#34;&gt;Video clase&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#lecturas&#34;&gt;Lecturas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 
@@ -131,6 +132,23 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html&#34;&gt;Capítulo Lenguaje reproducible, secciones 1.1 y 1.2, libro Investigación Social Abierta&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Foro&lt;/h2&gt;
+&lt;div id=&#34;disqus_thread&#34;&gt;
+
+&lt;/div&gt;
+&lt;script&gt;
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+&lt;noscript&gt;
+Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
+&lt;/noscript&gt;
 &lt;/div&gt;
 </description>
     </item>

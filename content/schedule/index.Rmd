@@ -23,5 +23,3 @@ slug: schedule
 14  | [**11. Publicación web** ](/class/11-class) | Practica Github Pages  | [Github pages](https://pages.github.com/) <br> [blogdown](https://bookdown.org/yihui/blogdown/)
 21  | [**12. Xaringan (bonus track)**](/class/12-class)  | Práctica presentaciones con Xaringan <br> | [Xaringan](https://slides.yihui.org/xaringan/#1)
 28  |   | **Entrega trabajo 3**: Pre-print y publicación   |
-
-{{ template "_internal/disqus.html" . }}

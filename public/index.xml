@@ -33,8 +33,8 @@
 
 &lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;height=&amp;quot;550&amp;quot;&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/04-docudin/04_docudin.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;/slides/04-docudin/04_docudin.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
@@ -58,6 +58,63 @@
 
 &lt;/div&gt;
 &lt;script&gt;
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+&lt;noscript&gt;
+Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
+&lt;/noscript&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Práctica RMarkdown</title>
+      <link>/assignment/03-code/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>/assignment/03-code/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#práctica&#34;&gt;Práctica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;práctica&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Práctica&lt;/h2&gt;
+&lt;p&gt;La práctica para esta semana consiste en generar un documento en RMarkdown. Para eso:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;revisar presentación de la sesión 4 sobre documentos dinámicos&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;buscar ejemplo de documento realizado en RMarkdown y replicar&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;crear un archivo en base a algún trabajo previo de análisis de datos y traspasarlo a formato RMarkdown en RStudio.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Preguntas, comentarios y experiencias en el foro abajo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Foro&lt;/h2&gt;
+&lt;div id=&#34;disqus_thread&#34;&gt;
+
+&lt;/div&gt;
+&lt;script&gt;
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
+};
+*/
 (function() { // DON&#39;T EDIT BELOW THIS LINE
 var d = document, s = d.createElement(&#39;script&#39;);
 s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
@@ -359,7 +416,7 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;26&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;/class/04-class&#34;&gt;&lt;strong&gt;4. Documentos dinámicos&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Práctica Knitr&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/assignment/03-code&#34;&gt;Práctica Knitr&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://scielo.conicyt.cl/pdf/revcipol/v36n3/art11.pdf&#34;&gt;Bowers &amp;amp; Voors (2016) How to improve your relationship with your future self&lt;/a&gt;&lt;br&gt;&lt;br&gt; &lt;a href=&#34;https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf&#34;&gt;Hoja referencia Rmarkdown&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;

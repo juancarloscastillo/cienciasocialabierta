@@ -1,0 +1,59 @@
+---
+title: "Práctica RMarkdown"
+linktitle: "Práctica RMarkdown"
+date: "2020-05-26"
+class_date: "2020-05-26"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+output:
+  blogdown::html_page:
+    template: ../../pandoc/toc-title_html.template
+    toc: true
+menu:
+  class:
+    parent: Practicas
+    weight: 1
+type: docs
+weight: 1
+editor_options:
+  chunk_output_type: console
+---
+
+
+## Práctica
+
+La práctica para esta semana consiste en generar un documento en RMarkdown. Para eso:
+
+- revisar presentación de la sesión 4 sobre documentos dinámicos
+
+- buscar ejemplo de documento realizado en RMarkdown y replicar
+
+- crear un archivo en base a algún trabajo previo de análisis de datos y traspasarlo a formato RMarkdown en RStudio.
+
+
+Preguntas, comentarios y experiencias en el foro abajo.
+
+## Foro
+
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://cienciasocialabierta-netlify-app.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

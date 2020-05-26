@@ -22,9 +22,9 @@ editor_options:
 
 ## Documento presentación
 
-<span class="sidenote">Para ver en pantalla completa click [**aquí**](). Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. </span>
+<span class="sidenote">Para ver en pantalla completa click [**aquí**](/slides/04-docudin/04_docudin.html). Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. </span>
 
-<iframe src=  height="550" width=100% allowfullscreen="true">
+<iframe src=/slides/04-docudin/04_docudin.html  height="550" width=100% allowfullscreen="true">
 </iframe>
 
 ## Video clase

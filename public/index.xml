@@ -85,6 +85,7 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#práctica&#34;&gt;Práctica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-ejemplo-taller&#34;&gt;Documento ejemplo / taller&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
@@ -96,6 +97,14 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;li&gt;&lt;p&gt;revisar presentación de la sesión 4 sobre documentos dinámicos&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;buscar ejemplo de documento realizado en RMarkdown y replicar&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;crear un archivo en base a algún trabajo previo de análisis de datos y traspasarlo a formato RMarkdown en RStudio.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;documento-ejemplo-taller&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento ejemplo / taller&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;aquí va el &lt;a href=&#34;/assignment/taller_Rmarkdown/taller_rmarkdown.Rmd&#34;&gt;link a el documento&lt;/a&gt; para el taller del día 02 de Junio.&lt;/li&gt;
+&lt;li&gt;para el ejercicio final sobre bibliografía, bajar el &lt;a href=&#34;/assignment/taller_Rmarkdown/referencias.bib&#34;&gt;siguiente archivo &lt;code&gt;referencias.bib&lt;/code&gt;&lt;/a&gt; y guardarlo en la misma carpeta que el anterior.&lt;/li&gt;
+&lt;li&gt;el renderizado de este documento se puede ver &lt;a href=&#34;/assignment/taller_Rmarkdown/taller_rmarkdown.html&#34;&gt;aquí.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Preguntas, comentarios y experiencias en el foro abajo.&lt;/p&gt;
 &lt;/div&gt;

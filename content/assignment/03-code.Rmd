@@ -31,8 +31,13 @@ La práctica para esta semana consiste en generar un documento en RMarkdown. Par
 
 - crear un archivo en base a algún trabajo previo de análisis de datos y traspasarlo a formato RMarkdown en RStudio.
 
+## Documento ejemplo / taller
 
-Preguntas, comentarios y experiencias en el foro abajo.
+- aquí va el [link a el documento](/assignment/taller_Rmarkdown/taller_rmarkdown.Rmd) para el taller del día 02 de Junio.
+- para el ejercicio final sobre bibliografía, bajar el [siguiente archivo `referencias.bib`](/assignment/taller_Rmarkdown/referencias.bib) y guardarlo en la misma carpeta que el anterior.
+- el renderizado de este documento se puede ver [aquí.](/assignment/taller_Rmarkdown/taller_rmarkdown.html)
+
+Preguntas, comentarios y experiencias en el foro abajo. 
 
 ## Foro
 

@@ -1,0 +1,88 @@
+---
+title: "Ejercicio citando en Texto Plano"
+output:
+  html_document:
+    highlight: tango # probar espresso
+    number_sections: TRUE # numera las secciones y subsecciones
+bibliography: referencias.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+# Este es el chunk de setup, opciones generales de chunks, se recomienda!
+
+knitr::opts_chunk$set(cache=FALSE, # guarda renderizaciones parciales, ahorra tiempo
+                      warning = FALSE, # evita publicar advertencias
+                      message = FALSE) # evita publicar mensajes
+
+Sys.setlocale("LC_ALL","ES_ES.UTF-8") # para temas de caracteres en español, recomendable
+```
+
+# Archivos para realizar el ejercicio
+
+Bajar los siguientes archivos:
+
+- [ejercicio_citandoplano.Rmd]("https://cienciasocialabierta.netlify.app/assignment/taller_citandoplano/ejercicio_citandoplano.Rmd") (este mismo archivo)
+
+- [archivo ejemplo de bibliografía]("https://cienciasocialabierta.netlify.app/assignment/taller_citandoplano/referencias.bib")
+
+
+# Introducción
+
+Este documento RMarkdown incluye un vínculo a un archivo de bibliografía de ejemplo `referencias.bib`. Para vincular el archivo de referencias a este documento RMarkdown basta con identificarlo en el preámbulo (o YAML, ver arriba en el documento .Rmd) de la siguiente manera:
+
+`bibliography: referencias.bib`
+
+Este archivo de ejemplo tiene 3 referencias, se puede visualizar también acá en RStudio (... es texto plano).
+
+# Citando
+
+Ver el siguiente ejemplo, y luego observar el resultado al renderizar en html. Para que funcione, 
+
+- guardar el archivo de ejemplo referencias.bib en el mismo directorio del .Rmd
+- el directorio de trabajo debe establecerse donde están ambos archivos. Para eso, luego de abrir el archivo Rmd: Session -> Set working Directory -> To Source File Location
+
+(más sobre directorio de trabajo y rutas a archivos en la parte siguiente de este curso)
+
+Ahora sí el ejemplo:
+
+---
+
+Como dicen @kocer_does_2012, la educación afecta las opiniones sobre la desigualdad económica. Sin embargo esto ha sido refutado por algunos autores [@kluegel_subjective_1977-1; @knight_luck_2009]
+
+
+---
+
+Al insertar estas citas se producen 2 cosas en el renderizado:
+
+1) Aparecen en el párrafo en sus variantes dentro o fuera del paréntesis 
+
+2) Aparecen automáticamente abajo en la bibliografía
+
+
+Además, en el YAML se encuentra la opción `link-citations: yes`, que genera un link desde el año de la cita hacia la referencia completa en la bibliografía.
+
+
+# Probar incorporación de citas
+
+- instalar librería `citr` (`install.packages("citr"))
+
+- probar insertar citas vía el menú de RStudio "Addins"
+
+# Cambiando el formato
+
+El formato en que aparecen las citas es Chicago, que es el que RMarkdown usa por defecto. Este formato se puede cambiar a cualquier formato estándar que tenga disponible un archivo .csl, que son los que contienen las opciones de formato. 
+
+Ejemplo de cambio de formato: un formato popular en ciencias sociales es el APA (American Psychological Association). Para poder usarlo:
+
+- bajarlo a la misma carpeta de trabajo desde el [repositorio de formatos de Zotero](https://www.zotero.org/styles). Recomiendo bajar "American Psychological Association 7th edition"a 
+
+- agregar el vínculo a este estilo en el YAML de la siguiente manera: `csl: apa.cls`
+
+- comprobar el resultado al renderizar
+
+  
+# Bibliografía
+
+
+

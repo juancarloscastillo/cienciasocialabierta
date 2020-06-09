@@ -15,13 +15,14 @@ slug: schedule
 <font color="orange"> **JUNIO** </font> |   |   |
 2  | Práctica-Taller RMarkdown  |   |   |
 9  | [**5. Citando en texto plano: Zotero/Bibtex**](/class/05-class)  | Práctica Zotero / BetterBibTex | [Zotero](https://www.zotero.org/)
-16| [**6. Proyectos reproducibles y abiertos**](/class/06-class)  | Práctica OSF <br><br> **Entrega trabajo 1**: Documento abierto y transparente  | [OSF](https://osf.io/)
-23 | [**7. Flujo de trabajo reproducible**](/class/07-class)  | Práctica IPO    | [IPO](https://juancarloscastillo.github.io/ipo/) <br> [TIER](https://www.projecttier.org/)
-30 | [**8. Control de versiones**](/class/08-class)   | Práctica Git    | [Git](https://git-scm.com/)
+16  | Semana de receso  |   |
+23| [**6. Proyectos reproducibles y abiertos**](/class/06-class)  | Práctica OSF <br><br> **Entrega trabajo 1**: Documento abierto y transparente  | [OSF](https://osf.io/)
+30 | [**7. Flujo de trabajo reproducible**](/class/07-class)  | Práctica IPO    | [IPO](https://juancarloscastillo.github.io/ipo/) <br> [TIER](https://www.projecttier.org/)
 <font color="orange"> **JULIO** </font> |   |   |
-7 | [**9. Versionamiento y colaboración**](/class/09-class)  | Práctica Gihub  <br> <br> **Entrega trabajo 2**: Proyecto reproducible |[Github](https://github.com/)
-14 | [**10. Pre-prints / Curatoría de datos**](/class/10-class)  | Práctica Preprints | [SocArxiv](https://socopen.org/)
-21  | [**11. Publicación web** ](/class/11-class) | Practica Github Pages  | [Github pages](https://pages.github.com/) <br> [blogdown](https://bookdown.org/yihui/blogdown/)
-28  | [**12. Xaringan (bonus track)**](/class/12-class)  | Práctica presentaciones con Xaringan <br> | [Xaringan](https://slides.yihui.org/xaringan/#1)
+7 | [**8. Control de versiones**](/class/08-class)   | Práctica Git    | [Git](https://git-scm.com/)
+14 | [**9. Versionamiento y colaboración**](/class/09-class)  | Práctica Gihub  <br> <br> **Entrega trabajo 2**: Proyecto reproducible |[Github](https://github.com/)
+21  | Semana de receso  |   |
+28 | [**10. Pre-prints / Curatoría de datos**](/class/10-class)  | Práctica Preprints | [SocArxiv](https://socopen.org/)
 <font color="orange"> **AGOSTO** </font> |   |   |
-4  |   | **Entrega trabajo 3**: Pre-print y publicación   |
+4| [**11. Publicación web** ](/class/11-class) | Practica Github Pages  | [Github pages](https://pages.github.com/) <br> [blogdown](https://bookdown.org/yihui/blogdown/)
+11  | [**12. Xaringan (bonus track)**](/class/12-class)  | Práctica presentaciones con Xaringan <br> **Entrega trabajo 3**: Pre-print y publicación  | [Xaringan](https://slides.yihui.org/xaringan/#1)

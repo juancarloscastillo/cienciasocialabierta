@@ -32,10 +32,10 @@ editor_options:
 - probar en un documento propio
 
 
-## Archivos para ejercicio 
+## Archivos para ejercicio
 
-- aquí va el [link al documento Rmd para realizar el ejercicio. ](/assignment/taller_citandoplano/ejercicio_citandoplano.Rmd). Seguir las instrucciones en el mismo documento. 
-El renderizado a html de este archivo se puede ver [aquí](/assignment/taller_citandoplano/ejercicio_citandoplano.html) 
+- aquí va el [link al documento Rmd para realizar el ejercicio. ](https://raw.githubusercontent.com/juancarloscastillo/cienciasocialabierta/master/static/assignment/taller_citandoplano/ejercicio_citandoplano.Rmd). Seguir las instrucciones en el mismo documento.
+El renderizado a html de este archivo se puede ver [aquí](https://github.com/juancarloscastillo/cienciasocialabierta/blob/master/static/assignment/taller_citandoplano/referencias.bib) 
 
 - bajar aquí el [archivo de bibliografía](/assignment/taller_citandoplano/referencias.bib)
 

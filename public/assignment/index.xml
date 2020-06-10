@@ -43,7 +43,7 @@
 &lt;h2&gt;Archivos para ejercicio&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;aquí va el &lt;a href=&#34;https://raw.githubusercontent.com/juancarloscastillo/cienciasocialabierta/master/static/assignment/taller_citandoplano/ejercicio_citandoplano.Rmd&#34;&gt;link al documento Rmd para realizar el ejercicio.&lt;/a&gt;. Seguir las instrucciones en el mismo documento.
-El renderizado a html de este archivo se puede ver &lt;a href=&#34;https://github.com/juancarloscastillo/cienciasocialabierta/blob/master/static/assignment/taller_citandoplano/referencias.bib&#34;&gt;aquí&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+El renderizado a html de este archivo se puede ver &lt;a href=&#34;/assignment/taller_citandoplano/ejercicio_citandoplano.html&#34;&gt;aquí&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;bajar aquí el &lt;a href=&#34;/assignment/taller_citandoplano/referencias.bib&#34;&gt;archivo de bibliografía&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;

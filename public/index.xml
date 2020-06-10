@@ -25,7 +25,7 @@
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#video-clase-próximamente-aquí&#34;&gt;Video clase (próximamente aquí)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-clase&#34;&gt;Video clase&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#lecturas-otros-recursos&#34;&gt;Lecturas &amp;amp; otros recursos&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -33,15 +33,15 @@
 
 &lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/04-docudin/04_docudin.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/05-bib/05_bib.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
 &lt;iframe src=&#34;/slides/05-bib/05_bib.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
-&lt;div id=&#34;video-clase-próximamente-aquí&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video clase (próximamente aquí)&lt;/h2&gt;
+&lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video clase&lt;/h2&gt;
 &lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
 &lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;&#34; type=&#34;video/mp4&#34;&gt;
+&lt;source src=&#34;https://www.dropbox.com/s/ms5sdrt249a83sv/sesion5.mp4?raw=1&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -103,7 +103,7 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;h2&gt;Archivos para ejercicio&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;aquí va el &lt;a href=&#34;https://raw.githubusercontent.com/juancarloscastillo/cienciasocialabierta/master/static/assignment/taller_citandoplano/ejercicio_citandoplano.Rmd&#34;&gt;link al documento Rmd para realizar el ejercicio.&lt;/a&gt;. Seguir las instrucciones en el mismo documento.
-El renderizado a html de este archivo se puede ver &lt;a href=&#34;https://github.com/juancarloscastillo/cienciasocialabierta/blob/master/static/assignment/taller_citandoplano/referencias.bib&#34;&gt;aquí&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+El renderizado a html de este archivo se puede ver &lt;a href=&#34;/assignment/taller_citandoplano/ejercicio_citandoplano.html&#34;&gt;aquí&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;bajar aquí el &lt;a href=&#34;/assignment/taller_citandoplano/referencias.bib&#34;&gt;archivo de bibliografía&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
@@ -569,7 +569,7 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;9&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;/class/05-class&#34;&gt;&lt;strong&gt;5. Citando en texto plano: Zotero/Bibtex&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Práctica Zotero / BetterBibTex&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/assignment/04-code&#34;&gt;Práctica Zotero / BetterBibTex&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.zotero.org/&#34;&gt;Zotero&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
@@ -739,7 +739,7 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/div&gt;
 &lt;div id=&#34;evaluación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Evaluación&lt;/h2&gt;
-&lt;p&gt;La evaluación consistirá en la elaboración de un reporte en el formato de artículo de investigación.&lt;/p&gt;
+&lt;p&gt;La evaluación consistirá en la elaboración de un reporte en el formato de artículo de investigación, elaborado en tres entregas parciales en las que se avanza secuencialmente en los contenidos del curso. Estas entregas son grupales, máximo 5 integrantes.&lt;/p&gt;
 &lt;div id=&#34;entrega-1-20-reporte-en-texto-plano&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Entrega 1 (20%): Reporte en texto plano&lt;/h3&gt;
 &lt;p&gt;Consiste en la entrega de un trabajo escrito en formato plano, se sugiere algún trabajo de curso previo que contemple análisis de datos y en el que se quiera avanzar en su publicación.&lt;/p&gt;

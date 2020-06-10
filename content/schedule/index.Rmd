@@ -14,7 +14,7 @@ slug: schedule
 26  | [**4. Documentos dinámicos**](/class/04-class)  | [Práctica RMarkdown/Knitr](/assignment/03-code)  | [Bowers & Voors (2016) How to improve your relationship with your future self](https://scielo.conicyt.cl/pdf/revcipol/v36n3/art11.pdf)<br><br> [Hoja referencia Rmarkdown](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf)
 <font color="orange"> **JUNIO** </font> |   |   |
 2  | Práctica-Taller RMarkdown  |   |   |
-9  | [**5. Citando en texto plano: Zotero/Bibtex**](/class/05-class)  | Práctica Zotero / BetterBibTex | [Zotero](https://www.zotero.org/)
+9  | [**5. Citando en texto plano: Zotero/Bibtex**](/class/05-class)  | [Práctica Zotero / BetterBibTex](/assignment/04-code) | [Zotero](https://www.zotero.org/)
 16  | Semana de receso  |   |
 23| [**6. Proyectos reproducibles y abiertos**](/class/06-class)  | Práctica OSF <br><br> **Entrega trabajo 1**: Documento abierto y transparente  | [OSF](https://osf.io/)
 30 | [**7. Flujo de trabajo reproducible**](/class/07-class)  | Práctica IPO    | [IPO](https://juancarloscastillo.github.io/ipo/) <br> [TIER](https://www.projecttier.org/)

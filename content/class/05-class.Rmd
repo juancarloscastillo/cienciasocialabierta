@@ -22,16 +22,16 @@ editor_options:
 
 ## Documento presentación
 
-<span class="sidenote">Para ver en pantalla completa click [**aquí**](/slides/04-docudin/04_docudin.html). Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. </span>
+<span class="sidenote">Para ver en pantalla completa click [**aquí**](/slides/05-bib/05_bib.html). Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. </span>
 
 <iframe src=/slides/05-bib/05_bib.html  height="550" width=100% allowfullscreen="true">
 </iframe>
 
-## Video clase (próximamente aquí)
+## Video clase
 
 <div style="width: 100%; height: 600px; overflow: hidden;">
 <video  style="width: 100%;" controls>
-<source src="" type="video/mp4">
+<source src="https://www.dropbox.com/s/ms5sdrt249a83sv/sesion5.mp4?raw=1" type="video/mp4">
 </video>
 </div>
 

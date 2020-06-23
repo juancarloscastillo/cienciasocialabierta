@@ -13,6 +13,68 @@
     </image>
     
     <item>
+      <title>Práctica Flujo de trabajo repdorucible</title>
+      <link>/assignment/05-code/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/assignment/05-code/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#instrucciones&#34;&gt;Instrucciones&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#archivos-para-ejercicio&#34;&gt;Archivos para ejercicio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;instrucciones&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Instrucciones&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;revisar sitio del &lt;a href=&#34;https://juancarloscastillo.github.io/ipo/index_es.html&#34;&gt;Protocolo IPO&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;bajar carpeta de ejemplo y ejecutar códigos.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;archivos-para-ejercicio&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Archivos para ejercicio&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;la carpeta de ejemplo se encuentra en el mismo sitio de IPO, pero también se puede bajar directamente &lt;a href=&#34;https://juancarloscastillo.github.io/ipo/IPO_miniex/IPO_miniex.tar.gz&#34;&gt;aquí&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Foro&lt;/h2&gt;
+&lt;p&gt;Preguntas, comentarios y experiencias en el foro abajo.&lt;/p&gt;
+&lt;div id=&#34;disqus_thread&#34;&gt;
+
+&lt;/div&gt;
+&lt;script&gt;
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
+};
+*/
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+&lt;noscript&gt;
+Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
+&lt;/noscript&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Práctica Citando en texto plano</title>
       <link>/assignment/04-code/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>

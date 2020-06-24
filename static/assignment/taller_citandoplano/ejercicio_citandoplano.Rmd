@@ -5,6 +5,7 @@ output:
     highlight: tango # probar espresso
     number_sections: TRUE # numera las secciones y subsecciones
 bibliography: referencias.bib
+csl: apa.csl
 link-citations: yes
 ---
 
@@ -25,6 +26,9 @@ Bajar los siguientes archivos:
 - [documento Rmd para realizar el ejercicio. ](https://raw.githubusercontent.com/juancarloscastillo/cienciasocialabierta/master/static/assignment/taller_citandoplano/ejercicio_citandoplano.Rmd) (este mismo archivo)
 
 - [archivo de bibliografía](/assignment/taller_citandoplano/referencias.bib)
+
+- [archivo para citar en formato APA (apa.csl)](/assignment/taller_citandoplano/apa.cls)
+
 
 
 # Introducción
@@ -48,7 +52,7 @@ Ahora sí el ejemplo:
 
 ---
 
-Como dicen @kocer_does_2012, la educación afecta las opiniones sobre la desigualdad económica. Sin embargo esto ha sido refutado por algunos autores [@kluegel_subjective_1977-1; @knight_luck_2009]
+Como dicen @kocer_does_2012 la educación afecta las opiniones sobre la desigualdad económica. Sin embargo esto ha sido refutado por algunos autores [@kluegel_subjective_1977-1; @knight_luck_2009]
 
 
 ---
@@ -61,6 +65,27 @@ Al insertar estas citas se producen 2 cosas en el renderizado:
 
 
 Además, en el YAML se encuentra la opción `link-citations: yes`, que genera un link desde el año de la cita hacia la referencia completa en la bibliografía.
+
+# Opciones de citas
+
+- Con año en paréntesis (y autores en el texto):
+
+    - `Como dicen @kocer_does_2012` resulta en: Como dicen @kocer_does_2012
+
+    
+- Completa en paréntesis: 
+
+    - `Esto ya se dijo anteriormente [@kocer_does_2012], y con más de un autor se separan por punto y coma [@kluegel_subjective_1977-1; @knight_luck_2009]` resulta en: Esto ya se dijo anteriormente [@kocer_does_2012], y con más de un autor se separan por punto y coma [@kluegel_subjective_1977-1; @knight_luck_2009]
+
+
+- Agregar número de página con año en paréntesis: el agregar página solo resulta en paréntesis cuadrado ... pero esto incluye a los autores dentro del paréntesis. Solución: sacar a los autores del parentesis con un signo "-", pero esto requiere entonces escribir a los autores a mano: 
+
+    - `Como dicen Kocer and van de Werfhorst [-@kocer_does_2012, pp.54]` resulta en: Como dicen Kocer and van de Werfhorst [-@kocer_does_2012, pp.54]
+
+- Agregar número de página en cita completa: 
+
+    - `Esto ya se dijo anteriormente [@kocer_does_2012, pp.35]` resulta en: Esto ya se dijo anteriormente [@kocer_does_2012, pp.35]
+
 
 
 # Probar incorporación de citas

@@ -338,6 +338,7 @@ summary {
 <ul>
 <li><p><a href="https://raw.githubusercontent.com/juancarloscastillo/cienciasocialabierta/master/static/assignment/taller_citandoplano/ejercicio_citandoplano.Rmd">documento Rmd para realizar el ejercicio.</a> (este mismo archivo)</p></li>
 <li><p><a href="/assignment/taller_citandoplano/referencias.bib">archivo de bibliografía</a></p></li>
+<li><p><a href="/assignment/taller_citandoplano/apa.cls">archivo para citar en formato APA</a></p></li>
 </ul>
 </div>
 <div id="introducción" class="section level1">
@@ -356,7 +357,7 @@ summary {
 <p>(más sobre directorio de trabajo y rutas a archivos en la parte siguiente de este curso)</p>
 <p>Ahora sí el ejemplo:</p>
 <hr />
-<p>Como dicen <span class="citation">Kocer and van de Werfhorst (<a href="#ref-kocer_does_2012" role="doc-biblioref">2012</a>)</span>, la educación afecta las opiniones sobre la desigualdad económica. Sin embargo esto ha sido refutado por algunos autores <span class="citation">(Kluegel, Singleton, and Starnes <a href="#ref-kluegel_subjective_1977-1" role="doc-biblioref">1977</a>; Knight <a href="#ref-knight_luck_2009" role="doc-biblioref">2009</a>)</span></p>
+<p>Como dicen <span class="citation">Kocer &amp; van de Werfhorst (<a href="#ref-kocer_does_2012" role="doc-biblioref">2012</a>)</span> la educación afecta las opiniones sobre la desigualdad económica. Sin embargo esto ha sido refutado por algunos autores <span class="citation">(Kluegel, Singleton, &amp; Starnes, <a href="#ref-kluegel_subjective_1977-1" role="doc-biblioref">1977</a>; Knight, <a href="#ref-knight_luck_2009" role="doc-biblioref">2009</a>)</span></p>
 <hr />
 <p>Al insertar estas citas se producen 2 cosas en el renderizado:</p>
 <ol style="list-style-type: decimal">
@@ -365,15 +366,36 @@ summary {
 </ol>
 <p>Además, en el YAML se encuentra la opción <code>link-citations: yes</code>, que genera un link desde el año de la cita hacia la referencia completa en la bibliografía.</p>
 </div>
+<div id="opciones-de-citas" class="section level1">
+<h1><span class="header-section-number">4</span> Opciones de citas</h1>
+<ul>
+<li><p>Con año en paréntesis (y autores en el texto):</p>
+<ul>
+<li><code>Como dicen @kocer_does_2012</code> resulta en: Como dicen <span class="citation">Kocer &amp; van de Werfhorst (<a href="#ref-kocer_does_2012" role="doc-biblioref">2012</a>)</span></li>
+</ul></li>
+<li><p>Completa en paréntesis:</p>
+<ul>
+<li><code>Esto ya se dijo anteriormente [@kocer_does_2012], y con más de un autor se separan por punto y coma [@kluegel_subjective_1977-1; @knight_luck_2009]</code> resulta en: Esto ya se dijo anteriormente <span class="citation">(Kocer &amp; van de Werfhorst, <a href="#ref-kocer_does_2012" role="doc-biblioref">2012</a>)</span>, y con más de un autor se separan por punto y coma <span class="citation">(Kluegel et al., <a href="#ref-kluegel_subjective_1977-1" role="doc-biblioref">1977</a>; Knight, <a href="#ref-knight_luck_2009" role="doc-biblioref">2009</a>)</span></li>
+</ul></li>
+<li><p>Agregar número de página con año en paréntesis: el agregar página solo resulta en paréntesis cuadrado … pero esto incluye a los autores dentro del paréntesis. Solución: sacar a los autores del parentesis con un signo “-”, pero esto requiere entonces escribir a los autores a mano:</p>
+<ul>
+<li><code>Como dicen Kocer and van de Werfhorst [-@kocer_does_2012, pp.54]</code> resulta en: Como dicen Kocer and van de Werfhorst <span class="citation">(<a href="#ref-kocer_does_2012" role="doc-biblioref">2012</a>, p. 54)</span></li>
+</ul></li>
+<li><p>Agregar número de página en cita completa:</p>
+<ul>
+<li><code>Esto ya se dijo anteriormente [@kocer_does_2012, pp.35]</code> resulta en: Esto ya se dijo anteriormente <span class="citation">(Kocer &amp; van de Werfhorst, <a href="#ref-kocer_does_2012" role="doc-biblioref">2012</a>, p. 35)</span></li>
+</ul></li>
+</ul>
+</div>
 <div id="probar-incorporación-de-citas" class="section level1">
-<h1><span class="header-section-number">4</span> Probar incorporación de citas</h1>
+<h1><span class="header-section-number">5</span> Probar incorporación de citas</h1>
 <ul>
 <li><p>instalar librería <code>citr</code> (`install.packages(“citr”))</p></li>
 <li><p>probar insertar citas vía el menú de RStudio “Addins”</p></li>
 </ul>
 </div>
 <div id="cambiando-el-formato" class="section level1">
-<h1><span class="header-section-number">5</span> Cambiando el formato</h1>
+<h1><span class="header-section-number">6</span> Cambiando el formato</h1>
 <p>El formato en que aparecen las citas es Chicago, que es el que RMarkdown usa por defecto. Este formato se puede cambiar a cualquier formato estándar que tenga disponible un archivo .csl, que son los que contienen las opciones de formato.</p>
 <p>Ejemplo de cambio de formato: un formato popular en ciencias sociales es el APA (American Psychological Association). Para poder usarlo:</p>
 <ul>
@@ -386,13 +408,13 @@ summary {
 <h1>Bibliografía</h1>
 <div id="refs" class="references">
 <div id="ref-kluegel_subjective_1977-1">
-<p>Kluegel, James R., Royce Singleton, and Charles E. Starnes. 1977. “Subjective Class Identification: A Multiple Indicator Approach.” <em>American Sociological Review</em> 42 (4): 599–611. <a href="https://doi.org/10.2307/2094558">https://doi.org/10.2307/2094558</a>.</p>
+<p>Kluegel, J. R., Singleton, R., &amp; Starnes, C. E. (1977). Subjective Class Identification: A Multiple Indicator Approach. <em>American Sociological Review</em>, <em>42</em>(4), 599–611. <a href="https://doi.org/10.2307/2094558">https://doi.org/10.2307/2094558</a></p>
 </div>
 <div id="ref-knight_luck_2009">
-<p>Knight, Carl. 2009. <em>Luck Egalitarianism : Equality, Responsibility, and Justice</em>. Edinburgh: Edinburgh University Press.</p>
+<p>Knight, C. (2009). <em>Luck egalitarianism : Equality, responsibility, and justice</em>. Edinburgh: Edinburgh University Press.</p>
 </div>
 <div id="ref-kocer_does_2012">
-<p>Kocer, R. G., and H. G. van de Werfhorst. 2012. “Does Education Affect Opinions on Economic Inequality? A Joint Mean and Dispersion Analysis.” <em>Acta Sociologica</em> 55 (3): 251–72. <a href="https://doi.org/10.1177/0001699312450591">https://doi.org/10.1177/0001699312450591</a>.</p>
+<p>Kocer, R. G., &amp; van de Werfhorst, H. G. (2012). Does education affect opinions on economic inequality? A joint mean and dispersion analysis. <em>Acta Sociologica</em>, <em>55</em>(3), 251–272. <a href="https://doi.org/10.1177/0001699312450591">https://doi.org/10.1177/0001699312450591</a></p>
 </div>
 </div>
 </div>

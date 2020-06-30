@@ -7,8 +7,10 @@ output:
 ---
 
 Abajo se presentan algunas referencias comentadas, ordenadas en las áreas de acceso y de reproducibilidad.
- 
+
 ## Sobre acceso:
+
+- [Datos Abiertos](http://datoscientificos.cl/),sitio de promocion de acceso abierto de CONICYT / ANID
 
 - Película [Paywall](https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/) (desde esta dirección se puede ver con subtítulos en español).
 
@@ -46,9 +48,10 @@ Abajo se presentan algunas referencias comentadas, ordenadas en las áreas de ac
 
 - [La reproducibilidad en los resultados de investigación: la punta del iceberg](https://blog.scielo.org/es/2014/02/27/la-reproducibilidad-en-los-resultados-de-investigacion-la-punta-del-iceberg/#.Xp8AvHX0lhE), de Lilian Nassi-Calò.
 
-## Plataformas y sitios web:
+## Plataformas, sitios web y publicación:
 
 - [Open Science Framework](https://osf.io/).
 - [TIER protocol](https://www.projecttier.org).
 - [BITSS - Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/).
 - [SocArxiv](https://socopen.org/).
+- [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll#readme)

@@ -20,7 +20,7 @@ slug: schedule
 30 | [**7. Control de versiones**](/class/08-class)   | Práctica Git    | [Git](https://git-scm.com/)
 <font color="orange"> **JULIO** </font> |   |   |
 07 | [**8. Versionamiento y colaboración**](/class/09-class)  | Práctica Gihub  <br>  |[Github](https://github.com/)
-14| [**9. Proyectos reproducibles y abiertos**](/class/06-class)  | Práctica OSF   | [OSF](https://osf.io/)  |
+14| [**9. Proyectos reproducibles y abiertos**](/class/09-class)  | Práctica OSF   | [OSF](https://osf.io/)  |
 21  | Semana de receso  |   |
 28 | [**10. Pre-prints / Curatoría de datos**](/class/10-class)  | Práctica Preprints <br><br> **Entrega trabajo 2**:Proyecto reproducible  | [SocArxiv](https://socopen.org/)
 <font color="orange"> **AGOSTO** </font> |   |   |

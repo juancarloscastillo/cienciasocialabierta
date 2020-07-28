@@ -39,6 +39,7 @@ editor_options:
 
 - [Open Science Framework](https://osf.io/)
 
+- [What is open peer review? A systematic review](https://f1000research.com/articles/6-588/v2)
 
 ## Foro
 

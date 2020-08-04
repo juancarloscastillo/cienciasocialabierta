@@ -13,7 +13,7 @@ output:
 menu:
   class:
     parent: Clases
-    weight: 1
+    weight: 10
 type: docs
 weight: 1
 editor_options:
@@ -44,6 +44,8 @@ editor_options:
 - [European Comission Open Acces](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/open-access_en.htm) ]
 
 - [socopen.org](https://socopen.org/)
+
+- [https://choosealicense.com/](https://choosealicense.com/)
 
 
 

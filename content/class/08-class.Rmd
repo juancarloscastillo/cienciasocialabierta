@@ -32,6 +32,10 @@ editor_options:
 
 - [Happy Git with R](https://happygitwithr.com/)
 
+- [Adding a licence to a repository](https://docs.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)
+
+- [https://choosealicense.com/](https://choosealicense.com/)
+
 ## Foro
 
 <div id="disqus_thread"></div>

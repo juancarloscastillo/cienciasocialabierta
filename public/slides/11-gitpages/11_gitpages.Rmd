@@ -108,7 +108,7 @@ class: inverse middle right
 ---
 # Ejemplo
 
-- [https://juancarloscastillo.github.io/merit-scale/index.html](https://juancarloscastillo.github.io/merit-scale/index.html))
+- [https://juancarloscastillo.github.io/merit-scale/index.html](https://juancarloscastillo.github.io/merit-scale/index.html)
 
 
 ---
@@ -257,7 +257,7 @@ class: inverse, middle right
 ---
 # Pasos
 
-- Actualizar el repositorio con el sitio ya generado localmente (commit - push)
+- Actualizar el repositorio con el sitio ya generado localmente (commit - push, ver [sesión 8, repositorio remoto Github](https://cienciasocialabierta.netlify.app/class/08-class/)
 
 - Ir a sección _Settings_ del repositorio -> Github pages: activar 
 ![:scale 80%](githubpages.png)

@@ -25,7 +25,7 @@
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#video-clase-próximamente-aquí&#34;&gt;Video clase (próximamente aquí)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-clase&#34;&gt;Video clase&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#lecturas-otros-recursos&#34;&gt;Lecturas &amp;amp; otros recursos&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -37,11 +37,11 @@
 &lt;iframe src=&#34;/slides/11-gitpages/11_gitpages.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
-&lt;div id=&#34;video-clase-próximamente-aquí&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video clase (próximamente aquí)&lt;/h2&gt;
+&lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video clase&lt;/h2&gt;
 &lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
 &lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;?raw=1&#34; type=&#34;video/mp4&#34;&gt;
+&lt;source src=&#34;https://www.dropbox.com/s/0r824hp4rlw7205/sesion11.webm?raw=1&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -86,7 +86,7 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#video-clase-próximamente-aquí&#34;&gt;Video clase (próximamente aquí)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-clase&#34;&gt;Video clase&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#lecturas-otros-recursos&#34;&gt;Lecturas &amp;amp; otros recursos&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -98,11 +98,11 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;iframe src=&#34;/slides/10-socarxiv/10_socarxiv.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
-&lt;div id=&#34;video-clase-próximamente-aquí&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video clase (próximamente aquí)&lt;/h2&gt;
+&lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video clase&lt;/h2&gt;
 &lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
 &lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;?raw=1&#34; type=&#34;video/mp4&#34;&gt;
+&lt;source src=&#34;https://www.dropbox.com/s/jefwejxaqwosay4/sesion10.webm?raw=1&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;/div&gt;
 &lt;/div&gt;

@@ -27,11 +27,11 @@ editor_options:
 <iframe src=/slides/10-socarxiv/10_socarxiv.html height="550" width=100% allowfullscreen="true">
 </iframe>
 
-## Video clase (próximamente aquí)
+## Video clase
 
 <div style="width: 100%; height: 600px; overflow: hidden;">
 <video  style="width: 100%;" controls>
-<source src="?raw=1" type="video/mp4">
+<source src="https://www.dropbox.com/s/jefwejxaqwosay4/sesion10.webm?raw=1" type="video/mp4">
 </video>
 </div>
 

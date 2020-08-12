@@ -1,6 +1,6 @@
 ---
 title: "Xaringan"
-linktitle: "11. Xaringan"
+linktitle: "12. Xaringan"
 date: "2020-08-11"
 class_date: "2020-08-11"
 citeproc: false
@@ -35,7 +35,7 @@ editor_options:
 </video>
 </div>
 
-## Lecturas & otros recursos 
+## Lecturas & otros recursos
 
 - [Capítulo de Xaringan de libro RMarkdown](https://bookdown.org/yihui/rmarkdown/xaringan.html)
 

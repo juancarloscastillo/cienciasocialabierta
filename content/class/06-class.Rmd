@@ -1,6 +1,6 @@
 ---
-title: "Flujo de trabajo reproducible"
-linktitle: "6. Flujo reproducible"
+title: "Flujo de trabajo reproducible / Protocolo IPO"
+linktitle: "6. Flujo reproducible / IPO"
 date: "2020-06-23"
 class_date: "2020-06-23"
 citeproc: false

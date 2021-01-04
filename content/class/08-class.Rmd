@@ -20,6 +20,14 @@ editor_options:
   chunk_output_type: console
 ---
 
+## Documento presentación
+
+<span class="sidenote">Para ver en pantalla completa click [**aquí**](/slides/08-github/08_github.html). Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. </span>
+
+<iframe src=/slides/08-github/08_github.html height="550" width=100% allowfullscreen="true">
+</iframe>
+
+
 ## Video tutorial
 
 <div style="width: 100%; height: 600px; overflow: hidden;">

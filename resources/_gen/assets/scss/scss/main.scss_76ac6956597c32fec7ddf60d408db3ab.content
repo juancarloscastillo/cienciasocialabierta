@@ -7098,7 +7098,7 @@ video {
 video {
   width: 100%;
   height: auto;
-  max-height: 400px; }
+  max-height: 800px; }
 
 .img-responsive {
   /* Extend Bootstrap declaration with centering. */
@@ -9040,3 +9040,21 @@ footer p {
 td.mid-table-header {
   text-align: center;
   vertical-align: middle !important; }
+
+/* notas laterales*/
+.sidenote {
+  width: 30%;
+  float: right;
+  clear: right;
+  margin-right: -35%;
+  font-size: 0.8rem;
+  font-family: courier;
+  color: #BC1A1A; }
+
+a.sidenote:link {
+  color: #548BB5;
+  text-decoration: none;
+  font-weight: normal; }
+
+.sidenote a:link {
+  color: #548BB5; }

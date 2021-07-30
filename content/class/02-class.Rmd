@@ -29,15 +29,4 @@ editor_options:
 
 ## Video clase
 
-(disponible acá luego de realizada la sesión)
-<!---
-
-<div style="width: 100%; height: 600px; overflow: hidden;">
-<video  style="width: 100%;" controls>
-<source src="https://www.dropbox.com/s/d4uh7ozdlerf40i/sesion1_sca.mp4?raw=1" type="video/mp4">
-</video>
-</div>
---->
-
-
---
+no disponible ...  `r emo::ji("sad")`

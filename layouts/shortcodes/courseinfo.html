@@ -1,7 +1,9 @@
 <div class="row">
     <div class="col-md-4">
         <h3>Profesor</h3>
-
+        <div class="image-cropper">
+          <img src="https://ca.slack-edge.com/T010LAFTYQK-U010XQDP40Y-f64e624eab35-512" alt="avatar" class="profile-pic">
+        </div>
         <ul class="icon-list">
             <li><i class="fas fa-user"></i> <a href="{{ .Site.Params.Profesor.url }}" target="_blank" rel="noopener"> {{ .Site.Params.Profesor.name }}</a></li>
             <li><i class="fas fa-university"></i> {{ .Site.Params.Profesor.office }}</li>
@@ -9,6 +11,20 @@
             <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/{{ .Site.Params.Profesor.twitter }}" target="_blank" rel="noopener"> @{{ .Site.Params.Profesor.twitter }}</a></li>
         </ul>
     </div>
+
+
+        <div class="col-md-4">
+            <h3>Ayudantes</h3>
+            <div class="image-cropper"><img src="https://ucampus.uchile.cl/d/r/usuario/80/80ca5b78bce13ff8643a76fbc1fda645/perfil/c1fee026e82c4cf307250aefd3ba3961.jpg" alt="avatar" class="profile-pic"></div>
+            Isidora Didier<br><br>
+            <div class="image-cropper"><img src="https://ca.slack-edge.com/T010LAFTYQK-U01RDD12789-043a9f96701b-512" alt="avatar" class="profile-pic"></div>
+            Alberto Reyes<br><br>
+            <div class="image-cropper"><img src="https://ucampus.uchile.cl/d/r/usuario/a9/a926b03586981c31a2d718f6090cff3e/perfil/c191973fa1acca9b5e961e21ad9f1d0d.jpg" alt="avatar" class="profile-pic"></div>
+            Catalina Vidal<br><br>
+
+        </div>
+
+
 
     <div class="col-md-4">
         <h3>Horario</h3>
@@ -28,7 +44,12 @@
   <h3>Contacto</h3>
 
       <p>{{ .Site.Params.Profesor.contact_policy | markdownify}}</p>
-
 </div>
+
+<div class="contact-policy">
+  <h3>Versiones anteriores del sitio del curso:</h3>
+<p>- <a href="https://version2020--cienciasocialabierta.netlify.app/">2020</a></p>
+</div>
+
 
 </div>

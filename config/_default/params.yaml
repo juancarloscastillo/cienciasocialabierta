@@ -99,17 +99,17 @@ Profesor:
   github: juancarloscastillo
   office: "325 Edificio Nuevo FACSO"
   contact_policy: >-
-    En caso de preguntas asociadas a las clases o prácticas, se recomienda hacerlas públicamente a través de foros en UCursos. También es posible anotarse en mis horarios de reunión con estudiantes, link [aquí](https://juancarloscastillo.github.io/jc-castillo/contact.html)(vía Zoom hasta volver a clases presenciales).
+    En caso de preguntas asociadas a las clases o prácticas, se recomienda hacerlas públicamente a través de foros en UCursos. También es posible anotarse en mis horarios de reunión con estudiantes, link [aquí](https://juancarloscastillo.github.io/jc-castillo/contact.html)(vía Zoom hasta volver a clases presenciales ).
 
 course:
   number: "SOC 01073"
-  semester: "Primer semestre"
+  semester: "Segundo semestre"
   days: "Martes"
-  time: "14:30 - 16:00"
+  time: "10:15 - 11:30"
   location: "Online"
-  dates: "Marzo-Julio 2020"
+  dates: "Agosto-Noviembre 2021"
   github: "juancarloscastillo/cienciasocialabierta"
-  copyrightYear: "2020"
+  copyrightYear: "2021"
 
 university:
   name: Universidad de Chile

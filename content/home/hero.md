@@ -14,14 +14,14 @@ design:
   background:
     # Background gradient
     gradient_start: '#154360'
-    gradient_end: '#AF601A'
+    gradient_end: '#3795DE'
 
     # Text color (true=light or false=dark).
     text_color_light: true
 
 cta_note:
-  label: Primer Semestre<br>Departamento de Sociología<br>Universidad de Chile
+  label: Segundo Semestre<br>Departamento de  Sociología<br>Universidad de Chile
 ---
 _Herramientas para la reproducibilidad, colaboración y comunicación de la investigación social_
 
-**SOC 01073 / 2020**
+**SOC 01073 / 2021**

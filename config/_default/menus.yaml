@@ -8,9 +8,6 @@ main:
   - name: Clases
     url: /class/
     weight: 3
-  - name: Referencias
+  - name: Links
     url: /reference/
     weight: 4
-  - name: RStudio.cloud
-    url: https://rstudio.cloud/
-    weight: 5

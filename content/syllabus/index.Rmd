@@ -9,11 +9,6 @@ output:
       toc: TRUE
 ---
 
-```{r load-libraries, message=FALSE, warning=FALSE, include=FALSE}
-library(dplyr)
-library(tibble)
-library(pander)
-```
 
 [^courseinfo]: {-}
   `r blogdown::shortcode("courseinfo")`
@@ -52,8 +47,9 @@ Al finalizar el curso, ud. será capaz de:
 - Cierre y crisis de la ciencia
 - Marquetización de la academia y consecuencias para su quehacer
 - Propuestas de políticas de apertura científica a nivel internacional
+- Preregistros y datos abiertos
 
-### Unidad II: Reproducibilidad y transparencia
+### Unidad II: Reproducibilidad
 
 2.1 Programación literaria
 
@@ -67,12 +63,11 @@ Al finalizar el curso, ud. será capaz de:
 - Control de versiones con Git
 - Trabajo colaborativo y versionado con Github
 
-### Unidad III: Accesibilidad y pubilcación
+### Unidad III: Accesibilidad y comunicación
 
 - Pre-registros y planes de pre-analisis
 - Publicación abierta vía pre-prints (SoxArxiv) y página web (Github pages)
 - Generación de presentaciones dinámicas (Xaringan)
-- Visualización de datos, Shiny apps, reportes interactivos
 - Proyectos de investigación en OSF (Open Science Framework)
 - Visualización de datos
 
@@ -86,24 +81,19 @@ El curso estará orientado a que l_s participantes puedan al final generar un pr
 
 La evaluación consistirá en la elaboración de un reporte en el formato de artículo de investigación, elaborado en tres entregas parciales en las que se avanza secuencialmente en los contenidos del curso. Estas entregas son grupales, máximo 5 integrantes.
 
-### Entrega 1 (20%): Reporte en texto plano
+Las fechas de entrega de los trabajos se encuentran en la [pestaña de planificación](/schedule/)
 
-Consiste en la entrega de un trabajo escrito en formato plano, se sugiere algún trabajo de curso previo que contemple análisis de datos y en el que se quiera avanzar en su publicación.
+### Entrega 1 (20%): Pre-registro y descripción de datos
 
-Esta entrega abarca hasta el punto 2.1 del programa (programación literaria), se espera un documento en lenguaje RMarkdown y su correspondiente conversión a html, incluyendo análisis de datos y presentación de resultados que demuestren manejo de las opciones de RMarkdown. Además, se deben incluir referencias bibliográficas.
+Informe que pre-registra la investigación en base a una plantilla. Además, se debe realizar una descripción acabada de los datos a utilizar evaluando su nivel de apertura y documentación, y proponiendo estrategias para compensar deficiencias.
 
-El foco del trabajo está en la presentación de resultados de análisis, donde se debe incluir al menos una tabla y un gráfico generados por el código que se encuentra en el mismo documento, y que se presenten adecuadamente en la conversión a html.
+### Entrega 2 (30%): Reporte dinámico reproducible
 
-La estructura del trabajo es secundaria, pero se recomienda seguir las secciones habituales (Resumen, Introducción, Antecedentes conceptuales/empíricos, Metodología, Análisis, Conclusiones). No se espera que realicen un trabajo nuevo, sino que algún trabajo previo puedan pasarlo a este formato. No se realizará corrección de contenidos, sino solamente se evaluará el aprendizaje de herramientas de escritura reproducible en texto plano con RMarkdown.
+Documentación de la investigación en un reporte dinámico basado en un flujo reproducible (Protocolo IPO).
 
-La fecha de entrega actualizada aparece en la planificación de actividades
+La estructura del trabajo es secundaria, pero se recomienda seguir las secciones habituales (Resumen, Introducción, Antecedentes conceptuales/empíricos, Metodología, Análisis, Conclusiones).
 
-
-### Entrega 2 (30%): Reproducibilidad.
-
-Documentación de la investigación en un protocolo reproducible (Protocolo IPO).
-
-### Entrega 3: (50%): Control de versiones y publicación.
+### Entrega 3: (50%): Proyecto Abierto
 
 Desarrollo de repositorio abierto y publicación en formato web y/o pre-print.
 

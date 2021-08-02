@@ -11,19 +11,19 @@ slug: schedule
 10  | [**2. Hacia una ciencia abierta**](/class/02-class) <br> • apertura <br> • reproducibilidad <br> • accesibilidad  |   |  [Nassi-Calo (2014) La reproducibilidad en los resultados de investigación](http://blog.scielo.org/es/2014/02/27/la-reproducibilidad-en-los-resultados-de-investigacion-la-punta-del-iceberg/)
 17  | [**3. Pre-registros**]()  |   |  [García-Garzón et al (2018) Estudios de replicación, pre-registros y ciencia abierta en Psicología](/docs/ciencia_abierta_psicologia.pdf) <br><br> [Yamada 2018 How to Crack Pre-registration](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01831/full)
 24  | [**4. Datos Abiertos**]()  |   |
-31  | [**Asesorías informe 1: Pre-registro y selección de datos**]()  |   |
+31  | [**Asesorías informe 1: Pre-registro y selección de datos**](/programa/#entrega-1-20-pre-registro-y-descripción-de-datos)  | <font color="red"> **Viernes 3: Entrega informe 1** </font>   |
 <font color="orange"> **SEPTIEMBRE** </font> |   |   |
-7  | [**5. Introducción a la escritura en texto plano**](/class/03-class)   | [Práctica Markdown](/assignment/02-code)  | [Healey (2019) The Plain Person’s Guide to Plain Text Social Science](https://plain-text.co/) <br> <br>[Introducción a Markdown](http://rusersgroup.com/blog/rmarkdown) <br> [Capítulo Lenguaje reproducible, secciones 1.1 y 1.2, libro Investigación Social Abierta](https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html)
-14 | [**6. Documentos dinámicos**](/class/04-class)  | [Práctica RMarkdown/Knitr](/assignment/03-code)  | [Bowers & Voors (2016) How to improve your relationship with your future self](https://scielo.conicyt.cl/pdf/revcipol/v36n3/art11.pdf)<br><br> [Hoja referencia Rmarkdown](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf)
-21  | [**7. Citando en texto plano: Zotero/Bibtex**](/class/05-class)  | [Práctica Zotero / BetterBibTex](/assignment/04-code) | [Zotero](https://www.zotero.org/)
-28 | [**8. Flujo de trabajo reproducible / Protocolo IPO**](/class/06-class)  | Práctica IPO <br> <br> **Entrega trabajo 1**: Documento reproducible  | [IPO](https://juancarloscastillo.github.io/ipo/) <br> [TIER](https://www.projecttier.org/)
+7  | [**5. Introducción a la escritura y citas en texto plano**](/class/03-class)   | [Práctica Markdown y Zotero](/assignment/02-code)  | [Healey (2019) The Plain Person’s Guide to Plain Text Social Science](https://plain-text.co/) <br> <br>[Introducción a Markdown](http://rusersgroup.com/blog/rmarkdown) <br> [Capítulo Lenguaje reproducible, secciones 1.1 y 1.2, libro Investigación Social Abierta](https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html) <br> [Zotero](https://www.zotero.org/)
+14 | Vacaciones Fiestas Patrias
+21 | [**6. Documentos dinámicos**](/class/04-class)  | [Práctica RMarkdown/Knitr](/assignment/03-code)  | [Bowers & Voors (2016) How to improve your relationship with your future self](https://scielo.conicyt.cl/pdf/revcipol/v36n3/art11.pdf)<br><br> [Hoja referencia Rmarkdown](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf)
+28 | [**7. Flujo de trabajo reproducible / Protocolo IPO**](/class/06-class)  | Práctica IPO <br> <br> **Entrega trabajo 1**: Documento reproducible  | [IPO](https://juancarloscastillo.github.io/ipo/) <br> [TIER](https://www.projecttier.org/)
 <font color="orange"> **OCTUBRE** </font> |   |   |
-05  | Asesorías informe 2: Documentos reproducibles  |   |
+05  | [Asesorías informe 2: Reporte dinámico reproducible](/programa/#entrega-2-30-reporte-dinámico-reproduciblee)  | <font color="red"> **Viernes 8: Entrega informe 2** </font>   |
 12 | Semana de Receso ||
-19 | [**9. Control de versiones 1: Git**](/class/07-class)   | Práctica Git    | [Git](https://git-scm.com/)
-26 | [**10. Control de versiones 2: Github**](/class/08class)  | Práctica Gihub  <br>  |[Github](https://github.com/)
+19 | [**8. Control de versiones 1: Git**](/class/07-class)   | Práctica Git    | [Git](https://git-scm.com/)
+26 | [**9. Control de versiones 2: Github**](/class/08class)  | Práctica Gihub  <br>  |[Github](https://github.com/)
 <font color="orange"> **Noviembre** </font> |   |   |
-02 | [**11. Acceso y publicación 1**](/class/09-class)  | Práctica OSF & Preprints  | - [OSF](https://osf.io/) <br><br> - [Socarxiv](https://socopen.org/) |
+02 | [**10. Acceso y publicación 1**](/class/09-class)  | [OSF](https://osf.io/) y [Pre-prints/Socarxiv](https://socopen.org/)  | - [Fardella et al (2020) Escribir papers bajo el régimen del management académico: Cuerpo, afectos y estrategias](/docs/fardella2020escribirpapers.pdf) |
 09  | Semana de receso  |   |
-16 | [**12. Acceso y publicación 2**](/class/10-class)  |   | [Github pages](https://pages.github.com/) <br> [blogdown](https://bookdown.org/yihui/blogdown/) <br> [Xaringan](https://slides.yihui.org/xaringan/#1)
-23 | Asesoría Informe 3: Proyecto Abierto
+16 | [**11. Acceso y publicación 2**](/class/10-class)  |   | [Github pages](https://pages.github.com/) <br> [blogdown](https://bookdown.org/yihui/blogdown/) <br> [Xaringan](https://slides.yihui.org/xaringan/#1)
+23 | [Asesoría Informe 3: Proyecto Abierto](/programa/#entrega-3-50-proyecto-abierto) | <font color="red"> **Viernes 26: Entrega informe 3** </font>

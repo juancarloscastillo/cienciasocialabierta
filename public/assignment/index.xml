@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prácticas | Ciencia Social Abierta</title>
-    <link>/assignment/</link>
-      <atom:link href="/assignment/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cienciasocialabierta.netlify.com/assignment/</link>
+      <atom:link href="https://cienciasocialabierta.netlify.com/assignment/index.xml" rel="self" type="application/rss+xml" />
     <description>Prácticas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <image>
-      <url>/img/social-image.png</url>
+      <url>https://cienciasocialabierta.netlify.com/img/social-image.png</url>
       <title>Prácticas</title>
-      <link>/assignment/</link>
+      <link>https://cienciasocialabierta.netlify.com/assignment/</link>
     </image>
     
     <item>
       <title>Práctica Flujo de trabajo reproducible</title>
-      <link>/assignment/05-code/</link>
+      <link>https://cienciasocialabierta.netlify.com/assignment/05-code/</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/05-code/</guid>
+      <guid>https://cienciasocialabierta.netlify.com/assignment/05-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -77,12 +77,12 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Práctica Citando en texto plano</title>
-      <link>/assignment/04-code/</link>
+      <link>https://cienciasocialabierta.netlify.com/assignment/04-code/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/04-code/</guid>
+      <guid>https://cienciasocialabierta.netlify.com/assignment/04-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -107,8 +107,8 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;h2&gt;Archivos para ejercicio&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;aquí va el &lt;a href=&#34;https://raw.githubusercontent.com/juancarloscastillo/cienciasocialabierta/master/static/assignment/taller_citandoplano/ejercicio_citandoplano.Rmd&#34;&gt;link al documento Rmd para realizar el ejercicio.&lt;/a&gt;. Seguir las instrucciones en el mismo documento.
-El renderizado a html de este archivo se puede ver &lt;a href=&#34;/assignment/taller_citandoplano/ejercicio_citandoplano.html&#34;&gt;aquí&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;bajar aquí el &lt;a href=&#34;/assignment/taller_citandoplano/referencias.bib&#34;&gt;archivo de bibliografía&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+El renderizado a html de este archivo se puede ver &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_citandoplano/ejercicio_citandoplano.html&#34;&gt;aquí&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;bajar aquí el &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_citandoplano/referencias.bib&#34;&gt;archivo de bibliografía&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
@@ -144,12 +144,12 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Práctica RMarkdown</title>
-      <link>/assignment/03-code/</link>
+      <link>https://cienciasocialabierta.netlify.com/assignment/03-code/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/03-code/</guid>
+      <guid>https://cienciasocialabierta.netlify.com/assignment/03-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -173,9 +173,9 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;div id=&#34;documento-ejemplo-taller&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento ejemplo / taller&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;aquí va el &lt;a href=&#34;/assignment/taller_Rmarkdown/taller_rmarkdown.Rmd&#34;&gt;link a el documento&lt;/a&gt; para el taller del día 02 de Junio.&lt;/li&gt;
-&lt;li&gt;para el ejercicio final sobre bibliografía, bajar el &lt;a href=&#34;/assignment/taller_Rmarkdown/referencias.bib&#34;&gt;siguiente archivo &lt;code&gt;referencias.bib&lt;/code&gt;&lt;/a&gt; y guardarlo en la misma carpeta que el anterior.&lt;/li&gt;
-&lt;li&gt;el renderizado de este documento se puede ver &lt;a href=&#34;/assignment/taller_Rmarkdown/taller_rmarkdown.html&#34;&gt;aquí.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;aquí va el &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_Rmarkdown/taller_rmarkdown.Rmd&#34;&gt;link a el documento&lt;/a&gt; para el taller del día 02 de Junio.&lt;/li&gt;
+&lt;li&gt;para el ejercicio final sobre bibliografía, bajar el &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_Rmarkdown/referencias.bib&#34;&gt;siguiente archivo &lt;code&gt;referencias.bib&lt;/code&gt;&lt;/a&gt; y guardarlo en la misma carpeta que el anterior.&lt;/li&gt;
+&lt;li&gt;el renderizado de este documento se puede ver &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_Rmarkdown/taller_rmarkdown.html&#34;&gt;aquí.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Preguntas, comentarios y experiencias en el foro abajo.&lt;/p&gt;
 &lt;/div&gt;
@@ -211,12 +211,12 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Práctica 1</title>
-      <link>/assignment/01-code/</link>
+      <link>https://cienciasocialabierta.netlify.com/assignment/01-code/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/01-code/</guid>
+      <guid>https://cienciasocialabierta.netlify.com/assignment/01-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 
@@ -229,12 +229,12 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Práctica Markdown</title>
-      <link>/assignment/02-code/</link>
+      <link>https://cienciasocialabierta.netlify.com/assignment/02-code/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/02-code/</guid>
+      <guid>https://cienciasocialabierta.netlify.com/assignment/02-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;

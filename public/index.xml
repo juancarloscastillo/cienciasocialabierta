@@ -2,453 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Course materials | Ciencia Social Abierta</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cienciasocialabierta.netlify.com/</link>
+      <atom:link href="https://cienciasocialabierta.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Course materials</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <image>
-      <url>/img/social-image.png</url>
+      <url>https://cienciasocialabierta.netlify.com/img/social-image.png</url>
       <title>Course materials</title>
-      <link>/</link>
+      <link>https://cienciasocialabierta.netlify.com/</link>
     </image>
     
     <item>
-      <title>Xaringan</title>
-      <link>/class/12-class/</link>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/class/12-class/</guid>
+      <title>Introducción</title>
+      <link>https://cienciasocialabierta.netlify.com/class/01-class/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://cienciasocialabierta.netlify.com/class/01-class/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#video-clase&#34;&gt;Video clase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#lecturas-otros-recursos&#34;&gt;Lecturas &amp;amp; otros recursos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-sesión-1&#34;&gt;Video sesión 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#links&#34;&gt;Links&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 
 &lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/12-xaringan/12_xaringan.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;/slides/12-xaringan/12_xaringan.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/01-programa/01_csa_programa.html&#34; height=&#34;500&#34; width=&#34;775&#34;&gt;
 &lt;/iframe&gt;
+&lt;p&gt;Acceso en pantalla completa &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/01-programa/01_csa_programa.html&#34;&gt;AQUÍ&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video clase&lt;/h2&gt;
+&lt;div id=&#34;video-sesión-1&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video sesión 1&lt;/h2&gt;
 &lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
 &lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;https://www.dropbox.com/s/uba4bn8qveihwl6/xaringan.webm?raw=1&#34; type=&#34;video/mp4&#34;&gt;
+&lt;source src=&#34;&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;/div&gt;
+&lt;p&gt;–&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;lecturas-otros-recursos&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Lecturas &amp;amp; otros recursos&lt;/h2&gt;
+&lt;div id=&#34;links&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/xaringan.html&#34;&gt;Capítulo de Xaringan de libro RMarkdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.r-project.org/&#34;&gt;The R Project for Statistical Computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rstudio.com&#34;&gt;R Studio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Foro&lt;/h2&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;
-
-&lt;/div&gt;
-&lt;script&gt;
-(function() { // DON&#39;T EDIT BELOW THIS LINE
-var d = document, s = d.createElement(&#39;script&#39;);
-s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
-s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
-&lt;/script&gt;
-&lt;noscript&gt;
-Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Github Pages</title>
-      <link>/class/11-class/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/class/11-class/</guid>
-      <description>
-&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;h2&gt;Índice&lt;/h2&gt;
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#video-clase&#34;&gt;Video clase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#lecturas-otros-recursos&#34;&gt;Lecturas &amp;amp; otros recursos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/11-gitpages/11_gitpages.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;/slides/11-gitpages/11_gitpages.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video clase&lt;/h2&gt;
-&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
-&lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;https://www.dropbox.com/s/0r824hp4rlw7205/sesion11.webm?raw=1&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;lecturas-otros-recursos&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Lecturas &amp;amp; otros recursos&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/websites.html&#34;&gt;Rmarkdown (web)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Blogdown (hugo)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://bookdown.org/yihui/bookdown/&#34;&gt;Bookdown&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Foro&lt;/h2&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;
-
-&lt;/div&gt;
-&lt;script&gt;
-(function() { // DON&#39;T EDIT BELOW THIS LINE
-var d = document, s = d.createElement(&#39;script&#39;);
-s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
-s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
-&lt;/script&gt;
-&lt;noscript&gt;
-Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Preprints</title>
-      <link>/class/10-class/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/class/10-class/</guid>
-      <description>
-&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;h2&gt;Índice&lt;/h2&gt;
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#video-clase&#34;&gt;Video clase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#lecturas-otros-recursos&#34;&gt;Lecturas &amp;amp; otros recursos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/10-socarxiv/10_socarxiv.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;/slides/10-socarxiv/10_socarxiv.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video clase&lt;/h2&gt;
-&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
-&lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;https://www.dropbox.com/s/jefwejxaqwosay4/sesion10.webm?raw=1&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;lecturas-otros-recursos&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Lecturas &amp;amp; otros recursos&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://v2.sherpa.ac.uk/romeo/&#34;&gt;https://v2.sherpa.ac.uk/romeo/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/&#34;&gt;https://creativecommons.org/licenses/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/open-access_en.htm&#34;&gt;European Comission Open Acces&lt;/a&gt; ]&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://socopen.org/&#34;&gt;socopen.org&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://choosealicense.com/&#34;&gt;https://choosealicense.com/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Foro&lt;/h2&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;
-
-&lt;/div&gt;
-&lt;script&gt;
-(function() { // DON&#39;T EDIT BELOW THIS LINE
-var d = document, s = d.createElement(&#39;script&#39;);
-s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
-s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
-&lt;/script&gt;
-&lt;noscript&gt;
-Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Apertura del proceso de investigación</title>
-      <link>/class/09-class/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/class/09-class/</guid>
-      <description>
-&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;h2&gt;Índice&lt;/h2&gt;
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#video-clase&#34;&gt;Video clase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#lecturas-otros-recursos&#34;&gt;Lecturas &amp;amp; otros recursos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/09-osf/09_osf.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;/slides/09-osf/09_osf.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video clase&lt;/h2&gt;
-&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
-&lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;https://www.dropbox.com/s/pdubymk6wobwn3f/sesion9.webm?raw=1&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;lecturas-otros-recursos&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Lecturas &amp;amp; otros recursos&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://osf.io/&#34;&gt;Open Science Framework&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://f1000research.com/articles/6-588/v2&#34;&gt;What is open peer review? A systematic review&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Foro&lt;/h2&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;
-
-&lt;/div&gt;
-&lt;script&gt;
-(function() { // DON&#39;T EDIT BELOW THIS LINE
-var d = document, s = d.createElement(&#39;script&#39;);
-s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
-s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
-&lt;/script&gt;
-&lt;noscript&gt;
-Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Repositorio remoto Github</title>
-      <link>/class/08-class/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/class/08-class/</guid>
-      <description>
-&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;h2&gt;Índice&lt;/h2&gt;
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#video-tutorial&#34;&gt;Video tutorial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#lecturas-otros-recursos&#34;&gt;Lecturas &amp;amp; otros recursos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/08-github/08_github.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;/slides/08-github/08_github.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div id=&#34;video-tutorial&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video tutorial&lt;/h2&gt;
-&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
-&lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;https://www.dropbox.com/s/d414z9mv3vjluj9/sesion8b.mp4?raw=1&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;lecturas-otros-recursos&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Lecturas &amp;amp; otros recursos&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://happygitwithr.com/&#34;&gt;Happy Git with R&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://docs.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository&#34;&gt;Adding a licence to a repository&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://choosealicense.com/&#34;&gt;https://choosealicense.com/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Foro&lt;/h2&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;
-
-&lt;/div&gt;
-&lt;script&gt;
-(function() { // DON&#39;T EDIT BELOW THIS LINE
-var d = document, s = d.createElement(&#39;script&#39;);
-s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
-s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
-&lt;/script&gt;
-&lt;noscript&gt;
-Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Control de versiones - Git</title>
-      <link>/class/07-class/</link>
-      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/class/07-class/</guid>
-      <description>
-&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;h2&gt;Índice&lt;/h2&gt;
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#video-clase&#34;&gt;Video clase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#lecturas-otros-recursos&#34;&gt;Lecturas &amp;amp; otros recursos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/07-controlversion/07_controlversion.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;/slides/07-controlversion/07_controlversion.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video clase&lt;/h2&gt;
-&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
-&lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;https://www.dropbox.com/s/0sr78y45kgubx9l/sesion7.mp4?raw=1&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;lecturas-otros-recursos&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Lecturas &amp;amp; otros recursos&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://happygitwithr.com/&#34;&gt;Happy Git with R&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Foro&lt;/h2&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;
-
-&lt;/div&gt;
-&lt;script&gt;
-(function() { // DON&#39;T EDIT BELOW THIS LINE
-var d = document, s = d.createElement(&#39;script&#39;);
-s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
-s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
-&lt;/script&gt;
-&lt;noscript&gt;
-Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Flujo de trabajo reproducible / Protocolo IPO</title>
-      <link>/class/06-class/</link>
-      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/class/06-class/</guid>
-      <description>
-&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;h2&gt;Índice&lt;/h2&gt;
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#video-clase&#34;&gt;Video clase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#lecturas-otros-recursos&#34;&gt;Lecturas &amp;amp; otros recursos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/06-flujorep/06_flujorep.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;/slides/06-flujorep/06_flujorep.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video clase&lt;/h2&gt;
-&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
-&lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;https://www.dropbox.com/s/27jrmkdofuubx46/sesion6.mp4?raw=1&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;lecturas-otros-recursos&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Lecturas &amp;amp; otros recursos&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.projecttier.org/&#34;&gt;Protocolo TIER&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Foro&lt;/h2&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;
-
-&lt;/div&gt;
-&lt;script&gt;
-(function() { // DON&#39;T EDIT BELOW THIS LINE
-var d = document, s = d.createElement(&#39;script&#39;);
-s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
-s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
-&lt;/script&gt;
-&lt;noscript&gt;
-Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Práctica Flujo de trabajo reproducible</title>
-      <link>/assignment/05-code/</link>
+      <link>https://cienciasocialabierta.netlify.com/assignment/05-code/</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/05-code/</guid>
+      <guid>https://cienciasocialabierta.netlify.com/assignment/05-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -505,74 +120,13 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     </item>
     
     <item>
-      <title>Citando en texto plano</title>
-      <link>/class/05-class/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/class/05-class/</guid>
-      <description>
-&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;h2&gt;Índice&lt;/h2&gt;
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#video-clase&#34;&gt;Video clase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#lecturas-otros-recursos&#34;&gt;Lecturas &amp;amp; otros recursos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/05-bib/05_bib.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;/slides/05-bib/05_bib.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video clase&lt;/h2&gt;
-&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
-&lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;https://www.dropbox.com/s/ms5sdrt249a83sv/sesion5.mp4?raw=1&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;lecturas-otros-recursos&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Lecturas &amp;amp; otros recursos&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown&#34;&gt;Escritura sostenible en texto plano&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Uxv3aE4XoNY&#34;&gt;Tutorial Zotero en español&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Foro&lt;/h2&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;
-
-&lt;/div&gt;
-&lt;script&gt;
-(function() { // DON&#39;T EDIT BELOW THIS LINE
-var d = document, s = d.createElement(&#39;script&#39;);
-s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
-s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
-&lt;/script&gt;
-&lt;noscript&gt;
-Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Práctica Citando en texto plano</title>
-      <link>/assignment/04-code/</link>
+      <link>https://cienciasocialabierta.netlify.com/assignment/04-code/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/04-code/</guid>
+      <guid>https://cienciasocialabierta.netlify.com/assignment/04-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -597,8 +151,8 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;h2&gt;Archivos para ejercicio&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;aquí va el &lt;a href=&#34;https://raw.githubusercontent.com/juancarloscastillo/cienciasocialabierta/master/static/assignment/taller_citandoplano/ejercicio_citandoplano.Rmd&#34;&gt;link al documento Rmd para realizar el ejercicio.&lt;/a&gt;. Seguir las instrucciones en el mismo documento.
-El renderizado a html de este archivo se puede ver &lt;a href=&#34;/assignment/taller_citandoplano/ejercicio_citandoplano.html&#34;&gt;aquí&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;bajar aquí el &lt;a href=&#34;/assignment/taller_citandoplano/referencias.bib&#34;&gt;archivo de bibliografía&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+El renderizado a html de este archivo se puede ver &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_citandoplano/ejercicio_citandoplano.html&#34;&gt;aquí&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;bajar aquí el &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_citandoplano/referencias.bib&#34;&gt;archivo de bibliografía&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
@@ -633,74 +187,13 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     </item>
     
     <item>
-      <title>Documentos Dinámicos</title>
-      <link>/class/04-class/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      <guid>/class/04-class/</guid>
-      <description>
-&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;h2&gt;Índice&lt;/h2&gt;
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#video-clase&#34;&gt;Video clase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#lecturas&#34;&gt;Lecturas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/04-docudin/04_docudin.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;/slides/04-docudin/04_docudin.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video clase&lt;/h2&gt;
-&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
-&lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;https://www.dropbox.com/s/5j8j7xmuggjotc5/sesion4.mp4?raw=1&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;lecturas&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Lecturas&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf&#34;&gt;Hoja referencia RMarkdown&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://rmd4sci.njtierney.com/&#34;&gt;RMarkdown for scientists&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Foro&lt;/h2&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;
-
-&lt;/div&gt;
-&lt;script&gt;
-(function() { // DON&#39;T EDIT BELOW THIS LINE
-var d = document, s = d.createElement(&#39;script&#39;);
-s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
-s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
-&lt;/script&gt;
-&lt;noscript&gt;
-Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Práctica RMarkdown</title>
-      <link>/assignment/03-code/</link>
+      <link>https://cienciasocialabierta.netlify.com/assignment/03-code/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/03-code/</guid>
+      <guid>https://cienciasocialabierta.netlify.com/assignment/03-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -724,9 +217,9 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;div id=&#34;documento-ejemplo-taller&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento ejemplo / taller&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;aquí va el &lt;a href=&#34;/assignment/taller_Rmarkdown/taller_rmarkdown.Rmd&#34;&gt;link a el documento&lt;/a&gt; para el taller del día 02 de Junio.&lt;/li&gt;
-&lt;li&gt;para el ejercicio final sobre bibliografía, bajar el &lt;a href=&#34;/assignment/taller_Rmarkdown/referencias.bib&#34;&gt;siguiente archivo &lt;code&gt;referencias.bib&lt;/code&gt;&lt;/a&gt; y guardarlo en la misma carpeta que el anterior.&lt;/li&gt;
-&lt;li&gt;el renderizado de este documento se puede ver &lt;a href=&#34;/assignment/taller_Rmarkdown/taller_rmarkdown.html&#34;&gt;aquí.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;aquí va el &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_Rmarkdown/taller_rmarkdown.Rmd&#34;&gt;link a el documento&lt;/a&gt; para el taller del día 02 de Junio.&lt;/li&gt;
+&lt;li&gt;para el ejercicio final sobre bibliografía, bajar el &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_Rmarkdown/referencias.bib&#34;&gt;siguiente archivo &lt;code&gt;referencias.bib&lt;/code&gt;&lt;/a&gt; y guardarlo en la misma carpeta que el anterior.&lt;/li&gt;
+&lt;li&gt;el renderizado de este documento se puede ver &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_Rmarkdown/taller_rmarkdown.html&#34;&gt;aquí.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Preguntas, comentarios y experiencias en el foro abajo.&lt;/p&gt;
 &lt;/div&gt;
@@ -761,157 +254,13 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     </item>
     
     <item>
-      <title>Introducción</title>
-      <link>/class/01-class/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/class/01-class/</guid>
-      <description>
-&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;h2&gt;Índice&lt;/h2&gt;
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#video-sesión-1&#34;&gt;Video sesión 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#links&#34;&gt;Links&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;iframe src=&#34;/slides/01-programa/01_csa_programa.html&#34; height=&#34;500&#34; width=&#34;775&#34;&gt;
-&lt;/iframe&gt;
-&lt;p&gt;Acceso en pantalla completa &lt;a href=&#34;/slides/01-programa/01_csa_programa.html&#34;&gt;AQUÍ&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;video-sesión-1&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video sesión 1&lt;/h2&gt;
-&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
-&lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;https://www.dropbox.com/s/d4uh7ozdlerf40i/sesion1_sca.mp4?raw=1&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/div&gt;
-&lt;p&gt;–&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;links&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Links&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.r-project.org/&#34;&gt;The R Project for Statistical Computing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.rstudio.com&#34;&gt;R Studio&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hacia una ciencia abierta</title>
-      <link>/class/02-class/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/class/02-class/</guid>
-      <description>
-&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;h2&gt;Índice&lt;/h2&gt;
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#video-clase&#34;&gt;Video clase&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/02-reproducibilidad/02_reproducibilidad.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;/slides/02-reproducibilidad/02_reproducibilidad.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video clase&lt;/h2&gt;
-&lt;p&gt;(disponible acá luego de realizada la sesión)
-&lt;!---
-
-&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
-&lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;https://www.dropbox.com/s/d4uh7ozdlerf40i/sesion1_sca.mp4?raw=1&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/div&gt;
----&gt;&lt;/p&gt;
-&lt;p&gt;–&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Escritura en texto simple</title>
-      <link>/class/03-class/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/class/03-class/</guid>
-      <description>
-&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;h2&gt;Índice&lt;/h2&gt;
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#video-clase&#34;&gt;Video clase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#lecturas&#34;&gt;Lecturas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/03-textoplano/03_textoplano.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;/slides/03-textoplano/03_textoplano.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video clase&lt;/h2&gt;
-&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
-&lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;https://www.dropbox.com/s/q9gh7i58u6nfa0l/03-textoplano_2.mp4?raw=1&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;lecturas&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Lecturas&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html&#34;&gt;Capítulo Lenguaje reproducible, secciones 1.1 y 1.2, libro Investigación Social Abierta&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Foro&lt;/h2&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;
-
-&lt;/div&gt;
-&lt;script&gt;
-(function() { // DON&#39;T EDIT BELOW THIS LINE
-var d = document, s = d.createElement(&#39;script&#39;);
-s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
-s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
-&lt;/script&gt;
-&lt;noscript&gt;
-Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Práctica 1</title>
-      <link>/assignment/01-code/</link>
+      <link>https://cienciasocialabierta.netlify.com/assignment/01-code/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/01-code/</guid>
+      <guid>https://cienciasocialabierta.netlify.com/assignment/01-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 
@@ -924,12 +273,12 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Práctica Markdown</title>
-      <link>/assignment/02-code/</link>
+      <link>https://cienciasocialabierta.netlify.com/assignment/02-code/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/02-code/</guid>
+      <guid>https://cienciasocialabierta.netlify.com/assignment/02-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -979,11 +328,11 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Truth, Beauty, and Data</title>
-      <link>/reading/01-reading/</link>
+      <link>https://cienciasocialabierta.netlify.com/reading/01-reading/</link>
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/reading/01-reading/</guid>
+      <guid>https://cienciasocialabierta.netlify.com/reading/01-reading/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;required&#34; class=&#34;section level1&#34;&gt;
@@ -998,11 +347,11 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Planificación</title>
-      <link>/schedule/</link>
+      <link>https://cienciasocialabierta.netlify.com/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/schedule/</guid>
+      <guid>https://cienciasocialabierta.netlify.com/schedule/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/schedule/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;table&gt;
@@ -1022,124 +371,130 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td&gt;&lt;font color=&#34;orange&#34;&gt; &lt;strong&gt;MARZO&lt;/strong&gt; &lt;/font&gt;&lt;/td&gt;
+&lt;td&gt;&lt;font color=&#34;orange&#34;&gt; &lt;strong&gt;Agosto&lt;/strong&gt; &lt;/font&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/01-class&#34;&gt;&lt;strong&gt;1. Presentación&lt;/strong&gt;&lt;/a&gt; &lt;br&gt; - Programa y forma de trabajo &lt;br/&gt; - La crisis de la ciencia cerrada&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/&#34;&gt;Película Paywall&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://doi.org/10.1126/science.aab2374&#34;&gt;Nosek, B. A. et al (2015). Promoting an open research culture. Science, 348(6242), 1422–1425.&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/02-class&#34;&gt;&lt;strong&gt;2. Hacia una ciencia abierta&lt;/strong&gt;&lt;/a&gt; &lt;br&gt; • apertura &lt;br&gt; • reproducibilidad &lt;br&gt; • accesibilidad&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://blog.scielo.org/es/2014/02/27/la-reproducibilidad-en-los-resultados-de-investigacion-la-punta-del-iceberg/&#34;&gt;Nassi-Calo (2014) La reproducibilidad en los resultados de investigación&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;&#34;&gt;&lt;strong&gt;3. Pre-registros&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/docs/ciencia_abierta_psicologia.pdf&#34;&gt;García-Garzón et al (2018) Estudios de replicación, pre-registros y ciencia abierta en Psicología&lt;/a&gt; &lt;br&gt;&lt;br&gt; &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01831/full&#34;&gt;Yamada 2018 How to Crack Pre-registration&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;&#34;&gt;&lt;strong&gt;4. Datos Abiertos&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;31&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/class/01-class&#34;&gt;&lt;strong&gt;1. Presentación&lt;/strong&gt;&lt;/a&gt; &lt;br&gt; - Programa y forma de trabajo &lt;br/&gt; - La crisis de la ciencia cerrada&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/&#34;&gt;Película Paywall&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://doi.org/10.1126/science.aab2374&#34;&gt;Nosek, B. A. et al (2015). Promoting an open research culture. Science, 348(6242), 1422–1425.&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;&#34;&gt;&lt;strong&gt;Asesorías informe 1: Pre-registro y selección de datos&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td&gt;&lt;font color=&#34;orange&#34;&gt; &lt;strong&gt;MAYO&lt;/strong&gt; &lt;/font&gt;&lt;/td&gt;
+&lt;td&gt;&lt;font color=&#34;orange&#34;&gt; &lt;strong&gt;SEPTIEMBRE&lt;/strong&gt; &lt;/font&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/03-class&#34;&gt;&lt;strong&gt;5. Introducción a la escritura en texto plano&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/02-code&#34;&gt;Práctica Markdown&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://plain-text.co/&#34;&gt;Healey (2019) The Plain Person’s Guide to Plain Text Social Science&lt;/a&gt; &lt;br&gt; &lt;br&gt;&lt;a href=&#34;http://rusersgroup.com/blog/rmarkdown&#34;&gt;Introducción a Markdown&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html&#34;&gt;Capítulo Lenguaje reproducible, secciones 1.1 y 1.2, libro Investigación Social Abierta&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/04-class&#34;&gt;&lt;strong&gt;6. Documentos dinámicos&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/03-code&#34;&gt;Práctica RMarkdown/Knitr&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://scielo.conicyt.cl/pdf/revcipol/v36n3/art11.pdf&#34;&gt;Bowers &amp;amp; Voors (2016) How to improve your relationship with your future self&lt;/a&gt;&lt;br&gt;&lt;br&gt; &lt;a href=&#34;https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf&#34;&gt;Hoja referencia Rmarkdown&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/05-class&#34;&gt;&lt;strong&gt;7. Citando en texto plano: Zotero/Bibtex&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/04-code&#34;&gt;Práctica Zotero / BetterBibTex&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.zotero.org/&#34;&gt;Zotero&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;28&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/06-class&#34;&gt;&lt;strong&gt;8. Flujo de trabajo reproducible / Protocolo IPO&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Práctica IPO &lt;br&gt; &lt;br&gt; &lt;strong&gt;Entrega trabajo 1&lt;/strong&gt;: Documento reproducible&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://juancarloscastillo.github.io/ipo/&#34;&gt;IPO&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://www.projecttier.org/&#34;&gt;TIER&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;font color=&#34;orange&#34;&gt; &lt;strong&gt;OCTUBRE&lt;/strong&gt; &lt;/font&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;05&lt;/td&gt;
+&lt;td&gt;Asesorías informe 2: Documentos reproducibles&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;12&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/class/02-class&#34;&gt;&lt;strong&gt;2. Hacia una ciencia abierta&lt;/strong&gt;&lt;/a&gt; &lt;br&gt; • apertura &lt;br&gt; • reproducibilidad &lt;br&gt; • accesibilidad&lt;/td&gt;
+&lt;td&gt;Semana de Receso&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://blog.scielo.org/es/2014/02/27/la-reproducibilidad-en-los-resultados-de-investigacion-la-punta-del-iceberg/&#34;&gt;Nassi-Calo (2014) La reproducibilidad en los resultados de investigación&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;19&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/class/03-class&#34;&gt;&lt;strong&gt;3. Introducción a la escritura en texto plano&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/assignment/02-code&#34;&gt;Práctica Markdown&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://plain-text.co/&#34;&gt;Healey (2019) The Plain Person’s Guide to Plain Text Social Science&lt;/a&gt; &lt;br&gt; &lt;br&gt;&lt;a href=&#34;http://rusersgroup.com/blog/rmarkdown&#34;&gt;Introducción a Markdown&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html&#34;&gt;Capítulo Lenguaje reproducible, secciones 1.1 y 1.2, libro Investigación Social Abierta&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;even&#34;&gt;
-&lt;td&gt;26&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/class/04-class&#34;&gt;&lt;strong&gt;4. Documentos dinámicos&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/assignment/03-code&#34;&gt;Práctica RMarkdown/Knitr&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://scielo.conicyt.cl/pdf/revcipol/v36n3/art11.pdf&#34;&gt;Bowers &amp;amp; Voors (2016) How to improve your relationship with your future self&lt;/a&gt;&lt;br&gt;&lt;br&gt; &lt;a href=&#34;https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf&#34;&gt;Hoja referencia Rmarkdown&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;odd&#34;&gt;
-&lt;td&gt;&lt;font color=&#34;orange&#34;&gt; &lt;strong&gt;JUNIO&lt;/strong&gt; &lt;/font&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;even&#34;&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;Práctica-Taller RMarkdown&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;odd&#34;&gt;
-&lt;td&gt;9&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/class/05-class&#34;&gt;&lt;strong&gt;5. Citando en texto plano: Zotero/Bibtex&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/assignment/04-code&#34;&gt;Práctica Zotero / BetterBibTex&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.zotero.org/&#34;&gt;Zotero&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;even&#34;&gt;
-&lt;td&gt;16&lt;/td&gt;
-&lt;td&gt;Semana de receso&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;odd&#34;&gt;
-&lt;td&gt;23&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/class/06-class&#34;&gt;&lt;strong&gt;6. Flujo de trabajo reproducible / Protocolo IPO&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Práctica IPO &lt;br&gt; &lt;br&gt; &lt;strong&gt;Entrega trabajo 1&lt;/strong&gt;: Documento reproducible&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://juancarloscastillo.github.io/ipo/&#34;&gt;IPO&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://www.projecttier.org/&#34;&gt;TIER&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;even&#34;&gt;
-&lt;td&gt;30&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/class/07-class&#34;&gt;&lt;strong&gt;7. Control de versiones&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/07-class&#34;&gt;&lt;strong&gt;9. Control de versiones 1: Git&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Práctica Git&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://git-scm.com/&#34;&gt;Git&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class=&#34;odd&#34;&gt;
-&lt;td&gt;&lt;font color=&#34;orange&#34;&gt; &lt;strong&gt;JULIO&lt;/strong&gt; &lt;/font&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
-&lt;td&gt;07&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/class/08class&#34;&gt;&lt;strong&gt;8. Versionamiento y colaboración&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;26&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/08class&#34;&gt;&lt;strong&gt;10. Control de versiones 2: Github&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Práctica Gihub &lt;br&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/&#34;&gt;Github&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td&gt;14&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/class/09-class&#34;&gt;&lt;strong&gt;9. Proyectos reproducibles y abiertos&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Práctica OSF&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://osf.io/&#34;&gt;OSF&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;font color=&#34;orange&#34;&gt; &lt;strong&gt;Noviembre&lt;/strong&gt; &lt;/font&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
-&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;02&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/09-class&#34;&gt;&lt;strong&gt;11. Acceso y publicación 1&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Práctica OSF &amp;amp; Preprints&lt;/td&gt;
+&lt;td&gt;- &lt;a href=&#34;https://osf.io/&#34;&gt;OSF&lt;/a&gt; &lt;br&gt;&lt;br&gt; - &lt;a href=&#34;https://socopen.org/&#34;&gt;Socarxiv&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;09&lt;/td&gt;
 &lt;td&gt;Semana de receso&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class=&#34;odd&#34;&gt;
-&lt;td&gt;28&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/class/10-class&#34;&gt;&lt;strong&gt;10. Pre-prints / Curatoría de datos&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Práctica Preprints &lt;br&gt;&lt;br&gt; &lt;strong&gt;Entrega trabajo 2&lt;/strong&gt;:Proyecto reproducible&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://socopen.org/&#34;&gt;SocArxiv&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
-&lt;td&gt;&lt;font color=&#34;orange&#34;&gt; &lt;strong&gt;AGOSTO&lt;/strong&gt; &lt;/font&gt;&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/10-class&#34;&gt;&lt;strong&gt;12. Acceso y publicación 2&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;Github pages&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;blogdown&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://slides.yihui.org/xaringan/#1&#34;&gt;Xaringan&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/class/11-class&#34;&gt;&lt;strong&gt;11. Publicación web&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Practica Github Pages&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;Github pages&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;blogdown&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;even&#34;&gt;
-&lt;td&gt;11&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/class/12-class&#34;&gt;&lt;strong&gt;12. Xaringan (bonus track)&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Práctica presentaciones con Xaringan &lt;br&gt; &lt;strong&gt;Entrega trabajo 3&lt;/strong&gt;: Pre-print y publicación&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://slides.yihui.org/xaringan/#1&#34;&gt;Xaringan&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;td&gt;Asesoría Informe 3: Proyecto Abierto&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1148,11 +503,11 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Programa</title>
-      <link>/programa/</link>
+      <link>https://cienciasocialabierta.netlify.com/programa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/programa/</guid>
+      <guid>https://cienciasocialabierta.netlify.com/programa/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -1280,7 +635,7 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;li&gt;&lt;p&gt;El tercero es más específico para la Unidad 2 sobre escritura en texto plano: &lt;a href=&#34;https://kieranhealy.org/files/papers/plain-person-text.pdf&#34;&gt;“The Plain Person’s Guide to Plain Text Social Science”&lt;/a&gt;, de Kieran Healy en su última version 2019. Para mi gusto uno de los libros inspiradores sobre las implicancias para la escritura del trabajo académico abierto, y escrito por un gran sociólogo.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Y el cuarto es &lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/&#34;&gt;R Markdown: The definitive guide&lt;/a&gt;, de Yihui Xie, J. J. Allaire &amp;amp; Garrett Grolemund (2019). Abarca los detalles del proceso de investigación reproducible vinculando escritura y análisis, pero con mucho énfasis en publicación y presentación de resultados.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;El detalle de otras lecturas sugeridas para cada clase aparece en la página de &lt;a href=&#34;/schedule/&#34;&gt;Planificación&lt;/a&gt;) de las sesiones.&lt;/p&gt;
+&lt;p&gt;El detalle de otras lecturas sugeridas para cada clase aparece en la página de &lt;a href=&#34;https://cienciasocialabierta.netlify.com/schedule/&#34;&gt;Planificación&lt;/a&gt;) de las sesiones.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;software&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Software&lt;/h2&gt;
@@ -1288,7 +643,7 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/div&gt;
 &lt;div id=&#34;planificación-de-las-sesiones-y-materiales-respectivos&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Planificación de las sesiones y materiales respectivos&lt;/h2&gt;
-&lt;p&gt;Consultar la página &lt;a href=&#34;/schedule/&#34;&gt;Planificación&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Consultar la página &lt;a href=&#34;https://cienciasocialabierta.netlify.com/schedule/&#34;&gt;Planificación&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>

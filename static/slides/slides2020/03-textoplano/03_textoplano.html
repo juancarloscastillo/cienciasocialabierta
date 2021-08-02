@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Investigación Social Abierta</title>
+    <meta charset="utf-8" />
+    <meta name="author" content=".small[Juan Carlos Castillo    Departamento de Sociología - UCH / COES   ]" />
+    <script src="libs/header-attrs/header-attrs.js"></script>
+    <link rel="stylesheet" href="/home/juank/Dropbox/cursos 2/facso/ciencia social abierta/csaweb/static/slides/slides2020/custom_2020.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+class: front
+
+
+
+
+
+&lt;!---
+Para correr en ATOM
+- open terminal, abrir R (simplemente, R y enter)
+- rmarkdown::render('static/docpres/07_interacciones/7interacciones.Rmd', 'xaringan::moon_reader')
+
+About macros.js: permite escalar las imágenes como [scale 50%](path to image), hay si que grabar ese archivo js en el directorio.
+---&gt;
+
+
+.pull-left[
+# Ciencia Social Abierta
+## cienciasocialabierta.netlify.app
+----
+## Juan Carlos Castillo
+## Sociología FACSO - UChile
+## 1er Sem 2020
+]
+
+
+.pull-right[
+.right[
+![:scale 70%](https://cienciasocialabierta.netlify.com/img/hex_multiva.png)
+]
+
+
+## Sesión 3: *Escritura en texto simple*
+]
+
+---
+
+layout: true
+class: animated, fadeIn
+
+---
+class: roja, right, bottom
+
+# Resumen sesion anterior
+
+---
+class: inverse
+## Resumen (I)
+
+- Crisis de acceso &lt;-&gt; crisis de reproducibilidad
+
+--
+
+- Publica (alto impacto) o perece -&gt; fomento de la irreproducibilidad
+
+--
+
+- Escasa publicación de estudios con resultados nulos
+
+--
+
+- Dilemas de eficiencia y éticos
+
+---
+class: inverse
+## Resumen (II): Enfrentando la crisis de ciencia abierta (acceso y reproducibilidad)
+
+- Escritura abierta (texto simple/plano)
+
+--
+
+- Repositorio con datos y código de análisis abierto
+
+--
+
+- Flujo de trabajo documentado y reproducible
+
+--
+
+- Control de versiones
+
+--
+
+- Publicación abierta y oportuna
+
+
+
+
+---
+class: roja, right, bottom,slideInRight
+
+# Esta sesión:
+
+## * Fundamentos escritura simple
+
+## * Markdown
+
+---
+class: inverse, bottom, right
+
+# Fundamentos de escritura simple
+
+---
+## Flujo de trabajo con procesador de texto tradicional
+
+.center[
+![:scale 70%](W_workflow.png)
+]
+
+---
+# Abriendo el archivo de escritura tradicional
+
+![](realWord.png)
+
+
+---
+# Desventajas del procesador tradicional para ciencia abierta
+
+- Barrera de pago/licencia para acceder a contenidos
+
+- No permite un documento enteramente reproducible que combine texto y código de análisis
+
+- Difícil versionamiento y llevar registro de quién hizo qué cambio, barrera a la reproducibilidad y colaboración
+
+---
+# Escritura libre y abierta
+
+- independiente de programa comercial
+
+- independiente de plataformas específicas
+
+- que permita combinar texto y análisis en un mismo documento
+
+- foco en los contenidos en lugar del formato
+
+- que permita distintas opciones de formato final
+
+---
+# Inspiración
+
+.center[
+![](bowers&amp;healey.png)]
+
+---
+# Principales Alternativas
+
+&lt;br&gt;
+
+
+|          	| **Control de formato** 	| **Marcas de edición** 	| **Formatos de salida** 	|
+|----------	|:--------------------:|:----------------:|:--------------------:|
+| LaTeX    	|          +         	|        +       	|          -         	|
+| Markdown 	|          -         	|        -       	|          +         	|
+
+
+---
+class: inverse, bottom, right, slideInRight
+
+# Markdown
+
+---
+
+# Markdown
+
+- Literalmente: pocas marcas de edición
+
+--
+
+- No es un programa, es una forma de escritura
+
+--
+
+- Fácil escritura y conversión a otros formatos de salida (html, pdf)
+
+--
+
+- Soporta encabezados, tablas, imágenes, tablas de contenidos, ecuaciones, links ... todo lo necesario para documentos académicos
+
+--
+
+- filosofía: foco en contenido primero, el formato después.
+
+---
+# Ejemplos de marcas de edición en Markdown
+
+
+  - Texto en **negrita** entre dos astericos: ``` **negrita** ```
+
+  - Texto en *cursiva* con un asterico por lado: ``` *cursiva* ```
+  
+  - Títulos se marcan con # al principio, subtítulos ## , y así sucesivamente
+  
+  
+- Mayores detalles en la Práctica de Markdown (ver sitio web del curso)
+
+
+---
+# Markdown y pandoc
+
+
+![](pandoc.png)
+
+---
+class: inverse, slideInRight
+
+## Resumen
+
+- escritura cerrada en procesadores tradicionales
+
+- escritura simple es escritura abierta
+
+- formato de documentos simples mediante marcas de edición
+
+- lenguaje de escritura simple propuesto: Markdown
+
+- marcas de edición en Markdown luego son transformadas a formatos publicables vía PANDOC
+
+---
+class: roja, middle, center,slideInRight
+
+# Próxima clase: 
+# Rmarkdown y documentos dinámicos
+
+
+---
+class: front
+
+
+.pull-left[
+# Ciencia Social Abierta
+## cienciasocialabierta.netlify.com
+----
+## Juan Carlos Castillo
+## Sociología FACSO - UChile
+## 1er Sem 2020
+]
+
+
+.pull-right[
+.right[
+![:scale 70%](https://cienciasocialabierta.netlify.com/img/hex_multiva.png)
+]
+
+
+]
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script src="https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"></script>
+<script>var slideshow = remark.create({
+"ratio": "16:9",
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

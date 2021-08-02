@@ -1,9 +1,9 @@
 ---
-title: "Material"
+title: "Clases"
 slug: class
 menu:
   class:
-    parent: Material
+    parent: Sesiones
     weight: 1
 type: docs
 weight: 1
@@ -11,4 +11,4 @@ weight: 1
 
 Esta página contiene los materiales de los **contenidos** de cada sesión (documento de presentación, lecturas, links), y también las **guías prácticas**.
 
-Todo el material es accesible desde el menú de la izquierda <--
+Todo el material es accesible desde el menú de la izquierda <-- 

@@ -16,4 +16,3 @@
 [context.branch-deploy]
   HUGO_VERSION = "0.68.1"
 #  command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
--

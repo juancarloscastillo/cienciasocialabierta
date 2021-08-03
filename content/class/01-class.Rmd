@@ -1,6 +1,6 @@
 ---
-title: "Introducción"
-linktitle: "1: Programa del curso"
+title: "Presentación"
+linktitle: "1: Presentación"
 date: "2021-08-03"
 class_date: "2021-08-03"
 citeproc: false
@@ -22,14 +22,11 @@ editor_options:
 
 ## Documento presentación
 
-<!---
+<span class="sidenote">Para ver en pantalla completa click [**aquí**](/slides/01-programa/01_programa.html). Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. </span>
 
-<iframe src=/slides/01-programa/01_csa_programa.html height="500" width="775">
+<iframe src=/slides/01-programa/01_programa.html height="550" width=100% allowfullscreen="true">
 </iframe>
 
-Acceso en pantalla completa [AQUÍ](/slides/01-programa/01_csa_programa.html)
-
---->
 
 ## Video sesión 1
 
@@ -38,9 +35,6 @@ Acceso en pantalla completa [AQUÍ](/slides/01-programa/01_csa_programa.html)
 <source src="" type="video/mp4">
 </video>
 </div>
-
-
-
 
 --
 

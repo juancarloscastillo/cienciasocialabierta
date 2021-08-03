@@ -42,12 +42,12 @@ Al finalizar el curso, ud. será capaz de:
 
 ## Contenidos
 
-### Unidad I: Introducción a la ciencia abierta
+### Unidad I: Introducción a la ciencia abierta y transparencia
 
 - Cierre y crisis de la ciencia
 - Marquetización de la academia y consecuencias para su quehacer
 - Propuestas de políticas de apertura científica a nivel internacional
-- Preregistros y datos abiertos
+- Transparencia: Preregistros y datos abiertos
 
 ### Unidad II: Reproducibilidad
 

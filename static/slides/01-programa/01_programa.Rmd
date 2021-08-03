@@ -1,7 +1,7 @@
 ---
-title: "Estadística Multivariada"
+title: "Ciencia Social Abierta"
 author: ".small[Juan Carlos Castillo <br><br> Departamento de Sociología - UCH / COES <br><br>]"
-date: "1er Sem 2021"
+date: "2do Sem 2021"
 output:
   xaringan::moon_reader:
     css: ["custom_2020.css","https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"] # "../ninjutsu.css", paraflipbook
@@ -44,15 +44,8 @@ pacman::p_load(flipbookr, tidyverse)
 
 ```{r xaringanExtra, include=FALSE}
 xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css"))
-xaringanExtra::use_share_again()
+# xaringanExtra::use_share_again()
 xaringanExtra::use_scribble()
-```
-
-
-```{r style-share-again, echo=FALSE}
-xaringanExtra::style_share_again(
-  share_buttons = c("none")
-)
 ```
 
 
@@ -67,19 +60,19 @@ About macros.js: permite escalar las imágenes como [scale 50%](path to image), 
 
 
 .pull-left[
-# Estadística Multivariada
+# Ciencia Social Abierta
 ## Juan Carlos Castillo
 ## Sociología FACSO - UChile
-## 1er Sem 2021
-## [.purple[multivariada.netlify.com]](https://multivariada.netlify.com)
+## 2do Sem 2021
+## [.orange[cienciasocialabierta.netlify.com]](https://cienciasocialabierta.netlify.com)
 ]
 
 
 .pull-right[
 .right[
 <br>
-## .purple[Sesión 9: Regresión Logística (2)]
-![:scale 70%](https://multivariada.netlify.com/img/hex_multiva.png)
+## .orange[Sesión 1: Presentación]
+![:scale 70%](https://cienciasocialabierta.netlify.com/img/hex_multiva.png)
 
 
 
@@ -91,15 +84,216 @@ About macros.js: permite escalar las imágenes como [scale 50%](path to image), 
 layout: true
 class: animated, fadeIn
 
+---
+
+class: roja, middle, right
+
+
+# .yellow[¿Crisis de apertura en ciencia?]
+
+## 1. Transparencia
+## 2. Reproducibilidad 
+## 3. Acceso
 
 ---
-class: inverse, bottom, right, animated, slideInRight
+class: roja, middle, right
 
 
-# .red[Contenidos]
+# .yellow[¿Crisis de apertura en ciencia?]
 
-## 1. Repaso de sesión anterior
+## 1. .yellow[Transparencia]
+## 2. Reproducibilidad 
+## 3. Acceso
 
-## 2. Estimación regresión logística
+---
+## Flujo de investigación científica
 
-## 3. Ajuste regresión logística
+![](flujo_1.png)
+
+---
+## Flujo de investigación científica y ciencia abierta
+
+![](flujo_2.png)
+
+---
+## Flujo de investigación científica y ciencia abierta
+
+![](flujo_trans.png)
+
+---
+## Transparencia 1: Diseño
+
+- Presión por publicar resultados "relevantes" (rechazar $H_0$ )
+
+--
+
+- .red[HARKing]: Hypothesis After the Results are Known
+
+  - Se adaptan las hipótesis y teorías a los resultados
+  
+  - Barreras al avance del conocimiento ya que solo conocemos lo que "resulta"
+  
+---
+## Transparencia 2: Datos
+
+- Dificultades en el acceso y la documentación de la información levantada  en la investigación
+
+--
+
+- Barreras la reproducibilidad y al avance de investigaciones con datos muchas veces levantados con fondos públicos
+
+
+---
+class: roja, middle, right
+
+
+# .yellow[¿Crisis de apertura en ciencia?]
+
+## 1. Transparencia
+## 2. .yellow[Reproducibilidad] 
+## 3. Acceso
+
+---
+# Reproducibilidad
+
+![](flujo_rep.png)
+
+
+---
+### ¿Qué porcentaje de los estudios publicados son reproducibles?
+
+.pull-left-wide[
+![:scale 95%](reproducibility_science.png)
+]
+.pull-right-narrow[
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+... alrededor de un **40%!** (... varía por disciplina)
+]
+---
+# ¿Por qué se ocurre la crisis de reproducibilidad?
+
+Algunas razones:
+
+- pobre documentación metodológica
+
+- sesgo hacia búsqueda y publicación de resultados significativos (p-hacking), atribuido a la presión por publicar
+
+- en algunos casos, falseamiento de datos/análisis
+
+---
+class: roja, middle, right
+
+
+# .yellow[¿Crisis de apertura en ciencia?]
+
+## 1. Transparencia
+## 2. Reproducibilidad
+## 3. .yellow[Acceso]
+
+
+---
+## Acceso
+
+![](flujo_acceso.png)
+
+---
+### El ciclo actual de publicación científica
+.center[
+![:scale 73%](ciclocerrado.png)
+]
+
+.right[
+.tiny[
+(Adaptado de: [https://creativecommons.org/about/program-areas/open-access/](https://creativecommons.org/about/program-areas/open-access/))
+]
+]
+---
+class: middle, center
+
+.pull-left[
+## Barreras de pago
+]
+.pull-right[
+.left[
+![:scale 70%](https://localist-images.azureedge.net/photos/723383/huge/3b15ca9bd709e6738e42326fa3f35ff4a3357bb9.jpg)
+]
+]
+
+---
+### Márgenes de ganancia
+
+.center[
+![:scale 70%](profits.png)
+]
+
+---
+.pull-left-narrow[
+## Beneficios acceso abierto
+
+<br>
+<br>
+
+.tiny[
+Adaptado de: [http://whyopenresearch.org/#](http://whyopenresearch.org/)
+]
+]
+
+.pull-right-wide[
+.center[
+![:scale 92%](openbeneficios.png)
+]
+
+]
+
+
+
+---
+class: roja, middle, center
+
+# Este curso
+
+---
+## Enfrentando la crisis
+
+- tema de **ética** científica y también de **eficiencia**
+
+- por ahora en Chile, la apertura depende de la **voluntad de los investigadores**, pero ... 
+
+- crecientemente financistas y medios de publicación  se hacen **más exigentes**, gobiernos extranjeros ya han implementado políticas de transparencia, acceso y reproducibilidad.
+
+- necesidad de **herramientas metodológicas** 
+
+---
+## Resumen
+
+![:scale 140%](esquema_general.png)
+
+---
+class: front
+.pull-left[
+# Ciencia Social Abierta
+<br>
+<br>
+## Sociología FACSO - UChile
+## 2do Sem 2021
+## [.orange[cienciasocialabierta.netlify.com]](https://cienciasocialabierta.netlify.com)
+]
+
+
+.pull-right[
+.right[
+<br>
+
+![:scale 70%](https://cienciasocialabierta.netlify.com/img/hex_multiva.png)
+
+
+
+]
+
+]
+

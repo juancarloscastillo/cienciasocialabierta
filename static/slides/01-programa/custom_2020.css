@@ -34,6 +34,7 @@ h1, h2, h3 {
   font-family: 'Yanone Kaffeesatz';
   font-weight: normal;
   color: #dc322f;
+  margin-bottom:0.2px;
 }
 .remark-slide-content {
   background-color: #FFF;
@@ -66,7 +67,8 @@ h1, h2, h3 {
 .remark-slide-number {
   color: #DD0101;
   opacity: 1;
-  font-size: 0.9em;
+  font-size: 0.6em;
+  margin-right: 1115px;
 }
 strong{color:#d33682;}
 a, a > code {
@@ -97,16 +99,22 @@ a, a > code {
 
 
 .inverse h1{
-  font-size: 3em;  
+  font-size: 3em;
 }
 
 .inverse h2{
-  font-size: 75px;  
+  font-size: 75px;
 }
 
 .inverse h3{
-  font-size: 65px;  
+  font-size: 65px;
 }
+
+.inverse .MathJax_CHTML {
+    font-size: 1.3em !important;
+    color: #FFFFFF;
+}
+
 
 .roja {
   background-color: #d22000;
@@ -132,11 +140,11 @@ a, a > code {
 }
 
 .front {
-  background: linear-gradient(180deg, #154360 0%, #AF601A 100%);
+  background: linear-gradient(180deg, #174a6b 0%, #3694dd 100%);
 }
 
 .front h1 {
-  color: #FF9000;
+  color: #FFFFFF;
   font-size: 2.2em;
 }
 
@@ -145,14 +153,11 @@ a, a > code {
   font-size: 1.3em;
 }
 
-.front h3 {
-  color: #154360;
-  font-size: 1.3em;
-}
 
 .front .remark-slide-number {
   display: none;
 }
+
 
 .title-slide, .title-slide h1, .title-slide h2, .title-slide h3 {
   color: #fdf6e3;
@@ -189,6 +194,7 @@ a, a > code {
   float: right;
   width: 47%;
 }
+
 .pull-left-narrow {
   float: left;
   width: 33%;
@@ -210,8 +216,6 @@ a, a > code {
   width: 66%;
 }
 
-
-}
 .pull-right ~ * {
   clear: both;
 }
@@ -231,13 +235,18 @@ table {
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 
-.large { font-size: 130%w
+.large { font-size: 130%
 }
 
 .medium { font-size: 85%
 }
 
 .small { font-size: 70%
+}
+
+.smally { font-size: 60%
+}
+.tiny { font-size: 50%
 }
 
 .red { font-color: #000
@@ -255,9 +264,42 @@ th, td { padding: 5px; }
 }
 
 .MathJax_CHTML {
-    font-size: 30px !important;
+    font-size: 1em !important;
     color: #225b7c;
 }
+
+table {
+  padding: 0; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      font-weight: bold;
+      border: 1px solid #cccccc;
+      text-align: left;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 1px solid #cccccc;
+      text-align: left;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+      margin-bottom: 0; }
+
+/*
+br {
+            display: block; /* makes it have a width */
+            content: ""; /* clears default height */
+            margin-top: 2; /* change this to whatever height you want it */
+}
+*/
 
 
 /*
@@ -268,3 +310,109 @@ th, td { padding: 5px; }
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
 }
 */
+
+
+
+/******************
+ *
+ * Coloured content boxes
+ *
+ ****************/
+
+
+.content-box {
+    box-sizing: content-box;
+    	background-color: #e2e2e2;
+  /* Total width: 160px + (2 * 20px) + (2 * 8px) = 216px
+     Total height: 80px + (2 * 20px) + (2 * 8px) = 136px
+     Content box width: 160px
+     Content box height: 80px */
+}
+
+
+.content-box-blue,
+.content-box-gray,
+.content-box-grey,
+.content-box-army,
+.content-box-green,
+.content-box-purple,
+.content-box-red,
+.content-box-yellow {
+    border-radius: 10px;
+    margin: 0 0 15px;
+    overflow: hidden;
+    padding: 10px;
+    width: 100%;
+}
+
+.content-box-blue {
+    background-color: #F0F8FF;
+
+}
+
+.content-box-gray {
+    background-color: #e2e2e2;
+}
+
+.content-box-grey {
+	background-color: #F5F5F5;
+}
+
+.content-box-army {
+	background-color: #737a36;
+}
+
+.content-box-green {
+	background-color: #d9edc2;
+}
+
+.content-box-purple {
+	background-color: #e2e2f9;
+}
+
+.content-box-red {
+	background-color: #f9dbdb;
+}
+
+.content-box-yellow {
+	background-color: #fef5c4;
+}
+
+
+.full-width {
+    display: flex;
+    width: 100%;
+    flex: 1 1 auto;
+}
+
+
+/**************
+ *
+ * Font colours
+ *
+ **************/
+
+
+.black { color: black; }
+.red { color: red; }
+.blue { color: blue; }
+.green { color: green; }
+.yellow { color: yellow; }
+.orange { color: orange; }
+.purple { color: purple; }
+.gray { color: gray; }
+.grey { color: gray; }
+.white{ color: white; }
+
+.bold { font-weight: bold; }
+.bolder { font-weight: bolder; }
+
+
+iframe {
+    border: 1px solid black;
+    width: 100%;
+}
+
+.output {
+    background: #eee;
+}

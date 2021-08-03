@@ -7,8 +7,8 @@ slug: schedule
 |      |  <i class="fas fa-chalkboard-teacher"></i>  Contenidos     |  <i class="fas fa-user-edit"></i>  Prácticas y evaluaciones | <i class="fas fa-book-reader"></i> Lecturas y links
 - |-----------|-----------|----------
 <font color="orange"> **Agosto** </font> |   |   |
-3 | [**1. Presentación**](/class/01-class) <br> - Programa y forma de trabajo <br/> - La crisis de la ciencia cerrada  | [Película Paywall](https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/)  |  [Nosek, B. A. et al (2015). Promoting an open research culture. Science, 348(6242), 1422–1425.](https://doi.org/10.1126/science.aab2374)
-10  | [**2. Hacia una ciencia abierta**](/class/02-class) <br> • apertura <br> • reproducibilidad <br> • accesibilidad  |   |  [Nassi-Calo (2014) La reproducibilidad en los resultados de investigación](http://blog.scielo.org/es/2014/02/27/la-reproducibilidad-en-los-resultados-de-investigacion-la-punta-del-iceberg/)
+3 | [**1. Presentación**](/class/01-class) <br> - Programa y forma  de trabajo <br/> - La crisis de la ciencia cerrada  | [Película Paywall](https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/)  |  [Nosek, B. A. et al (2015). Promoting an open research culture. Science, 348(6242), 1422–1425.](https://doi.org/10.1126/science.aab2374)
+10  | [**2. Hacia una ciencia abierta**](/class/02-class) <br> • transparencia <br> • reproducibilidad <br> • accesibilidad  |   |  [Nassi-Calo (2014) La reproducibilidad en los resultados de investigación](http://blog.scielo.org/es/2014/02/27/la-reproducibilidad-en-los-resultados-de-investigacion-la-punta-del-iceberg/) <br> <br> [Fardella et al (2020) Escribir papers bajo el régimen del management académico: Cuerpo, afectos y estrategias](/docs/fardella2020escribirpapers.pdf) <br><br> [Christensen et al cap2: What is ethical research?](/docs/CAP2 Christensen et al (2019) Transparent and Reproducible Social Science Research.pdf)
 17  | [**3. Pre-registros**]()  |   |  [García-Garzón et al (2018) Estudios de replicación, pre-registros y ciencia abierta en Psicología](/docs/ciencia_abierta_psicologia.pdf) <br><br> [Yamada 2018 How to Crack Pre-registration](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01831/full)
 24  | [**4. Datos Abiertos**]()  |   |
 31  | [**Asesorías informe 1: Pre-registro y selección de datos**](/programa/#entrega-1-20-pre-registro-y-descripción-de-datos)  | <font color="red"> **Viernes 3: Entrega informe 1** </font>   |
@@ -23,7 +23,7 @@ slug: schedule
 19 | [**8. Control de versiones 1: Git**](/class/07-class)   | Práctica Git    | [Git](https://git-scm.com/)
 26 | [**9. Control de versiones 2: Github**](/class/08class)  | Práctica Gihub  <br>  |[Github](https://github.com/)
 <font color="orange"> **Noviembre** </font> |   |   |
-02 | [**10. Acceso y publicación 1**](/class/09-class)  | [OSF](https://osf.io/) y [Pre-prints/Socarxiv](https://socopen.org/)  | - [Fardella et al (2020) Escribir papers bajo el régimen del management académico: Cuerpo, afectos y estrategias](/docs/fardella2020escribirpapers.pdf) |
+02 | [**10. Acceso y publicación 1**](/class/09-class)  | [OSF](https://osf.io/) y [Pre-prints/Socarxiv](https://socopen.org/)  |  |
 09  | Semana de receso  |   |
 16 | [**11. Acceso y publicación 2**](/class/10-class)  |   | [Github pages](https://pages.github.com/) <br> [blogdown](https://bookdown.org/yihui/blogdown/) <br> [Xaringan](https://slides.yihui.org/xaringan/#1)
 23 | [Asesoría Informe 3: Proyecto Abierto](/programa/#entrega-3-50-proyecto-abierto) | <font color="red"> **Viernes 26: Entrega informe 3** </font>

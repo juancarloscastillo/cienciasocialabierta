@@ -1,16 +1,30 @@
 <!DOCTYPE html>
 <html lang="" xml:lang="">
   <head>
-    <title>Investigación Social Abierta</title>
+    <title>Ciencia Social Abierta</title>
     <meta charset="utf-8" />
     <meta name="author" content=".small[Juan Carlos Castillo    Departamento de Sociología - UCH / COES   ]" />
     <script src="libs/header-attrs/header-attrs.js"></script>
+    <link href="libs/tile-view/tile-view.css" rel="stylesheet" />
+    <script src="libs/tile-view/tile-view.js"></script>
+    <link href="libs/animate.css/animate.xaringan.css" rel="stylesheet" />
+    <script src="libs/fabric/fabric.min.js"></script>
+    <link href="libs/xaringanExtra-scribble/scribble.css" rel="stylesheet" />
+    <script src="libs/xaringanExtra-scribble/scribble.js"></script>
+    <script>document.addEventListener('DOMContentLoaded', function() { window.xeScribble = new Scribble({"pen_color":["#FF0000"],"pen_size":3,"eraser_size":30,"palette":[]}) })</script>
     <link rel="stylesheet" href="custom_2020.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css" type="text/css" />
   </head>
   <body>
     <textarea id="source">
 
 class: front
+
+
+
+
+
+
 
 
 
@@ -27,91 +41,87 @@ About macros.js: permite escalar las imágenes como [scale 50%](path to image), 
 
 .pull-left[
 # Ciencia Social Abierta
-## cienciasocialabierta.netlify.com
-----
 ## Juan Carlos Castillo
 ## Sociología FACSO - UChile
-## 1er Sem 2020
+## 2do Sem 2021
+## [.orange[cienciasocialabierta.netlify.com]](https://cienciasocialabierta.netlify.com)
 ]
 
 
 .pull-right[
 .right[
-![:scale 70%](https://cienciasocialabierta.netlify.com/img/hex_multiva.png)
-]
-
-
 &lt;br&gt;
-### Sesión 2: *Hacia una ciencia abierta*
+## .orange[Sesión 2: Antecedentes]
+![:scale 70%](https://cienciasocialabierta.netlify.com/img/hex_multiva.png)
+
+
+
 ]
+
+]
+---
+
+layout: true
+class: animated, fadeIn
 
 ---
-# Resumen semana anterior - Crisis en la ciencia:
 
-# a. Acceso
-# b. Reproducibilidad
----
-# El ciclo actual de publicación científica
-.center[
-![:scale 68%](../01-programa/ciclocerrado.png)
-]
-.small[
-(Adaptado de: [https://creativecommons.org/about/program-areas/open-access/](https://creativecommons.org/about/program-areas/open-access/))
-]
+class: roja, middle, right
+
+
+# .yellow[Sesión 2: Antecedentes]
+
+## 1. Resumen sesión anterior
+## 2. Principios de la ciencia
+## 3. Problemas de apertura
+
 
 ---
-# Modelo actual de publicación científica:
-.pull-left[
-![:scale 70%](https://i.pinimg.com/originals/d3/93/93/d39393c978cec32e2598c1d1261ace4f.jpg)
+class: roja, middle, right
+
+
+# .yellow[Sesión 2: Antecedentes]
+
+## 1. .yellow[Resumen sesión anterior]
+## 2. Principios de la ciencia
+## 3. Problemas de apertura
+
+---
+## Flujo, ciencia abierta y herramientas
+
+![](../01-programa/esquema_general.png)
+
+---
+# (sobre película Paywall) 
+.pull-left-narrow[
+&lt;br&gt;
+![](https://i.pinimg.com/originals/d3/93/93/d39393c978cec32e2598c1d1261ace4f.jpg)
 ]
 
+.pull-right-wide[
 
-- las vacas hacen leche. Se ordeñan solas
+### Modelo actual de publicación científica:
+- las vacas hacen leche(se ordeñan solas)
 
 - otras vacas revisan la leche (gratis)
 
 - las vacas le pagan al granjero para distribuir la leche
 
 - luego el granjero le vende la leche de vuelta a las vacas
+]
+
+
 
 ---
-class: roja
 
-# REPRODUCIBILIDAD
----
-class: center
-
-![:scale 80%](reproducible-replicable-robust-generalisable.jpg)
-
----
-class: center
+class: roja, middle, right
 
 
-![](nature-reproducibility-crisis.jpeg)
+# .yellow[Sesión 2: Antecedentes]
 
-.small[
-Fuente: [Baker (2016) 1,500 scientists lift the lid on reproducibility - Nature](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)]
-
----
-.pull-left[
-![:scale 80%](https://www.nature.com/news/polopoly_fs/7.36719.1464174488!/image/reproducibility-graphic-online4.jpg_gen/derivatives/landscape_630/reproducibility-graphic-online4.jpg)]
-
-
-![:scale 45%](https://www.nature.com/news/polopoly_fs/7.36727.1464174506!/image/reproducibility-graphic-online5.jpg_gen/derivatives/landscape_630/reproducibility-graphic-online5.jpg)
-
----
-![](stapelscandal.jpg)
-
----
-# Cultura de "publica o perece" (publish or perish)
-
-## Posibles correlatos:
-
-- Temor a que "te roben la idea" -&gt; evitar poner datos/código a disposición de terceros
-
-- p-hacking : "presionar los datos" para rechazar hipótesis nula
-
-- falseamiento de datos
+## 1. Resumen sesión anterior
+## 2. .yellow[Principios de la ciencia]
+## 3. Problemas de apertura
 
 ---
 ## Ciencia abierta: Vuelta a los principios  de la ciencia (Merton)
@@ -140,7 +150,7 @@ Fuente: [Baker (2016) 1,500 scientists lift the lid on reproducibility - Nature]
 - Para todos los principios identifica normas y contranormas:
 
 ---
-## Normas y contra-normas de la ética científica (Anderson, 2007)
+### Normas y contra-normas de la ética científica (Anderson, 2007)
 
 .center[
 ![:scale 75%](tableanderson.png)
@@ -148,17 +158,120 @@ Fuente: [Baker (2016) 1,500 scientists lift the lid on reproducibility - Nature]
 ---
 ## Normas y contra-normas de la ética científica (Anderson, 2007)
 
+.center[
 ![:scale 75%](anderson.png)
+]
+---
+class: roja, middle, right
 
+
+# .yellow[Sesión 2: Antecedentes]
+
+## 1. Resumen sesión anterior
+## 2. Principios de la ciencia
+## 3. .yellow[Problemas de apertura]
+
+---
+class: center
+
+![:scale 80%](reproducible-replicable-robust-generalisable.jpg)
+
+---
+class: center
+
+![](nature-reproducibility-crisis.jpeg)
+
+.small[
+Fuente: [Baker (2016) 1,500 scientists lift the lid on reproducibility - Nature](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)]
+
+
+---
+class: center
+
+![](nature-rep-crises2.png)
+
+.small[
+Fuente: [Baker (2016) 1,500 scientists lift the lid on reproducibility - Nature](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)]
+
+
+---
+
+.pull-left-wide[
+![:scale 90%](reproducibility-request.png)
+]
+
+.tiny[
+.pull-right-narrow[
+[Knudtson, K. L., et al (2019). Survey on Scientific Shared Resource Rigor and Reproducibility. Journal of Biomolecular Techniques : JBT, 30(3), 36–44. https://doi.org/10.7171/jbt.19-3003-001
+](https://pubmed.ncbi.nlm.nih.gov/31452645/)
+]
+]
+
+---
+.pull-left[
+![:scale 80%](https://www.nature.com/news/polopoly_fs/7.36719.1464174488!/image/reproducibility-graphic-online4.jpg_gen/derivatives/landscape_630/reproducibility-graphic-online4.jpg)]
+
+
+![:scale 45%](https://www.nature.com/news/polopoly_fs/7.36727.1464174506!/image/reproducibility-graphic-online5.jpg_gen/derivatives/landscape_630/reproducibility-graphic-online5.jpg)
+
+---
+class: inverse bottom right
+
+# Presión por publicar
+
+---
+
+.center[
+![:scale 80%](authorship-language.png)
+]
+
+.tiny[
+[Koch, T., &amp; Vanderstraeten, R. (2019). Internationalizing a national scientific community? Changes in publication and citation practices in Chile, 1976–2015. Current Sociology, 67(5), 723–741. https://doi.org/10.1177/0011392118807514](https://journals.sagepub.com/doi/10.1177/0011392118807514)
+
+]
+
+---
+
+# Cultura de "publica o perece" (publish or perish)
+
+## Posibles correlatos:
+
+- Temor a que "te roben la idea" -&gt; evitar poner datos/código a disposición de terceros
+
+- p-hacking : "presionar los datos" para rechazar hipótesis nula
+
+- falseamiento de datos
+
+---
+.center[![](stapelscandal.jpg)
+]
 
 ---
 ## Franco et al (2014) Sesgo de publicaciones
 .center[![:scale 50%](publicationbias.png)
 ]
 
+
 ---
 class: inverse
-## Resumen (I)
+
+# .yellow[¿Alternativas?]
+
+
+- ### Estándares
+
+- ### Herramientas
+
+- ### Incentivos
+
+
+---
+
+![:scale 65%](https://cienciasocialabierta.netlify.app/images/top.jpg) .small[[Nosek et al (2015)](https://science.sciencemag.org/content/348/6242/1422)]
+
+---
+class: inverse
+## .orange[Resumen (I)]
 
 - Crisis de acceso &lt;-&gt; crisis de reproducibilidad
 
@@ -170,21 +283,22 @@ class: inverse
 
 ---
 class: inverse
-## Resumen (II): Enfrentando la crisis de ciencia abierta (acceso y reproducibilidad)
+## .orange[Resumen (II): Enfrentando la crisis]
 
-- Escritura abierta (texto simple/plano)
+- Pre-registro de estudios
 
-- Repositorio con datos y código de análisis abierto
+- Datos abiertos
 
-- Flujo de trabajo documentado y reproducible
-
-- Control de versiones
+- Análisis reproducible
 
 - Publicación abierta y oportuna
 
 ---
-class: inverse center
-![:scale 42%](final-doc.gif)
+class: roja
+## .yellow[Próxima clase]
+
+![](prox-sem.png)
+
 
 ---
 class: front
@@ -196,7 +310,7 @@ class: front
 ----
 ## Juan Carlos Castillo
 ## Sociología FACSO - UChile
-## 1er Sem 2020
+## 2do Sem 2021
 ]
 
 
@@ -299,6 +413,33 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   }
   preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
 })(document);</script>
+<style>
+.logo {
+  background-image: url("../hex_csa.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 16.3em;
+  right: 31em;
+  width: 110px;
+  height: 70px;
+  z-index: 0;
+}
+</style>
+
+<script>
+document
+  .querySelectorAll(
+    '.remark-slide-content' +
+    ':not(.title-slide)' +
+    // add additional classes to exclude here, e.g.
+    // ':not(.inverse)' +
+    ':not(.hide-logo)'
+  )
+  .forEach(el => {
+    el.innerHTML += '<div class="logo"></div>';
+  });
+</script>
 
 <script>
 slideshow._releaseMath = function(el) {

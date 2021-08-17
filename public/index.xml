@@ -13,9 +13,97 @@
     </image>
     
     <item>
-      <title>Introducción</title>
+      <title>Preregistros</title>
+      <link>https://cienciasocialabierta.netlify.com/class/03-class/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://cienciasocialabierta.netlify.com/class/03-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-clase&#34;&gt;Video clase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#links&#34;&gt;Links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/03-preregistro-OSF/03_preregistro_osf.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/03-preregistro-OSF/03_preregistro_osf.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video clase&lt;/h2&gt;
+&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
+&lt;video  style=&#34;width: 100%;&#34; controls&gt;
+&lt;source src=&#34;?raw=1&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;p&gt;–&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;links&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.r-project.org/&#34;&gt;The R Project for Statistical Computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rstudio.com&#34;&gt;R Studio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Antecedentes</title>
+      <link>https://cienciasocialabierta.netlify.com/class/02-class/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://cienciasocialabierta.netlify.com/class/02-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-clase&#34;&gt;Video clase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#links&#34;&gt;Links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/02-bases_ciencia_abierta/02_bases.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/02-bases_ciencia_abierta/02_bases.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video clase&lt;/h2&gt;
+&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
+&lt;video  style=&#34;width: 100%;&#34; controls&gt;
+&lt;source src=&#34;https://www.dropbox.com/s/asq0nqu5zhxbtl9/zoom_0.mp4?raw=1&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;p&gt;–&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;links&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.r-project.org/&#34;&gt;The R Project for Statistical Computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rstudio.com&#34;&gt;R Studio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presentación</title>
       <link>https://cienciasocialabierta.netlify.com/class/01-class/</link>
-      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://cienciasocialabierta.netlify.com/class/01-class/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
@@ -33,15 +121,15 @@
 
 &lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/01-programa/01_csa_programa.html&#34; height=&#34;500&#34; width=&#34;775&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/01-programa/01_programa.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/01-programa/01_programa.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
 &lt;/iframe&gt;
-&lt;p&gt;Acceso en pantalla completa &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/01-programa/01_csa_programa.html&#34;&gt;AQUÍ&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;video-sesión-1&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Video sesión 1&lt;/h2&gt;
 &lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
 &lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;&#34; type=&#34;video/mp4&#34;&gt;
+&lt;source src=&#34;https://www.dropbox.com/s/r3r32m53bhok9fn/sesion1.webm?raw=1&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;/div&gt;
 &lt;p&gt;–&lt;/p&gt;
@@ -57,206 +145,9 @@
     </item>
     
     <item>
-      <title>Práctica Flujo de trabajo reproducible</title>
-      <link>https://cienciasocialabierta.netlify.com/assignment/05-code/</link>
-      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/assignment/05-code/</guid>
-      <description>
-&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;h2&gt;Índice&lt;/h2&gt;
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#instrucciones&#34;&gt;Instrucciones&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#archivos-para-ejercicio&#34;&gt;Archivos para ejercicio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;instrucciones&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Instrucciones&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;revisar sitio del &lt;a href=&#34;https://juancarloscastillo.github.io/ipo/index_es.html&#34;&gt;Protocolo IPO&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;bajar carpeta de ejemplo y ejecutar códigos.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;archivos-para-ejercicio&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Archivos para ejercicio&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;la carpeta de ejemplo se encuentra en el mismo sitio de IPO, pero también se puede bajar directamente &lt;a href=&#34;https://juancarloscastillo.github.io/ipo/IPO_miniex/IPO_miniex.tar.gz&#34;&gt;aquí&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Foro&lt;/h2&gt;
-&lt;p&gt;Preguntas, comentarios y experiencias en el foro abajo.&lt;/p&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;
-
-&lt;/div&gt;
-&lt;script&gt;
-
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
-};
-*/
-(function() { // DON&#39;T EDIT BELOW THIS LINE
-var d = document, s = d.createElement(&#39;script&#39;);
-s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
-s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
-&lt;/script&gt;
-&lt;noscript&gt;
-Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Práctica Citando en texto plano</title>
-      <link>https://cienciasocialabierta.netlify.com/assignment/04-code/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/assignment/04-code/</guid>
-      <description>
-&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;h2&gt;Índice&lt;/h2&gt;
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#instrucciones&#34;&gt;Instrucciones&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#archivos-para-ejercicio&#34;&gt;Archivos para ejercicio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;instrucciones&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Instrucciones&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;ver documento ejemplo abajo&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;practicar la incorporación de citas y comprobar su renderización en html / pdf&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;generar bibliografía propia con Zotero y exportar en formato bibtex / betterbibtex&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;probar en un documento propio&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;archivos-para-ejercicio&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Archivos para ejercicio&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;aquí va el &lt;a href=&#34;https://raw.githubusercontent.com/juancarloscastillo/cienciasocialabierta/master/static/assignment/taller_citandoplano/ejercicio_citandoplano.Rmd&#34;&gt;link al documento Rmd para realizar el ejercicio.&lt;/a&gt;. Seguir las instrucciones en el mismo documento.
-El renderizado a html de este archivo se puede ver &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_citandoplano/ejercicio_citandoplano.html&#34;&gt;aquí&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;bajar aquí el &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_citandoplano/referencias.bib&#34;&gt;archivo de bibliografía&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Foro&lt;/h2&gt;
-&lt;p&gt;Preguntas, comentarios y experiencias en el foro abajo.&lt;/p&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;
-
-&lt;/div&gt;
-&lt;script&gt;
-
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
-};
-*/
-(function() { // DON&#39;T EDIT BELOW THIS LINE
-var d = document, s = d.createElement(&#39;script&#39;);
-s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
-s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
-&lt;/script&gt;
-&lt;noscript&gt;
-Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Práctica RMarkdown</title>
-      <link>https://cienciasocialabierta.netlify.com/assignment/03-code/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/assignment/03-code/</guid>
-      <description>
-&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;h2&gt;Índice&lt;/h2&gt;
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#práctica&#34;&gt;Práctica&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#documento-ejemplo-taller&#34;&gt;Documento ejemplo / taller&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;práctica&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Práctica&lt;/h2&gt;
-&lt;p&gt;La práctica para esta semana consiste en generar un documento en RMarkdown. Para eso:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;revisar presentación de la sesión 4 sobre documentos dinámicos&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;buscar ejemplo de documento realizado en RMarkdown y replicar&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;crear un archivo en base a algún trabajo previo de análisis de datos y traspasarlo a formato RMarkdown en RStudio.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;documento-ejemplo-taller&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Documento ejemplo / taller&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;aquí va el &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_Rmarkdown/taller_rmarkdown.Rmd&#34;&gt;link a el documento&lt;/a&gt; para el taller del día 02 de Junio.&lt;/li&gt;
-&lt;li&gt;para el ejercicio final sobre bibliografía, bajar el &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_Rmarkdown/referencias.bib&#34;&gt;siguiente archivo &lt;code&gt;referencias.bib&lt;/code&gt;&lt;/a&gt; y guardarlo en la misma carpeta que el anterior.&lt;/li&gt;
-&lt;li&gt;el renderizado de este documento se puede ver &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_Rmarkdown/taller_rmarkdown.html&#34;&gt;aquí.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Preguntas, comentarios y experiencias en el foro abajo.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Foro&lt;/h2&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;
-
-&lt;/div&gt;
-&lt;script&gt;
-
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
-};
-*/
-(function() { // DON&#39;T EDIT BELOW THIS LINE
-var d = document, s = d.createElement(&#39;script&#39;);
-s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
-s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
-&lt;/script&gt;
-&lt;noscript&gt;
-Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Práctica 1</title>
       <link>https://cienciasocialabierta.netlify.com/assignment/01-code/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://cienciasocialabierta.netlify.com/assignment/01-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
@@ -268,61 +159,6 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;p&gt;El documental se asocia a la primera crisis del quehacer científico comentada en clases: crisis de acceso. Se llama &lt;strong&gt;“Paywall”&lt;/strong&gt;, y aborda con detalle las características e implicancias de las barreras de pago hacia el conocimiento científico, lo que ha impulsado fuertemente movimientos y políticas de ciencia abierta. Lo pueden encontrar en la siguiente dirección: &lt;a href=&#34;https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/&#34;&gt;https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/&lt;/a&gt;, desde donde se puede ver con subtítulos en español.&lt;/p&gt;
 &lt;p&gt;El video tiene que ver con la segunda crisis, reproducibilidad: &lt;a href=&#34;https://www.youtube.com/watch?v=FpCrY7x5nEE&#34;&gt;https://www.youtube.com/watch?v=FpCrY7x5nEE&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Anotar preguntas y comentarios, y los discutimos la próxima sesión.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Práctica Markdown</title>
-      <link>https://cienciasocialabierta.netlify.com/assignment/02-code/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/assignment/02-code/</guid>
-      <description>
-&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;h2&gt;Índice&lt;/h2&gt;
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;La práctica para esta semana consiste en generar un documento en Markdown. Para eso:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;revisar video tutorial de la sesión 3 sobre escritura en texto simple&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;leer capítulo sobre Markdown en libro &lt;a href=&#34;https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html&#34;&gt;Investigación Social Abierta&lt;/a&gt; (este libro es todavía un proyecto, espero esté listo a fin de semestre, pero hay algunos capítulos que vamos a ir usando)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;revisar &lt;a href=&#34;https://www.markdowntutorial.com/es/&#34;&gt;Tutorial de Markdown&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;con esto, crear un archivo Markdown en RStudio y probar las distintas marcas de edición.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Anotar preguntas y comentarios, y los discutimos la próxima sesión.&lt;/p&gt;
-&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Foro&lt;/h2&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;
-
-&lt;/div&gt;
-&lt;script&gt;
-
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
-};
-*/
-(function() { // DON&#39;T EDIT BELOW THIS LINE
-var d = document, s = d.createElement(&#39;script&#39;);
-s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
-s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
-&lt;/script&gt;
-&lt;noscript&gt;
-Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;
-&lt;/div&gt;
 </description>
     </item>
     
@@ -384,26 +220,26 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/02-class&#34;&gt;&lt;strong&gt;2. Hacia una ciencia abierta&lt;/strong&gt;&lt;/a&gt; &lt;br&gt; • apertura &lt;br&gt; • reproducibilidad &lt;br&gt; • accesibilidad&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://blog.scielo.org/es/2014/02/27/la-reproducibilidad-en-los-resultados-de-investigacion-la-punta-del-iceberg/&#34;&gt;Nassi-Calo (2014) La reproducibilidad en los resultados de investigación&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/02-class&#34;&gt;&lt;strong&gt;2. Antecedentes&lt;/strong&gt;&lt;/a&gt; &lt;br&gt; • principios &lt;br&gt; • problemas &lt;br&gt; • alternativas&lt;/td&gt;
+&lt;td&gt;- Inscripción grupos de trabajo&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://blog.scielo.org/es/2014/02/27/la-reproducibilidad-en-los-resultados-de-investigacion-la-punta-del-iceberg/&#34;&gt;Nassi-Calo (2014) La reproducibilidad en los resultados de investigación&lt;/a&gt; &lt;br&gt; &lt;br&gt; &lt;a href=&#34;https://cienciasocialabierta.netlify.com/docs/fardella2020escribirpapers.pdf&#34;&gt;Fardella et al (2020) Escribir papers bajo el régimen del management académico: Cuerpo, afectos y estrategias&lt;/a&gt; &lt;br&gt;&lt;br&gt; &lt;a href=&#34;https://cienciasocialabierta.netlify.com/docs/CAP2%20Christensen%20et%20al%20(2019)%20Transparent%20and%20Reproducible%20Social%20Science%20Research.pdf&#34;&gt;Christensen et al cap2: What is ethical research?&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;17&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;&#34;&gt;&lt;strong&gt;3. Pre-registros&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;- Práctica pre-registros&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/docs/ciencia_abierta_psicologia.pdf&#34;&gt;García-Garzón et al (2018) Estudios de replicación, pre-registros y ciencia abierta en Psicología&lt;/a&gt; &lt;br&gt;&lt;br&gt; &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01831/full&#34;&gt;Yamada 2018 How to Crack Pre-registration&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;24&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;&#34;&gt;&lt;strong&gt;4. Datos Abiertos&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;- Práctica datos abiertos&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;31&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;&#34;&gt;&lt;strong&gt;Asesorías informe 1: Pre-registro y selección de datos&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/programa/#entrega-1-20-pre-registro-y-descripción-de-datos&#34;&gt;&lt;strong&gt;Asesorías informe 1: Pre-registro y selección de datos&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;font color=&#34;red&#34;&gt; &lt;strong&gt;Viernes 3: Entrega informe 1&lt;/strong&gt; &lt;/font&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
@@ -414,25 +250,25 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;7&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/03-class&#34;&gt;&lt;strong&gt;5. Introducción a la escritura en texto plano&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/02-code&#34;&gt;Práctica Markdown&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://plain-text.co/&#34;&gt;Healey (2019) The Plain Person’s Guide to Plain Text Social Science&lt;/a&gt; &lt;br&gt; &lt;br&gt;&lt;a href=&#34;http://rusersgroup.com/blog/rmarkdown&#34;&gt;Introducción a Markdown&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html&#34;&gt;Capítulo Lenguaje reproducible, secciones 1.1 y 1.2, libro Investigación Social Abierta&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/03-class&#34;&gt;&lt;strong&gt;5. Introducción a la escritura y citas en texto plano&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/02-code&#34;&gt;Práctica Markdown y Zotero&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://plain-text.co/&#34;&gt;Healey (2019) The Plain Person’s Guide to Plain Text Social Science&lt;/a&gt; &lt;br&gt; &lt;br&gt;&lt;a href=&#34;http://rusersgroup.com/blog/rmarkdown&#34;&gt;Introducción a Markdown&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html&#34;&gt;Capítulo Lenguaje reproducible, secciones 1.1 y 1.2, libro Investigación Social Abierta&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://www.zotero.org/&#34;&gt;Zotero&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;Vacaciones Fiestas Patrias&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;21&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/04-class&#34;&gt;&lt;strong&gt;6. Documentos dinámicos&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/03-code&#34;&gt;Práctica RMarkdown/Knitr&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://scielo.conicyt.cl/pdf/revcipol/v36n3/art11.pdf&#34;&gt;Bowers &amp;amp; Voors (2016) How to improve your relationship with your future self&lt;/a&gt;&lt;br&gt;&lt;br&gt; &lt;a href=&#34;https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf&#34;&gt;Hoja referencia Rmarkdown&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class=&#34;even&#34;&gt;
-&lt;td&gt;21&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/05-class&#34;&gt;&lt;strong&gt;7. Citando en texto plano: Zotero/Bibtex&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/04-code&#34;&gt;Práctica Zotero / BetterBibTex&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.zotero.org/&#34;&gt;Zotero&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;28&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/06-class&#34;&gt;&lt;strong&gt;8. Flujo de trabajo reproducible / Protocolo IPO&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/06-class&#34;&gt;&lt;strong&gt;7. Flujo de trabajo reproducible / Protocolo IPO&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Práctica IPO &lt;br&gt; &lt;br&gt; &lt;strong&gt;Entrega trabajo 1&lt;/strong&gt;: Documento reproducible&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://juancarloscastillo.github.io/ipo/&#34;&gt;IPO&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://www.projecttier.org/&#34;&gt;TIER&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -444,8 +280,8 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;05&lt;/td&gt;
-&lt;td&gt;Asesorías informe 2: Documentos reproducibles&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/programa/#entrega-2-30-reporte-dinámico-reproduciblee&#34;&gt;Asesorías informe 2: Reporte dinámico reproducible&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;font color=&#34;red&#34;&gt; &lt;strong&gt;Viernes 8: Entrega informe 2&lt;/strong&gt; &lt;/font&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
@@ -456,13 +292,13 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;19&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/07-class&#34;&gt;&lt;strong&gt;9. Control de versiones 1: Git&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/07-class&#34;&gt;&lt;strong&gt;8. Control de versiones 1: Git&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Práctica Git&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://git-scm.com/&#34;&gt;Git&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;26&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/08class&#34;&gt;&lt;strong&gt;10. Control de versiones 2: Github&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/08class&#34;&gt;&lt;strong&gt;9. Control de versiones 2: Github&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Práctica Gihub &lt;br&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/&#34;&gt;Github&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -474,9 +310,9 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;02&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/09-class&#34;&gt;&lt;strong&gt;11. Acceso y publicación 1&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Práctica OSF &amp;amp; Preprints&lt;/td&gt;
-&lt;td&gt;- &lt;a href=&#34;https://osf.io/&#34;&gt;OSF&lt;/a&gt; &lt;br&gt;&lt;br&gt; - &lt;a href=&#34;https://socopen.org/&#34;&gt;Socarxiv&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/09-class&#34;&gt;&lt;strong&gt;10. Acceso y publicación 1&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://osf.io/&#34;&gt;OSF&lt;/a&gt; y &lt;a href=&#34;https://socopen.org/&#34;&gt;Pre-prints/Socarxiv&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;09&lt;/td&gt;
@@ -486,14 +322,14 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;16&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/10-class&#34;&gt;&lt;strong&gt;12. Acceso y publicación 2&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/10-class&#34;&gt;&lt;strong&gt;11. Acceso y publicación 2&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;Github pages&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;blogdown&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://slides.yihui.org/xaringan/#1&#34;&gt;Xaringan&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;23&lt;/td&gt;
-&lt;td&gt;Asesoría Informe 3: Proyecto Abierto&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/programa/#entrega-3-50-proyecto-abierto&#34;&gt;Asesoría Informe 3: Proyecto Abierto&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;font color=&#34;red&#34;&gt; &lt;strong&gt;Viernes 26: Entrega informe 3&lt;/strong&gt; &lt;/font&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -507,7 +343,7 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cienciasocialabierta.netlify.com/programa/</guid>
       <description>
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/programa/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -516,16 +352,16 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;li&gt;&lt;a href=&#34;#resultados-de-aprendizaje&#34;&gt;Resultados de aprendizaje&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#contenidos&#34;&gt;Contenidos&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#unidad-i-introducción-a-la-ciencia-abierta&#34;&gt;Unidad I: Introducción a la ciencia abierta&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#unidad-ii-reproducibilidad-y-transparencia&#34;&gt;Unidad II: Reproducibilidad y transparencia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#unidad-iii-accesibilidad-y-pubilcación&#34;&gt;Unidad III: Accesibilidad y pubilcación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#unidad-i-introducción-a-la-ciencia-abierta-y-transparencia&#34;&gt;Unidad I: Introducción a la ciencia abierta y transparencia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#unidad-ii-reproducibilidad&#34;&gt;Unidad II: Reproducibilidad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#unidad-iii-accesibilidad-y-comunicación&#34;&gt;Unidad III: Accesibilidad y comunicación&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#metodología&#34;&gt;Metodología&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#evaluación&#34;&gt;Evaluación&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#entrega-1-20-reporte-en-texto-plano&#34;&gt;Entrega 1 (20%): Reporte en texto plano&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#entrega-2-30-reproducibilidad.&#34;&gt;Entrega 2 (30%): Reproducibilidad.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#entrega-3-50-control-de-versiones-y-publicación.&#34;&gt;Entrega 3: (50%): Control de versiones y publicación.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#entrega-1-20-pre-registro-y-descripción-de-datos&#34;&gt;Entrega 1 (20%): Pre-registro y descripción de datos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#entrega-2-30-reporte-dinámico-reproducible&#34;&gt;Entrega 2 (30%): Reporte dinámico reproducible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#entrega-3-50-proyecto-abierto&#34;&gt;Entrega 3: (50%): Proyecto Abierto&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#requisitos-de-aprobación&#34;&gt;Requisitos de aprobación&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#palabras-clave&#34;&gt;Palabras clave&lt;/a&gt;&lt;/li&gt;
@@ -558,16 +394,17 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/div&gt;
 &lt;div id=&#34;contenidos&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Contenidos&lt;/h2&gt;
-&lt;div id=&#34;unidad-i-introducción-a-la-ciencia-abierta&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Unidad I: Introducción a la ciencia abierta&lt;/h3&gt;
+&lt;div id=&#34;unidad-i-introducción-a-la-ciencia-abierta-y-transparencia&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Unidad I: Introducción a la ciencia abierta y transparencia&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Cierre y crisis de la ciencia&lt;/li&gt;
 &lt;li&gt;Marquetización de la academia y consecuencias para su quehacer&lt;/li&gt;
 &lt;li&gt;Propuestas de políticas de apertura científica a nivel internacional&lt;/li&gt;
+&lt;li&gt;Transparencia: Preregistros y datos abiertos&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;div id=&#34;unidad-ii-reproducibilidad-y-transparencia&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Unidad II: Reproducibilidad y transparencia&lt;/h3&gt;
+&lt;div id=&#34;unidad-ii-reproducibilidad&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Unidad II: Reproducibilidad&lt;/h3&gt;
 &lt;p&gt;2.1 Programación literaria&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Trabajando en texto plano: Introducción a Rmarkdown y Latex&lt;/li&gt;
@@ -581,13 +418,12 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;li&gt;Trabajo colaborativo y versionado con Github&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;div id=&#34;unidad-iii-accesibilidad-y-pubilcación&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Unidad III: Accesibilidad y pubilcación&lt;/h3&gt;
+&lt;div id=&#34;unidad-iii-accesibilidad-y-comunicación&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Unidad III: Accesibilidad y comunicación&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Pre-registros y planes de pre-analisis&lt;/li&gt;
 &lt;li&gt;Publicación abierta vía pre-prints (SoxArxiv) y página web (Github pages)&lt;/li&gt;
 &lt;li&gt;Generación de presentaciones dinámicas (Xaringan)&lt;/li&gt;
-&lt;li&gt;Visualización de datos, Shiny apps, reportes interactivos&lt;/li&gt;
 &lt;li&gt;Proyectos de investigación en OSF (Open Science Framework)&lt;/li&gt;
 &lt;li&gt;Visualización de datos&lt;/li&gt;
 &lt;/ul&gt;
@@ -601,20 +437,163 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;div id=&#34;evaluación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Evaluación&lt;/h2&gt;
 &lt;p&gt;La evaluación consistirá en la elaboración de un reporte en el formato de artículo de investigación, elaborado en tres entregas parciales en las que se avanza secuencialmente en los contenidos del curso. Estas entregas son grupales, máximo 5 integrantes.&lt;/p&gt;
-&lt;div id=&#34;entrega-1-20-reporte-en-texto-plano&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Entrega 1 (20%): Reporte en texto plano&lt;/h3&gt;
-&lt;p&gt;Consiste en la entrega de un trabajo escrito en formato plano, se sugiere algún trabajo de curso previo que contemple análisis de datos y en el que se quiera avanzar en su publicación.&lt;/p&gt;
-&lt;p&gt;Esta entrega abarca hasta el punto 2.1 del programa (programación literaria), se espera un documento en lenguaje RMarkdown y su correspondiente conversión a html, incluyendo análisis de datos y presentación de resultados que demuestren manejo de las opciones de RMarkdown. Además, se deben incluir referencias bibliográficas.&lt;/p&gt;
-&lt;p&gt;El foco del trabajo está en la presentación de resultados de análisis, donde se debe incluir al menos una tabla y un gráfico generados por el código que se encuentra en el mismo documento, y que se presenten adecuadamente en la conversión a html.&lt;/p&gt;
-&lt;p&gt;La estructura del trabajo es secundaria, pero se recomienda seguir las secciones habituales (Resumen, Introducción, Antecedentes conceptuales/empíricos, Metodología, Análisis, Conclusiones). No se espera que realicen un trabajo nuevo, sino que algún trabajo previo puedan pasarlo a este formato. No se realizará corrección de contenidos, sino solamente se evaluará el aprendizaje de herramientas de escritura reproducible en texto plano con RMarkdown.&lt;/p&gt;
-&lt;p&gt;La fecha de entrega actualizada aparece en la planificación de actividades&lt;/p&gt;
+&lt;p&gt;Las fechas de entrega de los trabajos se encuentran en la &lt;a href=&#34;https://cienciasocialabierta.netlify.com/schedule/&#34;&gt;pestaña de planificación&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;entrega-1-20-pre-registro-y-descripción-de-datos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Entrega 1 (20%): Pre-registro y descripción de datos&lt;/h3&gt;
+&lt;p&gt;Informe que pre-registra la investigación en base a una plantilla. Además, se debe realizar una descripción acabada de los datos a utilizar evaluando su nivel de apertura y documentación, y proponiendo estrategias para compensar deficiencias.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;entrega-2-30-reproducibilidad.&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Entrega 2 (30%): Reproducibilidad.&lt;/h3&gt;
-&lt;p&gt;Documentación de la investigación en un protocolo reproducible (Protocolo IPO).&lt;/p&gt;
+&lt;div id=&#34;entrega-2-30-reporte-dinámico-reproducible&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Entrega 2 (30%): Reporte dinámico reproducible&lt;/h3&gt;
+&lt;p&gt;Documentación de la investigación en un reporte dinámico basado en un flujo reproducible (Protocolo IPO).&lt;/p&gt;
+&lt;p&gt;La estructura del trabajo es secundaria, pero se recomienda seguir las secciones habituales (Resumen, Introducción, Antecedentes conceptuales/empíricos, Metodología, Análisis, Conclusiones).&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;entrega-3-50-control-de-versiones-y-publicación.&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Entrega 3: (50%): Control de versiones y publicación.&lt;/h3&gt;
+&lt;div id=&#34;entrega-3-50-proyecto-abierto&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Entrega 3: (50%): Proyecto Abierto&lt;/h3&gt;
+&lt;p&gt;Desarrollo de repositorio abierto y publicación en formato web y/o pre-print.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;requisitos-de-aprobación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Requisitos de aprobación&lt;/h2&gt;
+&lt;p&gt;Nota mínima de aprobación: 4,0 (en escala de 1 a 7).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;palabras-clave&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Palabras clave&lt;/h2&gt;
+&lt;p&gt;Ciencia abierta, reproducibilidad, acceso abierto, transparencia, pre-prints, repositorios, control de versiones, markdown.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografía-obligatoria-o-central&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Bibliografía Obligatoria (… o central)&lt;/h2&gt;
+&lt;p&gt;Hay cuatro libros que me parecen centrales para este curso, pero tres de ellos están en inglés y no se consideran obligatorios sino más bien de consulta (o cabecera).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;El libro base del curso es &lt;a href=&#34;https://www.ucpress.edu/book/9780520296954/transparent-and-reproducible-social-science-research&#34;&gt;“Transparent and Reproducible Social Science Research”&lt;/a&gt;, de Christensen, G. S., Freese, J., &amp;amp; Miguel, E. (2019). Es lo más cercano a los temas del curso, y como ven muy reciente, del tema no había bibliografía así de especializada hasta el año pasado. Lamentablemente, y también paradojicamente, es un libro no disponible de manera gratuita. Muy recomendable. Comentaremos algunos de sus contenidos en las primeras sesiones introductorias.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Un segundo texto no tiene relación directa con apertura, pero sí muchos elementos que ayudan para llevar a cabo análisis reproducibles en R: &lt;a href=&#34;https://r4ds.had.co.nz/&#34;&gt;R for Data Science&lt;/a&gt; (conocido como RDS) de Garrett Grolemund y Hadley Wickham (2017). Afortunadamente tenemos una versión traducida al español y disponible de manera abierta online: &lt;a href=&#34;https://es.r4ds.hadley.nz/&#34;&gt;“R para Ciencia de Datos”&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;El tercero es más específico para la Unidad 2 sobre escritura en texto plano: &lt;a href=&#34;https://kieranhealy.org/files/papers/plain-person-text.pdf&#34;&gt;“The Plain Person’s Guide to Plain Text Social Science”&lt;/a&gt;, de Kieran Healy en su última version 2019. Para mi gusto uno de los libros inspiradores sobre las implicancias para la escritura del trabajo académico abierto, y escrito por un gran sociólogo.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Y el cuarto es &lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/&#34;&gt;R Markdown: The definitive guide&lt;/a&gt;, de Yihui Xie, J. J. Allaire &amp;amp; Garrett Grolemund (2019). Abarca los detalles del proceso de investigación reproducible vinculando escritura y análisis, pero con mucho énfasis en publicación y presentación de resultados.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;El detalle de otras lecturas sugeridas para cada clase aparece en la página de &lt;a href=&#34;https://cienciasocialabierta.netlify.com/schedule/&#34;&gt;Planificación&lt;/a&gt;) de las sesiones.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;software&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Software&lt;/h2&gt;
+&lt;p&gt;Como software de escritorio vamos a utilizar R/Rstudio y Git/Github. Rstudio avanza cada vez más hacia un editor generalizado de texto, con funciones que van mucho más allá del análisis de datos. Si bien me parece apropiado para el curso, corresponde decir que la opción por editores también es algo abierto, sobre todo en un curso que tiene que ver con apertura. Otros editores muy usados son [Emacs]&lt;a href=&#34;https://www.gnu.org/software/emacs/&#34; class=&#34;uri&#34;&gt;https://www.gnu.org/software/emacs/&lt;/a&gt;, &lt;a href=&#34;https://www.sublimetext.com/&#34;&gt;Sublime&lt;/a&gt; y &lt;a href=&#34;https://atom.io/&#34;&gt;Atom&lt;/a&gt;. Si a alguien le interesa podemos hacer alguna sesión adicional sobre Atom, que es el editor que yo uso.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;planificación-de-las-sesiones-y-materiales-respectivos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Planificación de las sesiones y materiales respectivos&lt;/h2&gt;
+&lt;p&gt;Consultar la página &lt;a href=&#34;https://cienciasocialabierta.netlify.com/schedule/&#34;&gt;Planificación&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programa</title>
+      <link>https://cienciasocialabierta.netlify.com/programa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cienciasocialabierta.netlify.com/programa/</guid>
+      <description>
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/programa/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#descripción-general&#34;&gt;Descripción general&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#propósito-general&#34;&gt;Propósito general&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#resultados-de-aprendizaje&#34;&gt;Resultados de aprendizaje&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#contenidos&#34;&gt;Contenidos&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#unidad-i-introducción-a-la-ciencia-abierta-y-transparencia&#34;&gt;Unidad I: Introducción a la ciencia abierta y transparencia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#unidad-ii-reproducibilidad&#34;&gt;Unidad II: Reproducibilidad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#unidad-iii-accesibilidad-y-comunicación&#34;&gt;Unidad III: Accesibilidad y comunicación&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#metodología&#34;&gt;Metodología&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#evaluación&#34;&gt;Evaluación&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#entrega-1-20-pre-registro-y-descripción-de-datos&#34;&gt;Entrega 1 (20%): Pre-registro y descripción de datos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#entrega-2-30-reporte-dinámico-reproducible&#34;&gt;Entrega 2 (30%): Reporte dinámico reproducible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#entrega-3-50-proyecto-abierto&#34;&gt;Entrega 3: (50%): Proyecto Abierto&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#requisitos-de-aprobación&#34;&gt;Requisitos de aprobación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#palabras-clave&#34;&gt;Palabras clave&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografía-obligatoria-o-central&#34;&gt;Bibliografía Obligatoria (… o central)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#software&#34;&gt;Software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#planificación-de-las-sesiones-y-materiales-respectivos&#34;&gt;Planificación de las sesiones y materiales respectivos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;descripción-general&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Descripción general&lt;/h2&gt;
+&lt;p&gt;Partiendo desde la concepción de &lt;strong&gt;Ciencia Abierta&lt;/strong&gt; (Open Science) y de investigación reproducible, este curso presenta formas alternativas a la manera tradicional de concebir la generación de conocimiento de manera cerrada y competitiva, y desde ahí se proponen y ejercitan una serie de herramientas técnicas en el análisis de datos que facilitan la reproducibilidad, colaboración y comunicación de procesos de investigación.&lt;/p&gt;
+&lt;p&gt;El curso permitirá a los participantes lograr un producto de investigación (artículo, documento de trabajo) con foco en el análisis de datos realizado de manera abierta y reproducible.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;propósito-general&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Propósito general&lt;/h2&gt;
+&lt;p&gt;El quehacer académico muchas veces es criticado por su falta de aporte, transparencia y relevancia para la sociedad, crítica que se acentúa en las ciencias sociales. Desde la academia misma han surgido cuestionamientos sobre la capacidad de un trabajo que sea más abierto y auditable, que favorezca la colaboración entre académic_s y no académic_s, y que se comunique de manera eficiente dentro de la academia y fuera de ella.&lt;/p&gt;
+&lt;p&gt;Partiendo desde la concepción de Ciencia Abierta (Open Science) y de investigación reproducible, este curso presenta formas alternativas a la manera tradicional de concebir la generación de conocimiento de manera cerrada y competitiva, y desde ahí se proponen y ejercitan una serie de herramientas técnicas que facilitan la reproducibilidad, colaboración y comunicación de procesos de investigación.&lt;/p&gt;
+&lt;p&gt;El curso se dirige no solamente a aquellos estudiantes con interés principal en la investigación académica, sino también a quienes se quieran dedicar profesionalmente al análisis y reporte de información y datos sociales, trabajo en equipo multidisciplinario, y al vínculo entre academia y políticas públicas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;resultados-de-aprendizaje&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Resultados de aprendizaje&lt;/h2&gt;
+&lt;p&gt;Al finalizar el curso, ud. será capaz de:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Comprender las limitaciones y problemas de la manera tradicional de realizar investigación social.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Conocer las herramientas que permiten y promueven una apertura de los procesos de investigación social&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Conocer los flujos de trabajo reproducibles y transparentes&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Desarrollar un proceso de investigación abierto basado en los propios intereses de investigación, orientados hacia la publicación de un producto académico (artículo, documento de trabajo).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;contenidos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Contenidos&lt;/h2&gt;
+&lt;div id=&#34;unidad-i-introducción-a-la-ciencia-abierta-y-transparencia&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Unidad I: Introducción a la ciencia abierta y transparencia&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cierre y crisis de la ciencia&lt;/li&gt;
+&lt;li&gt;Marquetización de la academia y consecuencias para su quehacer&lt;/li&gt;
+&lt;li&gt;Propuestas de políticas de apertura científica a nivel internacional&lt;/li&gt;
+&lt;li&gt;Transparencia: Preregistros y datos abiertos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;unidad-ii-reproducibilidad&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Unidad II: Reproducibilidad&lt;/h3&gt;
+&lt;p&gt;2.1 Programación literaria&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Trabajando en texto plano: Introducción a Rmarkdown y Latex&lt;/li&gt;
+&lt;li&gt;Generación de reportes dinámicos vía Knitr.&lt;/li&gt;
+&lt;li&gt;Gestión de fuentes bibliográficas: Zotero, BibTex y BetterBibTex&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2.2 Flujos, control y documentación&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Flujos reproducibles (protocolo IPO)&lt;/li&gt;
+&lt;li&gt;Control de versiones con Git&lt;/li&gt;
+&lt;li&gt;Trabajo colaborativo y versionado con Github&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;unidad-iii-accesibilidad-y-comunicación&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Unidad III: Accesibilidad y comunicación&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Pre-registros y planes de pre-analisis&lt;/li&gt;
+&lt;li&gt;Publicación abierta vía pre-prints (SoxArxiv) y página web (Github pages)&lt;/li&gt;
+&lt;li&gt;Generación de presentaciones dinámicas (Xaringan)&lt;/li&gt;
+&lt;li&gt;Proyectos de investigación en OSF (Open Science Framework)&lt;/li&gt;
+&lt;li&gt;Visualización de datos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;metodología&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Metodología&lt;/h2&gt;
+&lt;p&gt;El curso se organiza en sesiones semanales, con una parte lectiva seguida de una práctica. En la parte lectiva se transmiten y discuten los conceptos centrales de la ciencia abierta. En la parte práctica se aplicarán los conceptos transmitidos en la parte lectiva, además de resolver dudas en el avance de los trabajos de investigación.&lt;/p&gt;
+&lt;p&gt;El curso estará orientado a que l_s participantes puedan al final generar un producto de investigación con características de apertura científica. Para ello, pueden profundizar en algún trabajo previo que les permita avanzar hacia una publicación académica en un proceso de investigación supervisado y reproducible.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;evaluación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Evaluación&lt;/h2&gt;
+&lt;p&gt;La evaluación consistirá en la elaboración de un reporte en el formato de artículo de investigación, elaborado en tres entregas parciales en las que se avanza secuencialmente en los contenidos del curso. Estas entregas son grupales, máximo 5 integrantes.&lt;/p&gt;
+&lt;p&gt;Las fechas de entrega de los trabajos se encuentran en la &lt;a href=&#34;https://cienciasocialabierta.netlify.com/schedule/&#34;&gt;pestaña de planificación&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;entrega-1-20-pre-registro-y-descripción-de-datos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Entrega 1 (20%): Pre-registro y descripción de datos&lt;/h3&gt;
+&lt;p&gt;Informe que pre-registra la investigación en base a una plantilla. Además, se debe realizar una descripción acabada de los datos a utilizar evaluando su nivel de apertura y documentación, y proponiendo estrategias para compensar deficiencias.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;entrega-2-30-reporte-dinámico-reproducible&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Entrega 2 (30%): Reporte dinámico reproducible&lt;/h3&gt;
+&lt;p&gt;Documentación de la investigación en un reporte dinámico basado en un flujo reproducible (Protocolo IPO).&lt;/p&gt;
+&lt;p&gt;La estructura del trabajo es secundaria, pero se recomienda seguir las secciones habituales (Resumen, Introducción, Antecedentes conceptuales/empíricos, Metodología, Análisis, Conclusiones).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;entrega-3-50-proyecto-abierto&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Entrega 3: (50%): Proyecto Abierto&lt;/h3&gt;
 &lt;p&gt;Desarrollo de repositorio abierto y publicación en formato web y/o pre-print.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;

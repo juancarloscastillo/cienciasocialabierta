@@ -1,0 +1,57 @@
+---
+title: Trabajos
+slug: trabajos
+citeproc: true
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+output:
+  blogdown::html_page:
+      toc: TRUE
+---
+
+
+[^courseinfo]: {-}
+  `r blogdown::shortcode("courseinfo")`
+
+
+## Entregas
+
+La evaluación consistirá en la elaboración de un reporte en el formato de artículo de investigación, elaborado en tres entregas parciales en las que se avanza secuencialmente en los contenidos del curso. Estas entregas son grupales, máximo 5 integrantes.
+
+Las fechas de entrega de los trabajos se encuentran en la [pestaña de planificación](/schedule/)
+
+### Entrega 1 (20%): Pre-registro y descripción de datos
+
+Informe que pre-registra la investigación en base a una plantilla. Además, se debe realizar una descripción acabada de los datos a utilizar evaluando su nivel de apertura y documentación, y proponiendo estrategias para compensar deficiencias.
+
+Producto:
+
+- inscripción de pre-registro de investigación en plantilla OSF (ver [sesion 3](/class/03-class/) )
+- en la descripción de los datos señalar el nivel de apertura según los criterios que se señalan en la [sesión 4](/class/03-class/)
+
+
+### Entrega 2 (30%): Reporte dinámico reproducible
+
+Documentación de la investigación en un reporte dinámico basado en un flujo reproducible (Protocolo IPO).
+
+La estructura del trabajo es secundaria, pero se recomienda seguir las secciones habituales (Resumen, Introducción, Antecedentes conceptuales/empíricos, Metodología, Análisis, Conclusiones).
+
+Se debe entregar el reporte y el código a la base.
+
+### Entrega 3: (50%): Proyecto Abierto
+
+Desarrollo de repositorio abierto y publicación en formato web y/o OSF-pre-print.
+
+## Requisitos de aprobación
+
+Nota mínima de aprobación: 4,0 (en escala de 1 a 7).
+
+## Palabras clave
+
+Ciencia abierta, reproducibilidad, acceso abierto, transparencia, pre-prints, repositorios, control de versiones, markdown.
+
+
+## Grupos de trabajo
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/1-YFRtO0sSKKPyuVzvi4Q1Lpk1li2z5rlJkORZi7VcZ0/edit?usp=sharing" width="1000" height="1000"></iframe>

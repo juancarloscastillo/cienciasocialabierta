@@ -41,5 +41,13 @@ editor_options:
 
 ## Links
 
-- [The R Project for Statistical Computing](https://www.r-project.org/)
-- [R Studio](https://www.rstudio.com)
+- [How To Properly Preregister A Study](http://datacolada.org/64)
+
+- [Lindsay et al (2016) Research Preregistration 101.](https://www.psychologicalscience.org/observer/research-preregistration-101)
+
+- [Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The preregistration revolution. Proceedings of the National Academy of Sciences, 115(11), 2600–2606. https://doi.org/10.1073/pnas.1708274114
+](https://www.pnas.org/content/115/11/2600)
+
+- [OSF Preregistration resources](https://www.cos.io/initiatives/prereg)
+
+- [How To Properly Preregister A Study - Data Colada](http://datacolada.org/64)

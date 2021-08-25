@@ -1,0 +1,43 @@
+---
+title: "Datos Abiertos"
+linktitle: "4: Datos Abiertos"
+date: "2021-08-24"
+class_date: "2021-08-24"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+output:
+  blogdown::html_page:
+    template: ../../pandoc/toc-title_html.template
+    toc: true
+menu:
+  class:
+    parent: Clases
+    weight: 1
+type: docs
+weight: 1
+editor_options:
+  chunk_output_type: console
+---
+
+## Documento presentación
+
+<span class="sidenote">Para ver en pantalla completa click [**aquí**](https://franciscomeneses.github.io/Clase_cienciaabierta/Presentacion.html). Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. </span>
+
+<iframe src=https://franciscomeneses.github.io/Clase_cienciaabierta/Presentacion.html width=80% height=500 allowfullscreen="true">
+</iframe>
+
+
+--
+
+## Links
+
+- [Repositorio de Datos de la Universidad de Chile](https://datos.uchile.cl/)
+
+- [Dataverse](https://dataverse.org/)
+
+- [Repositorio ELSOC en Dataverse](https://dataverse.harvard.edu/dataverse/elsoc)
+
+- [Principios FAIR](https://www.go-fair.org/fair-principles/)
+
+- [Guía Datos Abiertos en LISA-COES](https://lisa-coes.netlify.app/02componentes/)

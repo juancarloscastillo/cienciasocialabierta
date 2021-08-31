@@ -35,7 +35,13 @@ Opciones:
 
 Producto a entregar (en archivo pdf):
 
-- inscripción de pre-registro de investigación en plantilla OSF, se sugiere [AsPredicted](https://osf.io/gnxav/) (ver [sesion 3](/class/03-class/)). Se pueden revisar ejemplos de pre-registro de investigaciones (Ej: [aquí](https://osf.io/fazdx))
+- inscripción de pre-registro de investigación en plantilla OSF, se sugiere [AsPredicted](https://osf.io/gnxav/) (ver [sesion 3](/class/03-class/)). Se pueden revisar ejemplos de pre-registro de investigaciones (Ej: [aquí](https://osf.io/fazdx)).
+
+  - la plantilla de As.Predicted consiste en una serie de campos que se deben ir completando en el pre-registro. También existe la opción de seleccionar **open ended** en lugar de AsPredicted, lo que permite adjuntar un documento pdf con la información basado en un word como el que está [aquí](https://docs.google.com/document/d/13FFwD_UNUyA4O0iOGyy66_EViN1LkkM4QT_iiUiOwEE/edit). En el caso de utilizar esta plantilla, en la sección de "conditions" se pueden especificar las variables independientes, y en "other" la evaluación de la apertura de los datos (ver abajo)
+
+  - Otros posibles formatos y sus correspondientes plantillas en word se encuentran [aquí](https://osf.io/zab38/wiki/home/)
+
+  - si se opta por Open Ended también se puede considerar otra plantilla que es más apropiada para el trabajo con datos secundarios, como la [Preregistration template for the preregistration of analyses of preexisting data](https://osf.io/p26rq/)
 
 - en la descripción de los datos señalar su nivel de apertura y documentación según los criterios que se señalan en la [sesión 4](/class/03-class/), tomando como referencia aquellos referidos a los estándares [FAIR](https://www.go-fair.org/fair-principles/) y también las indicaciones de [LISA](https://lisa-coes.netlify.app/02componentes/) para apertura de datos.
 

@@ -28,6 +28,10 @@ editor_options:
 </iframe>
 
 
+## Video
+
+... lamentablemente no disponible, problemas con Zoom ese día `r emo::ji("sad")`
+
 --
 
 ## Links

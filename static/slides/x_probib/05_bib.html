@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Ciencia Social Abierta</title>
+    <meta charset="utf-8" />
+    <meta name="author" content=".small[Juan Carlos Castillo    Departamento de Sociología - UCH / COES   ]" />
+    <script src="libs/header-attrs/header-attrs.js"></script>
+    <link href="libs/tile-view/tile-view.css" rel="stylesheet" />
+    <script src="libs/tile-view/tile-view.js"></script>
+    <link href="libs/animate.css/animate.xaringan.css" rel="stylesheet" />
+    <script src="libs/fabric/fabric.min.js"></script>
+    <link href="libs/xaringanExtra-scribble/scribble.css" rel="stylesheet" />
+    <script src="libs/xaringanExtra-scribble/scribble.js"></script>
+    <script>document.addEventListener('DOMContentLoaded', function() { window.xeScribble = new Scribble({"pen_color":["#FF0000"],"pen_size":3,"eraser_size":30,"palette":[]}) })</script>
+    <link rel="stylesheet" href="custom_2020.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+class: front
+
+
+
+
+
+
+
+
+
+
+
+&lt;!---
+Para correr en ATOM
+- open terminal, abrir R (simplemente, R y enter)
+- rmarkdown::render('static/docpres/07_interacciones/7interacciones.Rmd', 'xaringan::moon_reader')
+
+About macros.js: permite escalar las imágenes como [scale 50%](path to image), hay si que grabar ese archivo js en el directorio.
+---&gt;
+
+
+.pull-left[
+# Ciencia Social Abierta
+## Juan Carlos Castillo
+## Sociología FACSO - UChile
+## 2do Sem 2021
+## [.orange[cienciasocialabierta.netlify.com]](https://cienciasocialabierta.netlify.com)
+]
+
+
+.pull-right[
+.right[
+&lt;br&gt;
+## .orange[Sesión 4: Texto plano &amp; citas]
+![:scale 70%](https://cienciasocialabierta.netlify.com/img/hex_multiva.png)
+
+
+
+]
+
+]
+---
+
+layout: true
+class: animated, fadeIn
+
+---
+class: middle
+
+![](../01-programa/esquema_general.png)
+
+---
+## Reproducibilidad
+
+- Escritura abierta:  texto simple/plano, libre de software comercial
+
+--
+
+- Repositorio con datos y código de análisis abierto
+
+--
+
+- Flujo de trabajo documentado y reproducible
+
+--
+
+- Control de versiones
+
+
+---
+class: middle, center
+
+
+![](https://juancarloscastillo.github.io/in-socabi/images/peng_spectrum.png)
+
+
+---
+class: roja, right, bottom,slideInRight
+
+# Esta sesión:
+
+## * Fundamentos escritura simple
+
+## * Markdown
+
+## * Citas en texto simple
+
+---
+class: inverse, bottom, right
+
+# Fundamentos de escritura simple
+
+---
+## Flujo de trabajo con procesador de texto tradicional
+
+.center[
+![:scale 70%](W_workflow.png)
+]
+
+---
+# Abriendo el archivo de escritura tradicional
+
+![](realWord.png)
+
+
+---
+# Desventajas del procesador tradicional para ciencia abierta
+
+- Barrera de pago/licencia para acceder a contenidos
+
+- No permite un documento enteramente reproducible que combine texto y código de análisis
+
+- Fomenta flujo cortar/pegar, no reproducible
+
+- Difícil versionamiento y llevar registro de quién hizo qué cambio, barrera a la reproducibilidad y colaboración
+
+---
+# Escritura libre y abierta
+
+- independiente de programa comercial
+
+- independiente de plataformas específicas
+
+- permite combinar texto y análisis en un mismo documento
+
+- foco en los contenidos en lugar del formato
+
+- que permita distintas opciones de formato final
+
+---
+# Inspiración
+
+.center[
+![](bowers&amp;healey.png)]
+
+
+
+---
+# Principales Alternativas
+
+&lt;br&gt;
+
+
+|          	| **Control de formato** 	| **Marcas de edición** 	| **Formatos de salida** 	|
+|----------	|:--------------------:|:----------------:|:--------------------:|
+| LaTeX    	|          +         	|        +       	|          -         	|
+| Markdown 	|          -         	|        -       	|          +         	|
+
+
+---
+class: inverse, bottom, right, slideInRight
+
+# Markdown
+
+---
+
+# Markdown
+
+- Literalmente: pocas marcas de edición
+
+--
+
+- No es un programa, es una forma de escritura
+
+--
+
+- Fácil escritura y conversión a otros formatos de salida (html, pdf)
+
+--
+
+- Soporta encabezados, tablas, imágenes, tablas de contenidos, ecuaciones, links ... todo lo necesario para documentos académicos
+
+--
+
+- filosofía: foco en contenido primero, el formato después.
+
+
+
+---
+# Ejemplos de marcas de edición en Markdown
+
+- Texto en **negrita** entre dos astericos: `**negrita**`
+
+- Texto en *cursiva* con un asterico por lado: ` *cursiva* `
+
+- Títulos se marcan con `#` al principio, subtítulos `##` , y así sucesivamente
+
+- Mayores detalles en la Práctica de Markdown (ver sitio web del curso)
+
+---
+
+# Markdown y pandoc
+
+![:scale 90%](pandoc.png)
+
+
+
+---
+class: roja right bottom
+
+
+# Citando en texto plano
+
+## 1 - Insertar &amp; renderizar
+
+## 2 - Automatizar
+
+---
+.pull-left[
+![](standing.png)
+]
+
+.pull-right[
+## Citar: Sobre hombros de gigantes
+
+- pararse sobre el conocimiento acumulado
+
+- identificar áreas para avanzar
+
+- reconocer trabajo previo
+
+- no reinventar la rueda
+
+]
+---
+class: inverse, bottom, right
+
+# 1- Insertar y renderizar
+
+---
+# Incorporación de citas en texto plano
+
+Se requieren 2 insumos básicos: 
+
+A - Archivo que almacena las referencias (.bib)
+
+B - Archivo con información del estilo de citación (.csl)
+
+---
+# A. Archivo con referencias (.bib)
+
+- Se utiliza una forma de almacenamiento de citas en texto plano llamada Bibtex
+
+- Un archivo Bibtex tiene extensión .bib, donde deben estar almacenadas todas las referencias citadas en el texto
+
+---
+# A. Archivo con referencias (.bib)
+
+Ejemplo de referencia en formato Bibtex:
+
+.small[
+```
+@article{sabbagh_dimension_2003,
+  title = {The Dimension of Social Solidarity in Distributive Justice},
+  volume = {42},
+  timestamp = {2014-09-26T12:30:41Z},
+  number = {2},
+  urldate = {2014-09-26},
+  journal = {Social science information},
+  author = {Sabbagh, Clara},
+  year = {2003},
+  pages = {255--276},
+  file = {Snapshot:/storage/V5R7I29W/255.html:text/html},
+  groups = {social justice theory,social justice theory}
+}
+```
+]
+---
+# A. Archivo con referencias (.bib)
+
+- un archivo bibtex tiene múltiples referencias una después de la otra, el orden no es relevante.
+
+- cada referencia posee una serie de campos con información necesaria para poder citar
+
+- este formato se puede ingresar manualmente, copiar y pegar de otras fuentes, o automatizar desde software de gestión de referencias (detalles más adelante)
+
+---
+# B. Archivo con definición de estilo (.csl)
+
+- csl: citation style language
+
+- existen múltiples estilos de citación (alrededor de 10.000)
+
+- los más usados: APA, ASA, Chicago
+
+- estos estilos se pueden bajar desde repositorios, se recomienda el siguiente: [https://www.zotero.org/styles](https://www.zotero.org/styles)
+
+---
+# Vinculando el archivo RMarkdown con los archivos de bibliografía
+
+
+- se realiza en el preámbulo del documento (YAML), por ejemplo:
+
+
+```
+---
+bibliography: referencias.bib
+csl: apa.csl
+---
+
+ Y aquí comienza el documento ...
+
+```
+
+---
+# Como citar
+
+La forma de citar es a traves de la clave que identifica la referencia, que es la que aparece al principio de cada una, y se agrega una @. Ej:
+.small[
+```
+- Tal como señala @sabbagh_dimension_2003, 
+los principales resultados ...
+
+```
+]
+
+Al renderizar, esto genera:
+
+- Tal como señala Sabbagh (2003), los principales resultados ...
+
+Y además, agrega la bibliografía al final del documento.
+
+---
+# Opciones de citación
+
+- Autor en el texto y año entre paréntesis:  @sabbagh_dimension_2003
+
+- Autor y año entre paréntesis: [@sabbagh_dimension_2003]
+
+- Detalles: en ejercicio asociado a esta clase (página prácticas) 
+
+---
+class: inverse, right, bottom
+
+# Automatizando la incorporación de referencias
+
+## A. Almacenamiento y exportación
+
+## B. Citación (en R/RStudio)
+
+---
+class: inverse, right, bottom
+
+# Automatizando la incorporación de referencias
+
+## **A. Almacenamiento y exportación**
+
+## B. Citación (en R/RStudio)
+
+
+---
+# Bibtex
+
+- es claro que la incorporación manual de citas en formato Bibtex es un gran desincentivo a su uso.
+
+- la simplificación y automatización de esto pasa por dos procesos:
+
+  - A. Almacentamiento y generación de referencias mediante software especializado
+  
+  - B. Incorporación de citas al documento
+  
+---
+# Software de gestión de referencias
+
+- los software de gestión de referencias bibliográficas permiten almacenar, organizar y luego utilizar las referencias
+
+- diferentes alternativas de software de gestión de referencias bibliográficas: Endnote, Mendeley, Refworks, Zotero
+
+- en adelante vamos a ejemplificar con Zotero, que es un software libre y de código abierto
+
+---
+## Zotero
+
+- instalar  [https://www.zotero.org](zotero.org)
+
+- además del programa, instalar "conector" para el navegador (permite almacenar directamente con 1 click) 
+
+---
+## Zotero: vista general
+
+.center[
+![:scale 60%](https://www.zotero.org/static/images/home/screenshot-1.4.png)
+]
+
+---
+.pull-left[
+# Zotero: almacenamiento
+a) vía conector del navegador: cuando hay una referencia presente en la página, ir al botón del conector y se guarda (Zotero debe estar abierto)]
+
+.pull-right[
+![](conector.png)
+]
+---
+
+.pull-left[
+# Zotero: almacenamiento
+
+b)Vía identificador DOI / ISBN / ISSN ]
+
+.pull-right[
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+![](doizotero.png)]
+
+---
+# Zotero: almacenamiento
+
+.pull-left[
+c) Manual: llenando los campos
+]
+
+.pull-right[
+![](zoteromanual.png)
+]
+---
+# Zotero
+
+- más información sobre manejo y capacidades:
+
+[https://www.youtube.com/watch?v=Uxv3aE4XoNY](https://www.youtube.com/watch?v=Uxv3aE4XoNY)
+
+... y tutoriales y guías varios en la red
+
+---
+# Zotero-Bibtex
+
+- Zotero permite exportar las referencias en formato Bibtex
+
+- Puede ser toda la colección o una parte (carpeta)
+
+- 2 alternativas: 
+  - manual
+  - automatizada
+  
+---
+## Zotero-Bibtex: exportación manual
+
+- Carpeta -&gt;  boton derecho -&gt; export -&gt; formato Bibtex
+
+![](zoteroexport.png)
+- guardar archivo .bib en carpeta del documento RMarkdown
+
+---
+## Zotero-Bibtex: exportación automatizada
+
+- Zotero plug-in BetterBibTex: permite tener la colección exportada sincronizada
+
+- Instalación: 
+
+  - bajar archivo desde el sitio del desarrollador: [https://retorque.re/zotero-better-bibtex/installation/](https://retorque.re/zotero-better-bibtex/installation/)
+
+  - en Zotero: Tools -&gt; Adds-on -&gt; ruedita dentada -&gt; install add-on from file
+  
+  - reiniciar Zotero
+  
+---
+## Zotero-Bibtex: exportación automatizada (2)
+
+.pull-left[
+
+- Para exportar colección de manera sincronizada, seguir el mismo camino de exportación tradicional, pero 
+
+  - en lugar de elegir formato Bibtex, elegir BetterBibTex
+]  
+.pull-right[
+    - ... y seleccionar opción *keep updated*
+  
+![](zoterobetterbibtex.png)]
+
+---
+class: inverse, right, bottom
+
+# Automatizando la incorporación de referencias
+
+## A. Almacenamiento y exportación
+
+## **B. Citación (en R/RStudio)**
+
+---
+# Librería `citr`
+.pull-left[
+- install.packages("citr")
+
+- (eventualmente reiniciar RStudio)
+
+- menú desplegable Addins -&gt; Insert Citations
+]
+
+.pull-right[
+![](citr.png)
+]
+
+---
+# Librería `citr`: selección y formato
+.center[
+![](citrwindow.png)
+]
+
+---
+class: inverse
+
+## Resumen Citando en texto plano
+
+### **1 - Insertar &amp; renderizar**
+
+- almacentamiento de referencias formato Bibtex en archivos .bib
+
+- estilo definido en archivo csl
+
+- opciones en preámbulo (YAML)
+
+---
+class: inverse
+
+## Resumen Citando en texto plano
+
+### **2 - Automatizar**
+
+- Almacentamiento y exportación
+  - Zotero
+  - exportación (Bibtex o BetterBibTex)
+  
+- Citar: `citr` RStudio add-on
+
+
+---
+class: front
+
+
+.pull-left[
+# Ciencia Social Abierta
+## cienciasocialabierta.netlify.com
+----
+## Juan Carlos Castillo
+## Sociología FACSO - UChile
+## 1er Sem 2020
+]
+
+
+.pull-right[
+.right[
+![:scale 70%](https://cienciasocialabierta.netlify.com/img/hex_multiva.png)
+]
+
+
+]
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script src="https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"></script>
+<script>var slideshow = remark.create({
+"ratio": "16:9",
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+<style>
+.logo {
+  background-image: url("../hex_csa.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 16.3em;
+  right: 31em;
+  width: 110px;
+  height: 70px;
+  z-index: 0;
+}
+</style>
+
+<script>
+document
+  .querySelectorAll(
+    '.remark-slide-content' +
+    ':not(.title-slide)' +
+    // add additional classes to exclude here, e.g.
+    // ':not(.inverse)' +
+    ':not(.hide-logo)'
+  )
+  .forEach(el => {
+    el.innerHTML += '<div class="logo"></div>';
+  });
+</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

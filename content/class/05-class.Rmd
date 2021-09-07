@@ -1,0 +1,49 @@
+---
+title: "Texto simple,Markdown & citas"
+linktitle: "5: Markdown & citas"
+date: "2021-09-07"
+class_date: "2021-09-07"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+output:
+  blogdown::html_page:
+    template: ../../pandoc/toc-title_html.template
+    toc: true
+menu:
+  class:
+    parent: Clases
+    weight: 1
+type: docs
+weight: 1
+editor_options:
+  chunk_output_type: console
+---
+
+## Documento presentación
+
+<span class="sidenote">Para ver en pantalla completa click [**aquí**](/slides/05-textoplano_bib/05_textoplano_bib.html). Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. </span>
+
+<iframe src=/slides/05-textoplano_bib/05_textoplano_bib.html height="550" width=100% allowfullscreen="true">
+</iframe>
+
+
+## Video
+
+[próximamente disponible aquí]
+
+--
+
+## Links
+
+- [M Editor.md - editor markdown online](https://pandao.github.io/editor.md/en.html)
+
+- [Tutorial Markdown online](https://www.markdowntutorial.com/es/)
+
+- [The Plain Person’s Guide to Plain Text Social Science](https://plain-text.co/)
+
+- [Zotero](https://www.zotero.org/)
+
+- [BetterBibTex](https://retorque.re/zotero-better-bibtex/)
+
+- [Citr R: https://github.com/crsh/citr](https://github.com/crsh/citr)

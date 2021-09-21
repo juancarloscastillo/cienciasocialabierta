@@ -15,7 +15,7 @@ slug: schedule
 <font color="orange"> **SEPTIEMBRE** </font> |   |   |
 7  | [**5. Introducción a la escritura y citas en texto plano**](/class/05-class)   | [Práctica Markdown y Zotero](/assignment/02-code)  | [Healey (2019) The Plain Person’s Guide to Plain Text Social Science](https://plain-text.co/) <br> <br>[Introducción a Markdown](http://rusersgroup.com/blog/rmarkdown) <br> [Capítulo Lenguaje reproducible, secciones 1.1 y 1.2, libro Investigación Social Abierta](https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html) <br> [Zotero](https://www.zotero.org/)
 14 | Vacaciones Fiestas Patrias
-21 | [**6. Documentos dinámicos**]()  | [Práctica RMarkdown/Knitr]()  | [Bowers & Voors (2016) How to improve your relationship with your future self](https://scielo.conicyt.cl/pdf/revcipol/v36n3/art11.pdf)<br><br> [Hoja referencia Rmarkdown](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf)
+21 | [**6. Documentos dinámicos**](/slides/06-rmarkdown/06_rmarkdown.html)  | [Práctica RMarkdown/Knitr]()  | [Bowers & Voors (2016) How to improve your relationship with your future self](https://scielo.conicyt.cl/pdf/revcipol/v36n3/art11.pdf)<br><br> [Hoja referencia Rmarkdown](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf)
 28 | [**7. Flujo de trabajo reproducible / Protocolo IPO**](/class/06-class)  | Práctica IPO <br> <br> **Entrega trabajo 1**: Documento reproducible  | [IPO](https://juancarloscastillo.github.io/ipo/) <br> [TIER](https://www.projecttier.org/)
 <font color="orange"> **OCTUBRE** </font> |   |   |
 05  | [Asesorías informe 2: Reporte dinámico reproducible](/programa/#entrega-2-30-reporte-dinámico-reproduciblee)  | <font color="red"> **Viernes 8: Entrega informe 2** </font>   |

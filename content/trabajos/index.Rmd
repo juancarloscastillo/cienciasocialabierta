@@ -52,7 +52,15 @@ Documentación de la investigación en un reporte dinámico basado en un flujo r
 
 La estructura del trabajo es secundaria, pero se recomienda seguir las secciones habituales (Resumen, Introducción, Antecedentes conceptuales/empíricos, Metodología, Análisis, Conclusiones).
 
-Se debe entregar el reporte y el código a la base.
+Requisitos:
+
+- utilizar de fuentes bibliográficas en formato Bibtex
+- utilizar formato markdown: estructura de títulos, uso de url links, insertar imágenes/tablas
+- producción e incorporación de al menos una tabla y un gráfico
+- se privilegia salida a html, pero también está la opción de pdf. Lo importante es que ambos sean producidos desde un Rmarkdown
+
+
+Se debe entregar la carpeta autocontenida del proyecto en formato IPO.
 
 ### Entrega 3: (50%): Proyecto Abierto
 

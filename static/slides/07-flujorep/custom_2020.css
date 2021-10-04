@@ -30,12 +30,14 @@ body {
   font-weight: normal;
   color: #000;
 }
+
 h1, h2, h3 {
   font-family: 'Yanone Kaffeesatz';
   font-weight: normal;
   color: #294691;
   margin-bottom:0.2px;
 }
+
 .remark-slide-content {
   background-color: #FFF;
   font-size: 35px;
@@ -43,9 +45,11 @@ h1, h2, h3 {
 
   padding: 1em 2em 1em 2em;
 }
+
 .remark-slide-content h1 {
     font-size: 65px;
 }
+
 .remark-slide-content h2 {
     font-size: 55px;
 }
@@ -246,8 +250,15 @@ th, td { padding: 5px; }
 
 .smally { font-size: 60%
 }
-.tiny { font-size: 50%
+.tiny { 
+    font-size: 50%;
+    line-height: 0em;
 }
+
+.espaciosimple{
+  line-height: 1em
+} 
+
 
 .red { font-color: #000
 }
@@ -415,4 +426,6 @@ iframe {
 
 .output {
     background: #eee;
+}
+
 }

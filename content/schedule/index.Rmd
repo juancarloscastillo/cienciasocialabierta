@@ -18,12 +18,13 @@ slug: schedule
 21 | [**6. Documentos dinámicos**](/slides/06-rmarkdown/06_rmarkdown.html)  | [Práctica RMarkdown/Knitr]()  | [Bowers & Voors (2016) How to improve your relationship with your future self](https://scielo.conicyt.cl/pdf/revcipol/v36n3/art11.pdf)<br><br> [Hoja referencia Rmarkdown](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf)
 28 | [**7. Flujo de trabajo reproducible / Protocolo IPO**](/class/07-class)  |   | [IPO](https://juancarloscastillo.github.io/ipo/) <br> [TIER](https://www.projecttier.org/)
 <font color="orange"> **OCTUBRE** </font> |   |   |
-05  | [Asesorías informe 2: Reporte dinámico reproducible](/programa/#entrega-2-30-reporte-dinámico-reproduciblee)  | <font color="red"> **Viernes 8: Entrega informe 2** </font>   |
+05  | [Asesorías informe 2: Reporte dinámico reproducible](/programa/#entrega-2-30-reporte-dinámico-reproduciblee)  | <font color="red"> ~~**Viernes 8: Entrega informe 2**~~ </font>   |
 12 | Semana de Receso ||
-19 | [**8. Control de versiones 1: Git**](/class/07-class)   | Práctica Git    | [Git](https://git-scm.com/)
-26 | [**9. Control de versiones 2: Github**](/class/08class)  | Práctica Gihub  <br>  |[Github](https://github.com/)
+19 | PARO  |   |   |
+26 | [**8. Control de versiones 1: Git**](/class/08-class)   | Práctica Git <br> **Viernes 29: Entrega informe 2**    | [Git](https://git-scm.com/)
 <font color="orange"> **Noviembre** </font> |   |   |
-02 | [**10. Acceso y publicación 1**](/class/09-class)  | [OSF](https://osf.io/) y [Pre-prints/Socarxiv](https://socopen.org/)  |  |
+02 | [**9. Control de versiones 2: Github**](/class/09-class)  | Práctica Gihub  <br>  |[Github](https://github.com/)
 09  | Semana de receso  |   |
-16 | [**11. Acceso y publicación 2**](/class/10-class)  |   | [Github pages](https://pages.github.com/) <br> [blogdown](https://bookdown.org/yihui/blogdown/) <br> [Xaringan](https://slides.yihui.org/xaringan/#1)
-23 | [Asesoría Informe 3: Proyecto Abierto](/programa/#entrega-3-50-proyecto-abierto) | <font color="red"> **Viernes 26: Entrega informe 3** </font>
+16 | [**10. Acceso y publicación 1**](/class/10-class)  | [OSF](https://osf.io/) y [Pre-prints/Socarxiv](https://socopen.org/)  |  |
+23 | [**11. Acceso y publicación 2**](/class/11-class)  |   | [Github pages](https://pages.github.com/) <br> [blogdown](https://bookdown.org/yihui/blogdown/) <br> [Xaringan](https://slides.yihui.org/xaringan/#1)
+30 | [Asesoría Informe 3: Proyecto Abierto](/programa/#entrega-3-50-proyecto-abierto) | <font color="red"> **Viernes 03 Dic: Entrega informe 3** </font>

@@ -1,8 +1,8 @@
 ---
-title: "Control de versiones con Git"
-linktitle: "8: Control de versiones / Git"
-date: "2021-10-26"
-class_date: "2021-10-26"
+title: "Repositorio remoto con Github"
+linktitle: "9: Repositorio remoto / Github"
+date: "2021-11-02"
+class_date: "2021-11-02"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
@@ -22,11 +22,10 @@ editor_options:
 
 ## Documento presentación
 
-<span class="sidenote">Para ver en pantalla completa click [**aquí**](/slides/08-controlversion/08_controlversion.html). Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. </span>
+<span class="sidenote">Para ver en pantalla completa click [**aquí**](/slides/09-github/09_github.html). Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. </span>
 
-<iframe src=/slides/08-controlversion/08_controlversion.html height="550" width=100% allowfullscreen="true">
+<iframe src=/slides/09-github/09_github.html height="550" width=100% allowfullscreen="true">
 </iframe>
-
 
 
 
@@ -35,12 +34,9 @@ editor_options:
 
 <div style="width: 100%; height: 600px; overflow: hidden;">
 <video  style="width: 100%;" controls>
-<source src="https://www.dropbox.com/s/ab28w6on5pt7fgw/08-git.webm?raw=1">
+<source src="?raw=1">
 </video>
 </div>
-
-
-
 
 
 

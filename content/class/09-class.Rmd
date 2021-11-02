@@ -28,13 +28,11 @@ editor_options:
 </iframe>
 
 
-
-
 ## Video
 
 <div style="width: 100%; height: 600px; overflow: hidden;">
 <video  style="width: 100%;" controls>
-<source src="?raw=1">
+<source src="https://www.dropbox.com/s/x57sxe47lq41it1/sesion-9.mp4?raw=1">
 </video>
 </div>
 

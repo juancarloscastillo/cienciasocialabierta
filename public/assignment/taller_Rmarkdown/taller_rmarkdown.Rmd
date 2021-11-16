@@ -9,7 +9,7 @@ output:
     number_sections: TRUE
 # bibliography: referencias.bib
 #link-citations: yes
-    
+
 ---
 
 ```{r setup, include=FALSE}
@@ -198,7 +198,7 @@ El uso tanto de tablas como de gráficos en el reporte queda a discreción del/a
 
 #### Tablas de contingencia para variables categóricas
 
-Para tablas de contingencia categóricas utilizaremos la función sjt.xtab, de la librería `sjPlot`. Veamos primero una especificación simple: 
+Para tablas de contingencia categóricas utilizaremos la función sjt.xtab, de la librería `sjPlot`. Veamos primero una especificación simple:
 
 ```{r}
 sjt.xtab(proc_elsoc$edcine, proc_elsoc$sexo)
@@ -275,8 +275,8 @@ M
 Este es el reporte simple, pero no muy amigable a la vista. Para una versión más amable utilizamos la función sjt.corr<span class="sidenote">sjPlot::sjt.corr</span>:<span class="sidenote">NOTA: sjPlot actualizó su librería a fines de Mayo (versión 2.8.4); para quienes hayan actualizado a esta versión, la función para tabla de correlaciones ahora es `tab_corr`</span>
 
 
-```{r}
-sjt.corr(proc_elsoc)
+```{r }
+sjPlot::tab_corr(proc_elsoc)
 ```
 Con esta mejor visualización, algunas observaciones sobre la matriz de correlaciones:
 
@@ -285,8 +285,8 @@ Con esta mejor visualización, algunas observaciones sobre la matriz de correlac
 - La información de cada coeficiente se repite sobre y bajo la diagonal, ya que es el mismo par de variables pero en el orden alterno.
 - En la diagonal corresponde que todos los coeficientes sean 1, ya que la correlación de una variable consigo misma es perfectamente positiva. En esta tabla se omiten y aparece la diagonal vacía, ya que es información redundante. Por lo mismo, también se recomienda eliminar el triangulo superior de la tabla (redundante) de la siguiente manera:
 
-```{r}
-sjt.corr(proc_elsoc,
+```{r }
+sjPlot::tab_corr(proc_elsoc,
          triangle = "lower")
 ```
 
@@ -337,7 +337,7 @@ package_info(pkgs = (.packages()), dependencies = FALSE)
 
 ---
 
-# Sobre referencias bibliográficas: adelanto próxima clase
+# Sobre referencias bibliográficas:
 
 Ver el siguiente ejemplo, y luego observar el resultado al renderizar en html (para que funcione, deben tener el archivo de ejemplo referencias.bib en el mismo directorio del .Rmd):
 
@@ -349,6 +349,3 @@ Como dicen @kocer_does_2012, la educación afecta las opiniones sobre la desigua
 
 
 # Referencias
-
-
-

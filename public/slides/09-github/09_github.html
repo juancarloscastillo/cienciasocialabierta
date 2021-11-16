@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Ciencia Social Abierta</title>
+    <meta charset="utf-8" />
+    <meta name="author" content=".small[Juan Carlos Castillo    Departamento de Sociología - UCH / COES   ]" />
+    <script src="libs/header-attrs/header-attrs.js"></script>
+    <link href="libs/tile-view/tile-view.css" rel="stylesheet" />
+    <script src="libs/tile-view/tile-view.js"></script>
+    <link href="libs/animate.css/animate.xaringan.css" rel="stylesheet" />
+    <script src="libs/xaringanExtra-progressBar/progress-bar.js"></script>
+    <link rel="stylesheet" href="custom_2020.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+class: front
+
+
+
+
+
+
+
+
+
+
+
+&lt;!---
+Para correr en ATOM
+- open terminal, abrir R (simplemente, R y enter)
+- rmarkdown::render('static/docpres/07_interacciones/7interacciones.Rmd', 'xaringan::moon_reader')
+
+About macros.js: permite escalar las imágenes como [scale 50%](path to image), hay si que grabar ese archivo js en el directorio.
+---&gt;
+
+
+.pull-left[
+# Ciencia Social Abierta
+&lt;br&gt;
+## Juan Carlos Castillo
+## Sociología FACSO - UChile
+## 2do Sem 2021
+## [.orange[cienciasocialabierta.netlify.com]](https://cienciasocialabierta.netlify.com)
+]
+
+
+.pull-right[
+.right[
+
+![:scale 70%](https://cienciasocialabierta.netlify.com/img/hex_multiva.png)
+### .yellow[Sesión 9: Repositorio remoto en Github]
+
+
+]
+
+]
+---
+
+layout: true
+class: animated, fadeIn
+
+---
+class: middle
+
+![](../01-programa/esquema_general.png) 
+
+---
+class: roja, middle, right
+
+# Contenidos
+
+## 1. .yellow[Repaso sesion anterior (git)]
+## 2. Github
+## 3. Github &amp; RStudio
+
+---
+
+.center[
+![:scale 75%](gitflow.jpeg)
+]
+
+---
+# RStudio: Git
+
+- Para inicializar repositorio Git
+
+![](initrepoRstudio.png)
+
+
+---
+# RStudio: Git
+.center[
+![](rstudiogit.png)
+]
+
+---
+# Ejemplo: commit
+
+.center[
+![:scale 70%](probandocommit.png)
+]
+
+---
+.pull-left-narrow[
+# Revisión de versiones anteriores]
+.pull-right-wide[
+.center[
+![](historywindow.png)
+]
+]
+
+---
+class: roja, middle, right
+
+.pull-left-narrow[
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+![:scale 140%](pngwing.com.png)
+]
+
+# Contenidos
+
+## 1. Repaso sesion anterior (git)
+## 2. .yellow[Github]
+## 3. Github &amp; RStudio
+
+---
+.pull-left[
+# Github
+- Plataforma de repositorios (carpetas de proyecto) versionables/versionados
+
+- Vinculados a repositorios locales
+
+- Públicos y privados (todos los visibles son públicos y clonables)
+]
+
+.pull-right[
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+![:scale 150%](pngwing.com.png)
+]
+
+---
+# Github
+
+- Además del versionamiento permite:
+
+  - respaldo online
+  
+  - apertura
+  
+  - trabajo colaborativo compartiendo el repositorio 
+  
+  - sugerir cambios a otros repositorios (mediante fork)
+  
+  - publicación web en Github Pages
+
+---
+# Github: como funciona
+
+- la cuenta personal de Github almacena **repositorios remotos** (web) que se pueden vincular y sincronizar con repositorios locales
+
+--
+
+- cualquier repositorio remoto de Github que es clonado localmente quedar **vinculado al repositorio remoto** 
+
+--
+
+- si se clona un repositorio **de otra cuenta** no se puede sincronizar luego con cambios locales (a menos que ese repositorio  lo incluya como colaborador)
+
+
+---
+class: inverse
+
+## Github - pasos principales
+
+1 - Crear cuenta [https://github.com/](https://github.com/)
+
+2 - Crear repositorio
+
+3 - Clonar repositorio
+
+4 - Enviar o "empujar" cambios (**commits**) al repositorio (*push*)
+
+5 - Bajar o "tirar" (*pull*l) cambios del repositorio
+
+6 - Añadir colaboradores
+
+---
+.pull-left-narrow[
+# 2. Crear repositorio
+signo + en cuenta Github
+
+(esquina superior derecha)
+]
+
+.pull-right-wide[
+![:scale 80%](create_repo.png)
+]
+
+---
+# 3. Clonar repo
+
+.pull-left[
+- En Github: obtener dirección para clonar: code &gt; local &gt; clone https
+
+- copiar
+]
+
+.pull-right[
+![](clone_git.png)
+]
+
+
+---
+class: roja, middle, right
+
+# Contenidos
+
+## 1. Repaso sesion anterior (git)
+## 2. Github
+## 3. .yellow[Github &amp; RStudio]
+
+---
+# 3. Clonar repo
+
+- En RStudio: File &gt; New Project &gt; Version Control &gt; Git
+.center[
+![](Rstudio_creategit.png)]
+
+---
+# 3. Clonar repo
+
+.pull-left[
+- pegar URL copiado en paso anterior 
+
+- dar ruta local
+]
+
+.pull-right[
+
+![](rstudio_clone.png)
+]
+
+---
+# 4. Subir cambios - **Push**
+
+.pull-left[
+- cambiar algo: contenido de un archivo, agregar nuevo archivo, borrar archivo ...
+
+- realizar commit de esos cambios (ver sesión anterior)
+
+- botón **push**
+]
+
+.pull-right[
+
+![](commit.png)]
+
+---
+# 4. Subir cambios - **Push**
+
+- autentificación (solo primera vez): 
+
+  - username (de cuenta de Github)
+  
+  - clave ... si no funciona, **generar clave especial de seguridad (token)** al interior de Github: icono personal arriba a la derecha &gt; settings &gt; developer settings &gt; Personal access tokens &gt; Generate new token
+
+  - **guardar token** para futuros repositorios!!
+  
+---
+# 5 - Bajar cambios - **Pull**
+
+- situaciones:
+
+  - haber realizado cambios directamente editando en Github
+  
+  - otra persona que colabora en el repositorio ha agregado cambios
+  
+- en RStudio: botón Pull
+
+- (si hay algún **Pull** pendiente no permitirá hacer **Push**)
+
+---
+# 6. Añadir colaboradores
+.center[
+![:scale 70%](collaborate.png)
+]
+
+---
+class: front
+
+
+.pull-left[
+# Ciencia Social Abierta
+## cienciasocialabierta.netlify.com
+----
+## Juan Carlos Castillo
+## Sociología FACSO - UChile
+## 2do Sem 2021
+]
+
+
+.pull-right[
+.right[
+![:scale 70%](https://cienciasocialabierta.netlify.com/img/hex_multiva.png)
+]
+
+
+]
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script src="https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"></script>
+<script>var slideshow = remark.create({
+"slideNumberFormat": "%current%/%total%",
+"ratio": "16:9",
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+<style>
+.logo {
+  background-image: url("../hex_csa.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 16.3em;
+  right: 31em;
+  width: 110px;
+  height: 70px;
+  z-index: 0;
+}
+</style>
+
+<script>
+document
+  .querySelectorAll(
+    '.remark-slide-content' +
+    ':not(.title-slide)' +
+    // add additional classes to exclude here, e.g.
+    // ':not(.inverse)' +
+    ':not(.hide-logo)'
+  )
+  .forEach(el => {
+    el.innerHTML += '<div class="logo"></div>';
+  });
+</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

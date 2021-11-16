@@ -292,12 +292,12 @@ class: roja, middle, right
 ---
 ## Campos típicos e información apropiada
 
- <iframe src="http://datacolada.org/storage_strong/2017/11/2017-11-06-988x1024.png" 
+<iframe src="datacolada.png" 
             height="500" 
             width="400" 
             marginwidth="50" 
             scrolling="yes">
- </iframe>
+</iframe>
 
 ---
 [![:scale 40%](asPredicted.png)](https://aspredicted.org/)

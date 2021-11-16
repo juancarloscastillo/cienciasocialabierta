@@ -13,6 +13,120 @@
     </image>
     
     <item>
+      <title>Práctica RMarkdown</title>
+      <link>https://cienciasocialabierta.netlify.com/assignment/03-code/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://cienciasocialabierta.netlify.com/assignment/03-code/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#práctica&#34;&gt;Práctica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-ejemplo-taller&#34;&gt;Documento ejemplo / taller&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#foro&#34;&gt;Foro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;práctica&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Práctica&lt;/h2&gt;
+&lt;p&gt;La práctica para esta semana consiste en generar un documento en RMarkdown. Para eso:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;revisar presentación de la sesión 6 sobre documentos dinámicos&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;buscar ejemplo de documento realizado en RMarkdown y replicar&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;crear un archivo en base a algún trabajo previo de análisis de datos y traspasarlo a formato RMarkdown en RStudio.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;documento-ejemplo-taller&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento ejemplo / taller&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;aquí va el &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_Rmarkdown/taller_rmarkdown.Rmd&#34;&gt;link a el documento&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;para el ejercicio final sobre bibliografía, bajar el &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_Rmarkdown/referencias.bib&#34;&gt;siguiente archivo &lt;code&gt;referencias.bib&lt;/code&gt;&lt;/a&gt; y guardarlo en la misma carpeta que el anterior.&lt;/li&gt;
+&lt;li&gt;el renderizado de este documento se puede ver &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_Rmarkdown/taller_rmarkdown.html&#34;&gt;aquí.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Preguntas, comentarios y experiencias en el foro abajo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;foro&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Foro&lt;/h2&gt;
+&lt;div id=&#34;disqus_thread&#34;&gt;
+
+&lt;/div&gt;
+&lt;script&gt;
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
+};
+*/
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+&lt;noscript&gt;
+Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
+&lt;/noscript&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Práctica Markdown</title>
+      <link>https://cienciasocialabierta.netlify.com/assignment/02-code/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://cienciasocialabierta.netlify.com/assignment/02-code/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;https://juancarloscastillo.github.io/jc-castillo/documents/talleres-cursos/markdown-mexico/slides/Markdown-mark.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;La práctica para esta semana consiste en generar un documento en Markdown. Para eso:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;leer capítulo sobre Markdown en libro &lt;a href=&#34;https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html&#34;&gt;Investigación Social Abierta&lt;/a&gt; (libro en preparación)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;revisar &lt;a href=&#34;https://www.markdowntutorial.com/es/&#34;&gt;Tutorial de Markdown&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;con esto, crear un archivo Markdown en RStudio y probar las distintas marcas de edición.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Anotar preguntas y comentarios, y los discutimos la próxima sesión.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Foro&lt;/strong&gt;&lt;/p&gt;
+&lt;div id=&#34;disqus_thread&#34;&gt;
+
+&lt;/div&gt;
+&lt;script&gt;
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
+};
+*/
+(function() { // DON&#39;T EDIT BELOW THIS LINE
+var d = document, s = d.createElement(&#39;script&#39;);
+s.src = &#39;https://cienciasocialabierta-netlify-app.disqus.com/embed.js&#39;;
+s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+&lt;noscript&gt;
+Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;
+&lt;/noscript&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Práctica 1</title>
       <link>https://cienciasocialabierta.netlify.com/assignment/01-code/</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>

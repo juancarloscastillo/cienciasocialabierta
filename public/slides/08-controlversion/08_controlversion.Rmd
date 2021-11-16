@@ -1,0 +1,557 @@
+---
+title: "Ciencia Social Abierta"
+author: ".small[Juan Carlos Castillo <br><br> Departamento de Sociología - UCH / COES <br><br>]"
+date: "2do Sem 2021"
+output:
+  xaringan::moon_reader:
+    css: ["custom_2020.css"] # "../ninjutsu.css", paraflipbook
+    includes:
+      after_body: "../insert-logo.html"
+    lib_dir: libs
+    nature:
+      slideNumberFormat: "%current%/%total%"
+      ratio: '16:9'
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
+    seal: false # esto omite title slide automática
+---
+class: front
+
+```{r eval=FALSE, include=FALSE}
+# Correr esto para que funcione el infinite moonreader, el root folder debe ser static para si dirigir solo "bajando" en directorios hacia el bib y otros
+
+1) set slides como working directory, y luego desde consola
+xaringan::inf_mr('03-preregistro-OSF/03_preregistro_osf.Rmd') # correr desde TERMINAL, en R & ATOM!!
+
+
+04-textoplano_bib/04_textoplano_bib.Rmd
+
+```
+
+
+```{r setup, include=FALSE, cache = FALSE}
+require("knitr")
+options(htmltools.dir.version = FALSE)
+pacman::p_load(RefManageR)
+# bib <- ReadBib("../../bib/electivomultinivel.bib", check = FALSE)
+opts_chunk$set(warning=FALSE,
+             message=FALSE,
+             echo=FALSE,
+             cache = FALSE, fig.width=7, fig.height=5.2)
+pacman::p_load(flipbookr, tidyverse)
+```
+
+
+```{r xaringanExtra, include=FALSE}
+xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css"))
+# xaringanExtra::use_share_again()
+# xaringanExtra::use_scribble()
+xaringanExtra::use_progress_bar(color = "red", location = "top", height = "100em")
+
+```
+
+
+
+<!---
+Para correr en ATOM
+- open terminal, abrir R (simplemente, R y enter)
+- rmarkdown::render('static/docpres/07_interacciones/7interacciones.Rmd', 'xaringan::moon_reader')
+
+About macros.js: permite escalar las imágenes como [scale 50%](path to image), hay si que grabar ese archivo js en el directorio.
+--->
+
+
+.pull-left[
+# Ciencia Social Abierta
+<br>
+## Juan Carlos Castillo
+## Sociología FACSO - UChile
+## 2do Sem 2021
+## [.orange[cienciasocialabierta.netlify.com]](https://cienciasocialabierta.netlify.com)
+]
+
+
+.pull-right[
+.right[
+
+![:scale 70%](https://cienciasocialabierta.netlify.com/img/hex_multiva.png)
+### .yellow[Sesión 8: Control de versiones]
+
+
+]
+
+]
+---
+
+layout: true
+class: animated, fadeIn
+
+---
+class: inverse
+
+## Sesión anterior: Protocolo reproducible
+
+### - protocolos (mapa)
+
+### - rutas relativas (caminos)
+
+### - implementación: RStudio projects
+
+
+---
+# Protocolo IPO - Estructura de archivos y carpetas
+
+![](../07-flujorep/ipofolder.png)
+
+
+---
+# Rutas relativas
+
+- forma de "señalar el camino" para abrir y guardar archivos al interior de una carpeta de proyecto autocontenido (= sin referencias locales)
+
+- este camino tiene básicamente 3 direcciones:
+
+  - bajar -> hacia subcarpetas (subcarpeta/subcarpeta)
+
+  - subir -> hacia carpetas superiores (../ por cada nivel)
+
+  - subir y bajar -> hacia otras subcarpetas
+
+---
+# RStudio Projects
+
+.center[
+![](https://d33wubrfki0l68.cloudfront.net/dee6324df1f5c5121d1c1e9eed822ee52c87167b/1f325/screenshots/rstudio-project-3.png)
+]
+
+---
+class: roja, right, bottom
+
+# Control de versiones & Git
+
+
+---
+.pull-left[
+.center[
+![:scale 85%](finaldoc.gif)
+]
+]
+
+--
+
+.pull-right[
+<br>
+<br>
+<br>
+#¿Cómo registrar de manera eficiente quién hizo qué y cuando en un archivo/documento?
+]
+
+---
+## El origen: Abriendo un sistema operativo
+
+.pull-left[
+- Linus Torvalds, 1991 (21 años)
+
+- Crea sistema operativo libre (**Linux**) y lo abre a la colaboración. Postea:
+
+  - "I'm doing a (free) operating system (just a hobby, won't be big and professional..."
+
+]
+
+.pull-right[
+![:scale 100%](torvalds.png)
+]
+
+
+
+---
+## Desarrollo del Linux Kernel
+
+
+.pull-left[
+![](kernelversions.png)
+]
+
+.pull-right[
+
+- version 1: 1994
+
+- version 5: 2019
+
+- 5000 a 6000 colaboradores
+
+- mas de 30 millones de líneas de código
+
+- **versionamiento?**
+
+]
+
+---
+#... más sobre Linux, Torvalds y código abierto
+
+
+Linus Torvalds TED Talk (en inglés, pero con subtítulos ...)
+
+[https://www.youtube.com/watch?v=o8NPllzkFhE&t=156s](https://www.youtube.com/watch?v=o8NPllzkFhE&t=156s)
+
+---
+# Git
+
+.pull-left-narrow[
+![:scale 120%](git.png)
+]
+
+.pull-right-wide[
+- Torvalds crea **Git** en 2005 para poder llevar registro y administrar las distintas versiones de Linux
+
+- Git quiere decir *incompetente* / *desagradable*.
+
+- "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'." (Torvalds, 2012)
+
+]
+
+
+???
+
+Torvalds sarcastically quipped about the name git (which means unpleasant person in British English slang): "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'."[24][25] The man page describes Git as "the stupid content tracker".[26] The read-me file of the source code elaborates further:[27]
+
+The name "git" was given by Linus Torvalds when he wrote the very first version. He described the tool as "the stupid content tracker" and the name as (depending on your way):
+
+random three-letter combination that is pronounceable, and not actually used by any common UNIX command. The fact that it is a mispronunciation of "get" may or may not be relevant.
+stupid. contemptible and despicable. simple. Take your pick from the dictionary of slang.
+"global information tracker": you're in a good mood, and it actually works for you. Angels sing, and a light suddenly fills the room.
+"goddamn idiotic truckload of sh*t": when it breaks
+
+---
+# Git: un software de control de versiones
+
+- es una especie de memoria o registro local que guarda información sobre:
+
+  - quién hizo un cambio
+  - cuándo lo hizo
+  - qué hizo
+
+- mantiene la información de todos los cambios en la historia de la carpeta / repositorio local
+
+- se puede sincronizar con repositorio remoto (ej. Github)
+
+---
+# Git
+
+- actualmente, Git / Github posee más de 100 millones de repositorios
+
+- mayor fuente de código en el mundo
+
+- ha transitado desde el mundo de desarrollo de software hacia distintos ámbitos de trabajo colaborativo y abierto
+
+- entorno de trabajo que favorece la ciencia abierta
+
+
+---
+.pull-left-narrow[
+# Dos lógicas de versionamiento
+
+1.*Deltas*
+
+
+<br>
+<br>
+
+
+2.*Imágenes* (snapshots)
+
+-> **Git**
+]
+
+.pull-right-wide[
+![](deltas.png)
+
+![](snapshots.png)
+]
+
+---
+class: middle right center
+
+# Git no es un registro de versiones de archivos específicos, sino de una **carpeta completa**
+
+<br>
+
+# Guarda "fotos" de momentos específicos de la carpeta, y esta foto se *saca* mediante un **commit**
+
+---
+.center[
+![:scale 75%](gitflow.jpeg)
+]
+
+---
+# Versionamiento intuitivo vs versionamiento Git
+# 
+
+.medium[
+| Intuitivo                            | Git                                          |
+|--------------------------------------|----------------------------------------------|
+| guardar                              | commit                                       |
+| cambiar nombre de archivo            | mantiene nombres de archivos                 |
+| basado en archivos                   | basado en carpetas                           |
+| no permite comparar entre  versiones | permite comparar entre versiones de archivos |
+| no identifica a autor de cambios     | identifica a autor                           |
+
+]
+---
+# Commits
+
+- El **commit** es el procedimiento fundamental del control de versiones
+
+--
+
+- Git no registra cualquier cambio que se "guarda", sino los que se "comprometen" (commit)
+
+--
+
+- Registra cuándo y quien los hizo
+
+--
+
+- Registra de qué se trata a través de un **mensaje de commit**
+
+--
+
+- Permite volver a momentos o "fotos" anteriores de la carpeta, evitando cambiar nombres de archivos para versionar
+
+
+---
+# Pasos básicos
+
+- inicializar la carpeta como repositorio git (solo la primera vez)
+
+--
+
+- agregar (add) los cambios que se quieran comprometer al escenario de compromiso (stage)
+
+--
+
+- mensaje de commit
+
+--
+
+- commit
+
+---
+# Uso
+
+- Git es un programa que tradicionalmente se utiliza mediante comandos desde el **terminal** (git bash)
+
+--
+
+- actualmente, existen una serie de programas locales (clientes) que facilitan el uso de Git
+
+--
+
+- en este curso, vamos a utilizar Git / Github mediante sus opciones disponibles en **RStudio**
+
+---
+class: roja, right bottom
+
+# Usando Git en RStudio
+
+---
+# Git en R & RStudio
+
+- recordar que Git versiona carpetas, por lo que se debe estar posicionado en la carpeta del proyecto
+
+- por lo mismo, se recomienda trabajar en carpetas de proyecto con la función RProject (ver clase de [Flujo Reproducible](https://cienciasocialabierta.netlify.app/class/07-class/))
+
+- para revisar/confirmar antes en qué carpeta se está posicionado: `getwd()`
+
+---
+# Ejemplo: versionando proyecto en formato IPO
+
+- bajar la plantilla de proyecto (IPO_template) en en repositorio IPO: https://github.com/lisa-coes/ipo
+
+- y ahí [bajar el archivo comprimido (.tar.gz)](https://github.com/lisa-coes/ipo/blob/master/IPO_template/IPO-Project_template.tar.gz) (botón Download)
+
+---
+# RStudio: Git
+
+- Para inicializar repositorio Git
+
+![](initrepoRstudio.png)
+
+- Version control system -> project setup -> **Git**
+
+- Confirm restart
+
+
+---
+# RStudio: Git
+
+.pull-left[
+- también se puede hacer al momento de iniciar una carpeta como RProject (opción _create a git repository_)]
+
+.pull-right[
+.center[
+![](https://d33wubrfki0l68.cloudfront.net/dee6324df1f5c5121d1c1e9eed822ee52c87167b/1f325/screenshots/rstudio-project-3.png)
+]]
+
+---
+# RStudio: Git
+.center[
+![](rstudiogit.png)
+]
+
+---
+# Rstudio - Git
+
+- Botón Git
+
+- Pestaña Git
+
+- Archivos Git: para poder visualizarlos todos, en la ventana de archivos (Files) -> More -> Show hidden Files
+
+- aparece una carpeta oculta `.git`, que es donde se almacena toda la información de las versiones.
+
+---
+# Commit inicial
+
+.pull-left[
+![](gitstageinit.png)
+]
+
+.pull-right[
+- ir a la pestaña Git
+
+- Marcar todos los archivos como _staged_
+
+- botón commit
+
+- escribir un mensaje de commit, y luego botón "commit"
+
+]
+
+---
+# Commit inicial
+
+.center[
+![](commitrstudio.png)
+]
+
+- el momento y los archivos que incluyen los sucesivos commits queda a criterio del _master_ (dueñ_ del repo)
+
+---
+# Ejemplo: commit (en carpeta IPO miniex)
+
+.center[
+![:scale 80%](secondcommit.png)
+]
+
+---
+# Ejemplo: commit
+
+- cuando un archivo se guarda, aparece listado en la pestaña Git, donde se registran todos los cambios desde el último commit
+
+- luego se marca con un tick "staged" para todos los archivos que van a ser parte del commit
+
+- botón commit + mensaje de commit + hacer commit
+
+---
+# Ejemplo: commit
+
+.center[
+![:scale 70%](probandocommit.png)
+]
+
+---
+# Revisión de versiones anteriores 
+
+![](history.png)
+
+- Boton *history*
+
+- abre ventana donde aparece el listado de commits
+
+- en la ventana se puede navegar entre commits y los archivos de cada commit
+
+- cambios de versiones anteriores en verde
+
+---
+.pull-left-narrow[
+# Revisión de versiones anteriores]
+.pull-right-wide[
+.center[
+![](historywindow.png)
+]
+]
+---
+# Notas
+
+- los cambios en verde se muestran por línea completa de código, no por caracteres (al menos en RStudio)
+
+- si se quiere volver a una versión anterior de algún archivo, entonces ir a view file @[número de commit], y se puede guardar/reemplazar en archivo actual
+
+---
+# Recomendaciones
+
+- no hacer commit luego de cualquier cambio que no sea **relevante**
+
+- ... pero, hacer commits **periódicamente**, sin que se junten muchos archivos  (ayuda a visualizar mejor los cambios)
+
+- buenos **mensajes** de commits, breves e informativos
+
+---
+# Sobre Git y Github
+
+- El uso de Git para archivos locales es útil, pero compite con otros sistemas de versionamiento local individual/remoto (Dropbox, Drive)
+
+- El mayor sentido de usar Git es para
+  - trabajo colaborativo
+  - repositorios públicos
+  
+- Conocer Git otorga las bases para utilizar repositorios públicos como **Github**, que faciltan la reproducibilidad, colaboración, apertura y publicación de resultados. 
+
+---
+class: inverse
+
+## Resumen
+
+- Desarrollo de software abierto y necesidad de control de versiones en entorno colaborativo
+
+- Versionamiento: favorece reproducibilidad y colaboración
+
+- Git / RStudio
+
+- Inicialización de repositorio Git
+
+- Commits
+---
+class: roja, middle, center
+
+.pull-left-wide[
+![:scale 120%](pngwing.com.png)
+]
+## Próxima clase
+
+# Github
+
+---
+class: front
+
+
+.pull-left[
+# Ciencia Social Abierta
+## cienciasocialabierta.netlify.com
+----
+## Juan Carlos Castillo
+## Sociología FACSO - UChile
+## 2do Sem 2021
+]
+
+
+.pull-right[
+.right[
+![:scale 70%](https://cienciasocialabierta.netlify.com/img/hex_multiva.png)
+]
+
+
+]

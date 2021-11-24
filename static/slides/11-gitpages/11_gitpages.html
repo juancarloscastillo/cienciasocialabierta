@@ -123,35 +123,33 @@ class: roja bottom
   - páginas adicionales según objetivo y posibilidades de arquitectura del sitio
 
 ---
-# Manos a la obra
-
-- en nuestro repositorio Github:
+## En nuestro repositorio Github:
 
   - settings &gt; Pages
   - seleccionar branch a publicar (por lo general _main_ o branch principal)
-  - seleccionar carpeta a publicar: en general raíz o docs
-  - seleccionar tema 
-  - guardar, genera un readme por defecto que será la front page
-  - publicado en la dirección que se indica
-
----
-![:scale 120%](gitpages.png)
-
----
-# Github pages
-
-- al repo se le agrega el archivo _config.yml, que es el generador del sitio (site generator) que indica el tema de Jekyll (se puede cambiar posteriormente)
-
+  - seleccionar carpeta a publicar: por defecto en raíz-root (a menos que se quiera generar el sitio en carpeta docs)
 .center[
-![](jekyll.png)
-]
-
+![:scale 50%](source.png)]
+  - grabar (save)
+ 
 ---
-## Y tenemos nuestro sitio publicado en la web
+## En nuestro repositorio Github (2):
+ 
+ - después de grabar: seleccionar tema (Change theme), luego se puede cambiar
 
-.center[
-![](web-github.png)
-]
+ - la dirección de la página aparece arriba:
+ 
+ .center[![](published.png)
+ ]
+ 
+---
+# ¿Cómo funcional?
+
+- al repo se le agrega el archivo _config.yml, que es el generador del sitio (site generator)
+
+- además se debe definir un archivo que será la página de inicio y que debe llamarse index.md
+
+  - para probar se puede generar en el mismo github con "add file", pero en genera este contenido ya se trabaja de manera local 
 
 ---
 class: roja bottom
@@ -165,7 +163,9 @@ class: roja bottom
 
 - las opciones por defecto de Github pages son para páginas simples y rápidas, si se quiere crear un sitio más complejo se requieren pasos adicionales
 
-- lo mejor es hacerlo local, por las mayores posibilidades de edición -&gt; git clone
+- lo mejor es hacerlo local, por las mayores posibilidades de edición 
+
+- para esto, clonar desde RStudio el repositorio donde se quiere hacer una página: 
 
   - new project -&gt; version control -&gt; git
 
@@ -193,39 +193,30 @@ class: roja bottom
 ---
 # 1. Creación de archivos básicos.
 
-Son dos:
+- AL igual que en Github pages, necesitamos al menos dos archivos: 
 
-- index.html
+  - index
 
-- _site.yml
+  - y un **_.yml**, que en este caso es **_site.yml**
 
 
 ---
 # 1. Creación de archivos básicos.
 
-## index.html
+## index
 
 - Es la página inicial del sitio
 
-- Para generarlo, simplemente crear un archivo index.Rmd con la información que se desee mostar al inicio del sitio (se puede modificar luego)
+- Para generarlo, simplemente crear un archivo index.Rmd con la información que se desee mostrar al inicio del sitio (se puede modificar luego)
+
+- Luego se renderiza a index.html
+
+- (También se pueden agregar más páginas posteriormente) 
 
 ---
-# 1. Creación de archivos básicos
+# 2. Configuración del sitio en _site.yml
 
-.pull-left-narrow[
-
-## _site.yml: 
-- estructura del sitio
-]
-
-.pull-right-wide[
-
-![](siteyml.png)
-]
----
-# 2. Adaptación del sitio
-
-- configurar:
+- El sitio está definido básicamente por:
 
   - Nombre del sitio
   

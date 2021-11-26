@@ -28,11 +28,11 @@ editor_options:
 </iframe>
 
 
-## Video 
+## Tutorial Github Pages
 
 <div style="width: 100%; height: 600px; overflow: hidden;">
 <video  style="width: 100%;" controls>
-<source src="?raw=1">
+<source src="https://www.dropbox.com/s/o4tme6zwah92q6r/sesion11.mp4?raw=1">
 </video>
 </div>
 
@@ -43,4 +43,4 @@ editor_options:
 ## Links
 
 
-- [Socpopen](https://socopen.org/)
+- [Github pages](https://pages.github.com/)

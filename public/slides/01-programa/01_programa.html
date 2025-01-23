@@ -12,11 +12,24 @@
     <link href="libs/xaringanExtra-scribble/scribble.css" rel="stylesheet" />
     <script src="libs/xaringanExtra-scribble/scribble.js"></script>
     <script>document.addEventListener('DOMContentLoaded', function() { window.xeScribble = new Scribble({"pen_color":["#FF0000"],"pen_size":3,"eraser_size":30,"palette":[]}) })</script>
-    <link rel="stylesheet" href="custom_2020.css" type="text/css" />
+    <link rel="stylesheet" href="custom_lisa.css" type="text/css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css" type="text/css" />
   </head>
   <body>
     <textarea id="source">
+class: center, middle, inverse, title-slide
+
+.title[
+# Ciencia Social Abierta
+]
+.author[
+### .small[Juan Carlos Castillo <br><br> Departamento de Sociología - UCH / COES <br><br>]
+]
+.date[
+### 2do Sem 2021
+]
+
+---
 
 class: front
 
@@ -52,7 +65,7 @@ About macros.js: permite escalar las imágenes como [scale 50%](path to image), 
 .right[
 &lt;br&gt;
 ## .orange[Sesión 1: Presentación]
-![:scale 70%](https://cienciasocialabierta.netlify.com/img/hex_multiva.png)
+![:scale 70%](https://cienciasocialabierta.netlify.app/img/hex_multiva.png)
 
 
 
@@ -326,6 +339,19 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     deleted = true;
   });
 })();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
 (function() {
   "use strict"
   // Replace <script> tags in slides area to make them executable

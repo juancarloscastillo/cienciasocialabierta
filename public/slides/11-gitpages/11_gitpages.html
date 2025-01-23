@@ -1,16 +1,25 @@
 <!DOCTYPE html>
 <html lang="" xml:lang="">
   <head>
-    <title>Investigación Social Abierta</title>
+    <title>Ciencia Social Abierta</title>
     <meta charset="utf-8" />
     <meta name="author" content=".small[Juan Carlos Castillo    Departamento de Sociología - UCH / COES   ]" />
-    <link rel="stylesheet" href="../custom_2020.css" type="text/css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css" type="text/css" />
+    <script src="libs/header-attrs/header-attrs.js"></script>
+    <link href="libs/tile-view/tile-view.css" rel="stylesheet" />
+    <script src="libs/tile-view/tile-view.js"></script>
+    <link href="libs/animate.css/animate.xaringan.css" rel="stylesheet" />
+    <script src="libs/xaringanExtra-progressBar/progress-bar.js"></script>
+    <link rel="stylesheet" href="custom_2020.css" type="text/css" />
   </head>
   <body>
     <textarea id="source">
 
 class: front
+
+
+
+
+
 
 
 
@@ -28,37 +37,44 @@ About macros.js: permite escalar las imágenes como [scale 50%](path to image), 
 
 .pull-left[
 # Ciencia Social Abierta
-## cienciasocialabierta.netlify.app
-----
+&lt;br&gt;
 ## Juan Carlos Castillo
 ## Sociología FACSO - UChile
-## 1er Sem 2020
+## 2do Sem 2021
+## [.orange[cienciasocialabierta.netlify.com]](https://cienciasocialabierta.netlify.com)
 ]
 
 
 .pull-right[
 .right[
+
 ![:scale 70%](https://cienciasocialabierta.netlify.com/img/hex_multiva.png)
+### .yellow[Sesión 11: Publicación web ]
+
+
 ]
 
-## Sesión 11: *Páginas Github*
 ]
-
 ---
 
 layout: true
 class: animated, fadeIn
 
 ---
+class: middle
 
-![](../10-socarxiv/acceso.png)
+![](../01-programa/esquema_general.png) 
+
+---
+
+![](../10-openpub/acceso.png)
 
 
 ---
 .pull-left[
 # Publicación web con base RMarkdown
 
-- [Rmarkdown (web)](https://bookdown.org/yihui/rmarkdown/websites.html)
+- [Rmarkdown / html](https://bookdown.org/yihui/rmarkdown/websites.html)
 
 - [Blogdown (hugo)](https://bookdown.org/yihui/blogdown/)
 
@@ -72,35 +88,92 @@ class: animated, fadeIn
 ]
 
 ---
-class: roja
+# Publicación con base RMarkdown 
 
-## Esta sesión 
+- la publicación se asocia al concepto de _deploy(ment)_
+
+- un documento esta .red[_deployed_] cuando está renderizado y publicado en la web
+
+- las principales plataformas gratuitas de publicación de sitios con base RMarkdown son **Github Pages** y **Netlify**
+
+---
+# Generadores de sitios
+
+- existen también una serie de programas que permiten generar sitios en base a código/sintaxis
+
+- los principales asociados a RMarkdown son Jekyll y Hugo.
+
+---
+class: roja bottom
 
 
-# RMarkdown Websites
+# Publicación de sitios en Github pages 
 
-# Publicación en Github
+## Con Rmarkdown y Jekyll
+
+---
+# Github pages
+
+- servicio integrado a repositorios Github, en teoría de cada repositorio se puede hacer una página
+
+- **¿Qué es lo que se publica?**
+
+  - al menos una página, por lo general el Readme.md o index.html
+  
+  - páginas adicionales según objetivo y posibilidades de arquitectura del sitio
+
+---
+## En nuestro repositorio Github:
+
+  - settings &gt; Pages
+  - seleccionar branch a publicar (por lo general _main_ o branch principal)
+  - seleccionar carpeta a publicar: por defecto en raíz-root (a menos que se quiera generar el sitio en carpeta docs)
+.center[
+![:scale 50%](source.png)]
+  - grabar (save)
+ 
+---
+## En nuestro repositorio Github (2):
+ 
+ - después de grabar: seleccionar tema (Change theme), luego se puede cambiar
+
+ - la dirección de la página aparece arriba:
+ 
+ .center[![](published.png)
+ ]
+ 
+---
+# ¿Cómo funcional?
+
+- al repo se le agrega el archivo _config.yml, que es el generador del sitio (site generator)
+
+- además se debe definir un archivo que será la página de inicio y que debe llamarse index.md
+
+  - para probar se puede generar en el mismo github con "add file", pero en genera este contenido ya se trabaja de manera local 
+
+---
+class: roja bottom
+
+
+# Rmarkdown websites
 
 
 ---
-class: inverse middle right
+# Rmarkdown websites
 
+- las opciones por defecto de Github pages son para páginas simples y rápidas, si se quiere crear un sitio más complejo se requieren pasos adicionales
 
-# Rmarkdown Websites
+- lo mejor es hacerlo local, por las mayores posibilidades de edición 
 
+- para esto, clonar desde RStudio el repositorio donde se quiere hacer una página: 
 
-
----
-# Ejemplo
-
-- [https://juancarloscastillo.github.io/merit-scale/index.html](https://juancarloscastillo.github.io/merit-scale/index.html)
-
+  - new project -&gt; version control -&gt; git
 
 ---
 # Transformar proyecto a sitio web
 
 .pull-left[
-- RStudio / Knitr permiten generar el sitio basados en [Jekyll](https://jekyllrb.com/) (no es necesario manejarlo para generar el sitio)
+- RStudio / Knitr también permiten generar el sitio basados en [Jekyll](https://jekyllrb.com/) (no es necesario manejarlo para generar el sitio)
 
 - Es una forma simple y rápida de generar y publicar páginas, sin grandes opciones de estructura.
 
@@ -120,39 +193,30 @@ class: inverse middle right
 ---
 # 1. Creación de archivos básicos.
 
-Son dos:
+- AL igual que en Github pages, necesitamos al menos dos archivos: 
 
-- index.html
+  - index
 
-- _site.yml
+  - y un **_.yml**, que en este caso es **_site.yml**
 
 
 ---
 # 1. Creación de archivos básicos.
 
-## index.html
+## index
 
 - Es la página inicial del sitio
 
-- Para generarlo, simplemente crear un archivo index.Rmd con la información que se desee mostar al inicio del sitio (se puede modificar luego)
+- Para generarlo, simplemente crear un archivo index.Rmd con la información que se desee mostrar al inicio del sitio (se puede modificar luego)
+
+- Luego se renderiza a index.html
+
+- (También se pueden agregar más páginas posteriormente) 
 
 ---
-# 1. Creación de archivos básicos
+# 2. Configuración del sitio en _site.yml
 
-.pull-left-narrow[
-
-## _site.yml: 
-- estructura del sitio
-]
-
-.pull-right-wide[
-
-![](siteyml.png)
-]
----
-# 2. Adaptación del sitio
-
-- configurar:
+- El sitio está definido básicamente por:
 
   - Nombre del sitio
   
@@ -231,28 +295,12 @@ output:
 
 - **NO BORRAR**
 
-
 ---
-class: inverse, middle right
+# Publicación de vuelta en Github
 
+- como en el repo del que clonamos ya estaba activada la opción de pages, basta con hacer commit y push y se actualiza el sitio
 
-# Publicación en Github
-
-
----
-# Pasos
-
-- Actualizar el repositorio con el sitio ya generado localmente (commit - push, ver [sesión 8, repositorio remoto Github](https://cienciasocialabierta.netlify.app/class/08-class/)
-
-- Ir a sección _Settings_ del repositorio -&gt; Github pages: activar 
-![:scale 80%](githubpages.png)
-
----
-# Notas Github pages
-
-- Theme chooser: se puede también elegir alguno de los temas por defecto desde aquí.
-
-- Se recomienda luego hacer un link al sitio web desde el Readme.md
+- en caso de generar primero el sitio localmente, entonces una vez actualizado el repositorio se debe activar la opción de Github pages
 
 ---
 class: inverse
@@ -268,6 +316,15 @@ class: inverse
 - En Github Settings - &gt; Gihub pages
 
 ---
+# Bonus-track
+
+- [Tesisfacsodown](https://juancarloscastillo.github.io/tesisfacsodown/)
+
+- [Presentaciones con Xaringan](https://bookdown.org/yihui/rmarkdown/xaringan.html)
+
+
+
+---
 class: front
 
 
@@ -277,7 +334,7 @@ class: front
 ----
 ## Juan Carlos Castillo
 ## Sociología FACSO - UChile
-## 1er Sem 2020
+## 2do Sem 2021
 ]
 
 
@@ -293,6 +350,7 @@ class: front
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
 <script src="https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"></script>
 <script>var slideshow = remark.create({
+"slideNumberFormat": "%current%/%total%",
 "ratio": "16:9",
 "highlightStyle": "github",
 "highlightLines": true,
@@ -380,6 +438,33 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   }
   preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
 })(document);</script>
+<style>
+.logo {
+  background-image: url("../hex_csa.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 16.3em;
+  right: 31em;
+  width: 110px;
+  height: 70px;
+  z-index: 0;
+}
+</style>
+
+<script>
+document
+  .querySelectorAll(
+    '.remark-slide-content' +
+    ':not(.title-slide)' +
+    // add additional classes to exclude here, e.g.
+    // ':not(.inverse)' +
+    ':not(.hide-logo)'
+  )
+  .forEach(el => {
+    el.innerHTML += '<div class="logo"></div>';
+  });
+</script>
 
 <script>
 slideshow._releaseMath = function(el) {

@@ -2,67 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Course materials | Ciencia Social Abierta</title>
-    <link>https://cienciasocialabierta.netlify.com/</link>
-      <atom:link href="https://cienciasocialabierta.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cienciasocialabierta.netlify.app/</link>
+      <atom:link href="https://cienciasocialabierta.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Course materials</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language>
     <image>
-      <url>https://cienciasocialabierta.netlify.com/img/social-image.png</url>
+      <url>https://cienciasocialabierta.netlify.app/img/social-image.png</url>
       <title>Course materials</title>
-      <link>https://cienciasocialabierta.netlify.com/</link>
+      <link>https://cienciasocialabierta.netlify.app/</link>
     </image>
     
     <item>
-      <title>Publicaciones Abiertas</title>
-      <link>https://cienciasocialabierta.netlify.com/class/10-class/</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/class/10-class/</guid>
-      <description>
-&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;h2&gt;Índice&lt;/h2&gt;
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#video&#34;&gt;Video&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#links&#34;&gt;Links&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/10-openpub/10_openpub.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/10-openpub/10_openpub.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div id=&#34;video&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video&lt;/h2&gt;
-&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
-&lt;video  style=&#34;width: 100%;&#34; controls&gt;
-&lt;source src=&#34;?raw=1&#34;&gt;
-&lt;/video&gt;
-&lt;/div&gt;
-&lt;p&gt;–&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;links&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Links&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://socopen.org/&#34;&gt;Socpopen&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Repositorio remoto con Github</title>
-      <link>https://cienciasocialabierta.netlify.com/class/09-class/</link>
+      <link>https://cienciasocialabierta.netlify.app/class/09-class/</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/class/09-class/</guid>
+      <guid>https://cienciasocialabierta.netlify.app/class/09-class/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -76,8 +33,8 @@
 
 &lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/09-github/09_github.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/09-github/09_github.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.app/slides/09-github/09_github.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://cienciasocialabierta.netlify.app/slides/09-github/09_github.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;div id=&#34;video&#34; class=&#34;section level2&#34;&gt;
@@ -100,12 +57,12 @@
     
     <item>
       <title>Control de versiones con Git</title>
-      <link>https://cienciasocialabierta.netlify.com/class/08-class/</link>
+      <link>https://cienciasocialabierta.netlify.app/class/08-class/</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/class/08-class/</guid>
+      <guid>https://cienciasocialabierta.netlify.app/class/08-class/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -119,8 +76,8 @@
 
 &lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/08-controlversion/08_controlversion.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/08-controlversion/08_controlversion.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.app/slides/08-controlversion/08_controlversion.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://cienciasocialabierta.netlify.app/slides/08-controlversion/08_controlversion.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;div id=&#34;video&#34; class=&#34;section level2&#34;&gt;
@@ -143,12 +100,12 @@
     
     <item>
       <title>Documentos Dinámicos</title>
-      <link>https://cienciasocialabierta.netlify.com/class/07-class/</link>
+      <link>https://cienciasocialabierta.netlify.app/class/07-class/</link>
       <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/class/07-class/</guid>
+      <guid>https://cienciasocialabierta.netlify.app/class/07-class/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -162,8 +119,8 @@
 
 &lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/07-flujorep/07_flujorep.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/07-flujorep/07_flujorep.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.app/slides/07-flujorep/07_flujorep.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://cienciasocialabierta.netlify.app/slides/07-flujorep/07_flujorep.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;div id=&#34;video&#34; class=&#34;section level2&#34;&gt;
@@ -186,12 +143,12 @@
     
     <item>
       <title>Documentos Dinámicos</title>
-      <link>https://cienciasocialabierta.netlify.com/class/06-class/</link>
+      <link>https://cienciasocialabierta.netlify.app/class/06-class/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/class/06-class/</guid>
+      <guid>https://cienciasocialabierta.netlify.app/class/06-class/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -205,8 +162,8 @@
 
 &lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/06-rmarkdown/06_rmarkdown.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/06-rmarkdown/06_rmarkdown.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.app/slides/06-rmarkdown/06_rmarkdown.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://cienciasocialabierta.netlify.app/slides/06-rmarkdown/06_rmarkdown.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;div id=&#34;video&#34; class=&#34;section level2&#34;&gt;
@@ -231,12 +188,12 @@
     
     <item>
       <title>Práctica RMarkdown</title>
-      <link>https://cienciasocialabierta.netlify.com/assignment/03-code/</link>
+      <link>https://cienciasocialabierta.netlify.app/assignment/03-code/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/assignment/03-code/</guid>
+      <guid>https://cienciasocialabierta.netlify.app/assignment/03-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -260,9 +217,9 @@
 &lt;div id=&#34;documento-ejemplo-taller&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento ejemplo / taller&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;aquí va el &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_Rmarkdown/taller_rmarkdown.Rmd&#34;&gt;link a el documento&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;para el ejercicio final sobre bibliografía, bajar el &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_Rmarkdown/referencias.bib&#34;&gt;siguiente archivo &lt;code&gt;referencias.bib&lt;/code&gt;&lt;/a&gt; y guardarlo en la misma carpeta que el anterior.&lt;/li&gt;
-&lt;li&gt;el renderizado de este documento se puede ver &lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/taller_Rmarkdown/taller_rmarkdown.html&#34;&gt;aquí.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;aquí va el &lt;a href=&#34;https://cienciasocialabierta.netlify.app/assignment/taller_Rmarkdown/taller_rmarkdown.Rmd&#34;&gt;link a el documento&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;para el ejercicio final sobre bibliografía, bajar el &lt;a href=&#34;https://cienciasocialabierta.netlify.app/assignment/taller_Rmarkdown/referencias.bib&#34;&gt;siguiente archivo &lt;code&gt;referencias.bib&lt;/code&gt;&lt;/a&gt; y guardarlo en la misma carpeta que el anterior.&lt;/li&gt;
+&lt;li&gt;el renderizado de este documento se puede ver &lt;a href=&#34;https://cienciasocialabierta.netlify.app/assignment/taller_Rmarkdown/taller_rmarkdown.html&#34;&gt;aquí.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Preguntas, comentarios y experiencias en el foro abajo.&lt;/p&gt;
 &lt;/div&gt;
@@ -298,12 +255,12 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Texto simple,Markdown &amp; citas</title>
-      <link>https://cienciasocialabierta.netlify.com/class/05-class/</link>
+      <link>https://cienciasocialabierta.netlify.app/class/05-class/</link>
       <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/class/05-class/</guid>
+      <guid>https://cienciasocialabierta.netlify.app/class/05-class/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -317,8 +274,8 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 
 &lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/05-textoplano_bib/05_textoplano_bib.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/05-textoplano_bib/05_textoplano_bib.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.app/slides/05-textoplano_bib/05_textoplano_bib.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://cienciasocialabierta.netlify.app/slides/05-textoplano_bib/05_textoplano_bib.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;div id=&#34;video&#34; class=&#34;section level2&#34;&gt;
@@ -346,12 +303,12 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Práctica Markdown</title>
-      <link>https://cienciasocialabierta.netlify.com/assignment/02-code/</link>
+      <link>https://cienciasocialabierta.netlify.app/assignment/02-code/</link>
       <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/assignment/02-code/</guid>
+      <guid>https://cienciasocialabierta.netlify.app/assignment/02-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 
@@ -393,12 +350,12 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Datos Abiertos</title>
-      <link>https://cienciasocialabierta.netlify.com/class/04-class/</link>
+      <link>https://cienciasocialabierta.netlify.app/class/04-class/</link>
       <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/class/04-class/</guid>
+      <guid>https://cienciasocialabierta.netlify.app/class/04-class/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -436,12 +393,12 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Preregistros</title>
-      <link>https://cienciasocialabierta.netlify.com/class/03-class/</link>
+      <link>https://cienciasocialabierta.netlify.app/class/03-class/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/class/03-class/</guid>
+      <guid>https://cienciasocialabierta.netlify.app/class/03-class/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -455,8 +412,8 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 
 &lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/03-preregistro-OSF/03_preregistro_osf.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/03-preregistro-OSF/03_preregistro_osf.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.app/slides/03-preregistro-OSF/03_preregistro_osf.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://cienciasocialabierta.netlify.app/slides/03-preregistro-OSF/03_preregistro_osf.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
@@ -483,12 +440,12 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Antecedentes</title>
-      <link>https://cienciasocialabierta.netlify.com/class/02-class/</link>
+      <link>https://cienciasocialabierta.netlify.app/class/02-class/</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/class/02-class/</guid>
+      <guid>https://cienciasocialabierta.netlify.app/class/02-class/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -502,8 +459,8 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 
 &lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/02-bases_ciencia_abierta/02_bases.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/02-bases_ciencia_abierta/02_bases.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.app/slides/02-bases_ciencia_abierta/02_bases.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://cienciasocialabierta.netlify.app/slides/02-bases_ciencia_abierta/02_bases.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;div id=&#34;video-clase&#34; class=&#34;section level2&#34;&gt;
@@ -527,12 +484,12 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Presentación</title>
-      <link>https://cienciasocialabierta.netlify.com/class/01-class/</link>
+      <link>https://cienciasocialabierta.netlify.app/class/01-class/</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/class/01-class/</guid>
+      <guid>https://cienciasocialabierta.netlify.app/class/01-class/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 &lt;h2&gt;Índice&lt;/h2&gt;
@@ -546,8 +503,8 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 
 &lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Documento presentación&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/01-programa/01_programa.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&#34;https://cienciasocialabierta.netlify.com/slides/01-programa/01_programa.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.app/slides/01-programa/01_programa.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://cienciasocialabierta.netlify.app/slides/01-programa/01_programa.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;div id=&#34;video-sesión-1&#34; class=&#34;section level2&#34;&gt;
@@ -571,12 +528,12 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Práctica 1</title>
-      <link>https://cienciasocialabierta.netlify.com/assignment/01-code/</link>
+      <link>https://cienciasocialabierta.netlify.app/assignment/01-code/</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/assignment/01-code/</guid>
+      <guid>https://cienciasocialabierta.netlify.app/assignment/01-code/</guid>
       <description>
 &lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
 
@@ -588,12 +545,98 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     </item>
     
     <item>
-      <title>Truth, Beauty, and Data</title>
-      <link>https://cienciasocialabierta.netlify.com/reading/01-reading/</link>
-      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/reading/01-reading/</guid>
+      <title>Publicaciones Abiertas</title>
+      <link>https://cienciasocialabierta.netlify.app/class/10-class/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://cienciasocialabierta.netlify.app/class/10-class/</guid>
       <description>
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video&#34;&gt;Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#links&#34;&gt;Links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.app/slides/10-openpub/10_openpub.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://cienciasocialabierta.netlify.app/slides/10-openpub/10_openpub.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video&lt;/h2&gt;
+&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
+&lt;video  style=&#34;width: 100%;&#34; controls&gt;
+&lt;source src=&#34;https://www.dropbox.com/s/fsuwdwulv25m4uc/GMT20211116-133650_Recording_1920x1080.mp4?raw=1&#34;&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;p&gt;–&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;links&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://socopen.org/&#34;&gt;Socpopen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publicación Web</title>
+      <link>https://cienciasocialabierta.netlify.app/class/11-class/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://cienciasocialabierta.netlify.app/class/11-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#tutorial-github-pages&#34;&gt;Tutorial Github Pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#links&#34;&gt;Links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;https://cienciasocialabierta.netlify.app/slides/11-gitpages/11_gitpages.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://cienciasocialabierta.netlify.app/slides/11-gitpages/11_gitpages.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;tutorial-github-pages&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Tutorial Github Pages&lt;/h2&gt;
+&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
+&lt;video  style=&#34;width: 100%;&#34; controls&gt;
+&lt;source src=&#34;https://www.dropbox.com/s/o4tme6zwah92q6r/sesion11.mp4?raw=1&#34;&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;p&gt;–&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;links&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;Github pages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Truth, Beauty, and Data</title>
+      <link>https://cienciasocialabierta.netlify.app/reading/01-reading/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://cienciasocialabierta.netlify.app/reading/01-reading/</guid>
+      <description>
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;required&#34; class=&#34;section level1&#34;&gt;
@@ -608,11 +651,11 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Planificación</title>
-      <link>https://cienciasocialabierta.netlify.com/schedule/</link>
+      <link>https://cienciasocialabierta.netlify.app/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/schedule/</guid>
+      <guid>https://cienciasocialabierta.netlify.app/schedule/</guid>
       <description>
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/schedule/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/schedule/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;table&gt;
@@ -639,21 +682,21 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/01-class&#34;&gt;&lt;strong&gt;1. Presentación&lt;/strong&gt;&lt;/a&gt; &lt;br&gt; - Programa y forma de trabajo &lt;br/&gt; - La crisis de la ciencia cerrada&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.app/class/01-class&#34;&gt;&lt;strong&gt;1. Presentación&lt;/strong&gt;&lt;/a&gt; &lt;br&gt; - Programa y forma de trabajo &lt;br/&gt; - La crisis de la ciencia cerrada&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://amara.org/en/videos/nTk5qVME6PP7/es/2350702/&#34;&gt;Película Paywall&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://doi.org/10.1126/science.aab2374&#34;&gt;Nosek, B. A. et al (2015). Promoting an open research culture. Science, 348(6242), 1422–1425.&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/02-class&#34;&gt;&lt;strong&gt;2. Antecedentes&lt;/strong&gt;&lt;/a&gt; &lt;br&gt; • principios &lt;br&gt; • problemas &lt;br&gt; • alternativas&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.app/class/02-class&#34;&gt;&lt;strong&gt;2. Antecedentes&lt;/strong&gt;&lt;/a&gt; &lt;br&gt; • principios &lt;br&gt; • problemas &lt;br&gt; • alternativas&lt;/td&gt;
 &lt;td&gt;- Inscripción grupos de trabajo&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://blog.scielo.org/es/2014/02/27/la-reproducibilidad-en-los-resultados-de-investigacion-la-punta-del-iceberg/&#34;&gt;Nassi-Calo (2014) La reproducibilidad en los resultados de investigación&lt;/a&gt; &lt;br&gt; &lt;br&gt; &lt;a href=&#34;https://cienciasocialabierta.netlify.com/docs/fardella2020escribirpapers.pdf&#34;&gt;Fardella et al (2020) Escribir papers bajo el régimen del management académico: Cuerpo, afectos y estrategias&lt;/a&gt; &lt;br&gt;&lt;br&gt; &lt;a href=&#34;https://cienciasocialabierta.netlify.com/docs/CAP2%20Christensen%20et%20al%20(2019)%20Transparent%20and%20Reproducible%20Social%20Science%20Research.pdf&#34;&gt;Christensen et al cap2: What is ethical research?&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://blog.scielo.org/es/2014/02/27/la-reproducibilidad-en-los-resultados-de-investigacion-la-punta-del-iceberg/&#34;&gt;Nassi-Calo (2014) La reproducibilidad en los resultados de investigación&lt;/a&gt; &lt;br&gt; &lt;br&gt; &lt;a href=&#34;https://cienciasocialabierta.netlify.app/docs/fardella2020escribirpapers.pdf&#34;&gt;Fardella et al (2020) Escribir papers bajo el régimen del management académico: Cuerpo, afectos y estrategias&lt;/a&gt; &lt;br&gt;&lt;br&gt; &lt;a href=&#34;https://cienciasocialabierta.netlify.app/docs/CAP2%20Christensen%20et%20al%20(2019)%20Transparent%20and%20Reproducible%20Social%20Science%20Research.pdf&#34;&gt;Christensen et al cap2: What is ethical research?&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;17&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;&#34;&gt;&lt;strong&gt;3. Pre-registros&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/docs/ciencia_abierta_psicologia.pdf&#34;&gt;García-Garzón et al (2018) Estudios de replicación, pre-registros y ciencia abierta en Psicología&lt;/a&gt; &lt;br&gt;&lt;br&gt; &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01831/full&#34;&gt;Yamada 2018 How to Crack Pre-registration&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.app/docs/ciencia_abierta_psicologia.pdf&#34;&gt;García-Garzón et al (2018) Estudios de replicación, pre-registros y ciencia abierta en Psicología&lt;/a&gt; &lt;br&gt;&lt;br&gt; &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01831/full&#34;&gt;Yamada 2018 How to Crack Pre-registration&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;24&lt;/td&gt;
@@ -663,7 +706,7 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;31&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/programa/#entrega-1-20-pre-registro-y-descripción-de-datos&#34;&gt;&lt;strong&gt;Asesorías informe 1: Pre-registro y selección de datos&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.app/programa/#entrega-1-20-pre-registro-y-descripción-de-datos&#34;&gt;&lt;strong&gt;Asesorías informe 1: Pre-registro y selección de datos&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;font color=&#34;red&#34;&gt; &lt;strong&gt;Viernes 3: Entrega informe 1&lt;/strong&gt; &lt;/font&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -675,8 +718,8 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;7&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/05-class&#34;&gt;&lt;strong&gt;5. Introducción a la escritura y citas en texto plano&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/assignment/02-code&#34;&gt;Práctica Markdown y Zotero&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.app/class/05-class&#34;&gt;&lt;strong&gt;5. Introducción a la escritura y citas en texto plano&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.app/assignment/02-code&#34;&gt;Práctica Markdown y Zotero&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://plain-text.co/&#34;&gt;Healey (2019) The Plain Person’s Guide to Plain Text Social Science&lt;/a&gt; &lt;br&gt; &lt;br&gt;&lt;a href=&#34;http://rusersgroup.com/blog/rmarkdown&#34;&gt;Introducción a Markdown&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://juancarloscastillo.github.io/in-socabi/lenguaje-reproducible.html&#34;&gt;Capítulo Lenguaje reproducible, secciones 1.1 y 1.2, libro Investigación Social Abierta&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://www.zotero.org/&#34;&gt;Zotero&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
@@ -687,13 +730,13 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;21&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/slides/06-rmarkdown/06_rmarkdown.html&#34;&gt;&lt;strong&gt;6. Documentos dinámicos&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.app/slides/06-rmarkdown/06_rmarkdown.html&#34;&gt;&lt;strong&gt;6. Documentos dinámicos&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;&#34;&gt;Práctica RMarkdown/Knitr&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://scielo.conicyt.cl/pdf/revcipol/v36n3/art11.pdf&#34;&gt;Bowers &amp;amp; Voors (2016) How to improve your relationship with your future self&lt;/a&gt;&lt;br&gt;&lt;br&gt; &lt;a href=&#34;https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf&#34;&gt;Hoja referencia Rmarkdown&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;28&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/07-class&#34;&gt;&lt;strong&gt;7. Flujo de trabajo reproducible / Protocolo IPO&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.app/class/07-class&#34;&gt;&lt;strong&gt;7. Flujo de trabajo reproducible / Protocolo IPO&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://juancarloscastillo.github.io/ipo/&#34;&gt;IPO&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://www.projecttier.org/&#34;&gt;TIER&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -705,7 +748,7 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;05&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/programa/#entrega-2-30-reporte-dinámico-reproduciblee&#34;&gt;Asesorías informe 2: Reporte dinámico reproducible&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.app/programa/#entrega-2-30-reporte-dinámico-reproduciblee&#34;&gt;Asesorías informe 2: Reporte dinámico reproducible&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;font color=&#34;red&#34;&gt; &lt;del&gt;&lt;strong&gt;Viernes 8: Entrega informe 2&lt;/strong&gt;&lt;/del&gt; &lt;/font&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -723,7 +766,7 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;26&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/08-class&#34;&gt;&lt;strong&gt;8. Control de versiones 1: Git&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.app/class/08-class&#34;&gt;&lt;strong&gt;8. Control de versiones 1: Git&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Práctica Git &lt;br&gt; &lt;strong&gt;Viernes 29: Entrega informe 2&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://git-scm.com/&#34;&gt;Git&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -735,7 +778,7 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;02&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/09-class&#34;&gt;&lt;strong&gt;9. Control de versiones 2: Github&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.app/class/09-class&#34;&gt;&lt;strong&gt;9. Control de versiones 2: Github&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Práctica Gihub &lt;br&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/&#34;&gt;Github&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -747,19 +790,19 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;16&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/10-class&#34;&gt;&lt;strong&gt;10. Acceso y publicación 1&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.app/class/10-class&#34;&gt;&lt;strong&gt;10. Acceso y publicación 1&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://osf.io/&#34;&gt;OSF&lt;/a&gt; y &lt;a href=&#34;https://socopen.org/&#34;&gt;Pre-prints/Socarxiv&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;23&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/11-class&#34;&gt;&lt;strong&gt;11. Acceso y publicación 2&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.app/class/11-class&#34;&gt;&lt;strong&gt;11. Acceso y publicación 2&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;Github pages&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;blogdown&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://slides.yihui.org/xaringan/#1&#34;&gt;Xaringan&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;30&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.com/programa/#entrega-3-50-proyecto-abierto&#34;&gt;Asesoría Informe 3: Proyecto Abierto&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cienciasocialabierta.netlify.app/programa/#entrega-3-50-proyecto-abierto&#34;&gt;Asesoría Informe 3: Proyecto Abierto&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;font color=&#34;red&#34;&gt; &lt;strong&gt;Viernes 03 Dic: Entrega informe 3&lt;/strong&gt; &lt;/font&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -770,11 +813,11 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
     
     <item>
       <title>Programa</title>
-      <link>https://cienciasocialabierta.netlify.com/programa/</link>
+      <link>https://cienciasocialabierta.netlify.app/programa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/programa/</guid>
+      <guid>https://cienciasocialabierta.netlify.app/programa/</guid>
       <description>
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/programa/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/programa/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -868,7 +911,7 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;div id=&#34;evaluación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Evaluación&lt;/h2&gt;
 &lt;p&gt;La evaluación consistirá en la elaboración de un reporte en el formato de artículo de investigación, elaborado en tres entregas parciales en las que se avanza secuencialmente en los contenidos del curso. Estas entregas son grupales, máximo 5 integrantes.&lt;/p&gt;
-&lt;p&gt;Las fechas de entrega de los trabajos se encuentran en la &lt;a href=&#34;https://cienciasocialabierta.netlify.com/schedule/&#34;&gt;pestaña de planificación&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Las fechas de entrega de los trabajos se encuentran en la &lt;a href=&#34;https://cienciasocialabierta.netlify.app/schedule/&#34;&gt;pestaña de planificación&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;entrega-1-20-pre-registro-y-descripción-de-datos&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Entrega 1 (20%): Pre-registro y descripción de datos&lt;/h3&gt;
 &lt;p&gt;Informe que pre-registra la investigación en base a una plantilla. Además, se debe realizar una descripción acabada de los datos a utilizar evaluando su nivel de apertura y documentación, y proponiendo estrategias para compensar deficiencias.&lt;/p&gt;
@@ -900,7 +943,7 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;li&gt;&lt;p&gt;El tercero es más específico para la Unidad 2 sobre escritura en texto plano: &lt;a href=&#34;https://kieranhealy.org/files/papers/plain-person-text.pdf&#34;&gt;“The Plain Person’s Guide to Plain Text Social Science”&lt;/a&gt;, de Kieran Healy en su última version 2019. Para mi gusto uno de los libros inspiradores sobre las implicancias para la escritura del trabajo académico abierto, y escrito por un gran sociólogo.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Y el cuarto es &lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/&#34;&gt;R Markdown: The definitive guide&lt;/a&gt;, de Yihui Xie, J. J. Allaire &amp;amp; Garrett Grolemund (2019). Abarca los detalles del proceso de investigación reproducible vinculando escritura y análisis, pero con mucho énfasis en publicación y presentación de resultados.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;El detalle de otras lecturas sugeridas para cada clase aparece en la página de &lt;a href=&#34;https://cienciasocialabierta.netlify.com/schedule/&#34;&gt;Planificación&lt;/a&gt;) de las sesiones.&lt;/p&gt;
+&lt;p&gt;El detalle de otras lecturas sugeridas para cada clase aparece en la página de &lt;a href=&#34;https://cienciasocialabierta.netlify.app/schedule/&#34;&gt;Planificación&lt;/a&gt;) de las sesiones.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;software&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Software&lt;/h2&gt;
@@ -908,18 +951,18 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/div&gt;
 &lt;div id=&#34;planificación-de-las-sesiones-y-materiales-respectivos&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Planificación de las sesiones y materiales respectivos&lt;/h2&gt;
-&lt;p&gt;Consultar la página &lt;a href=&#34;https://cienciasocialabierta.netlify.com/schedule/&#34;&gt;Planificación&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Consultar la página &lt;a href=&#34;https://cienciasocialabierta.netlify.app/schedule/&#34;&gt;Planificación&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Trabajos</title>
-      <link>https://cienciasocialabierta.netlify.com/trabajos/</link>
+      <link>https://cienciasocialabierta.netlify.app/trabajos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cienciasocialabierta.netlify.com/trabajos/</guid>
+      <guid>https://cienciasocialabierta.netlify.app/trabajos/</guid>
       <description>
-&lt;script src=&#34;https://cienciasocialabierta.netlify.com/trabajos/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cienciasocialabierta.netlify.app/trabajos/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -938,7 +981,7 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;div id=&#34;entregas&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Entregas&lt;/h2&gt;
 &lt;p&gt;La evaluación consistirá en la elaboración de un reporte en el formato de artículo de investigación, elaborado en tres entregas parciales en las que se avanza secuencialmente en los contenidos del curso. Estas entregas son grupales, máximo 5 integrantes.&lt;/p&gt;
-&lt;p&gt;Las fechas de entrega de los trabajos se encuentran en la &lt;a href=&#34;https://cienciasocialabierta.netlify.com/schedule/&#34;&gt;pestaña de planificación&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Las fechas de entrega de los trabajos se encuentran en la &lt;a href=&#34;https://cienciasocialabierta.netlify.app/schedule/&#34;&gt;pestaña de planificación&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;entrega-1-20-pre-registro-y-descripción-de-datos&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Entrega 1 (20%): Pre-registro y descripción de datos&lt;/h3&gt;
 &lt;p&gt;Informe que pre-registra la investigación en base a una plantilla. Además, se debe realizar una descripción acabada de los datos a utilizar evaluando su nivel de apertura y documentación, y proponiendo estrategias para compensar deficiencias. Se trabajará en base a datos secundarios (existentes).&lt;/p&gt;
@@ -950,13 +993,13 @@ Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_nos
 &lt;/ul&gt;
 &lt;p&gt;Producto a entregar (en archivo pdf):&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;inscripción de pre-registro de investigación en plantilla OSF, se sugiere &lt;a href=&#34;https://osf.io/gnxav/&#34;&gt;AsPredicted&lt;/a&gt; (ver &lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/03-class/&#34;&gt;sesion 3&lt;/a&gt;). Se pueden revisar ejemplos de pre-registro de investigaciones (Ej: &lt;a href=&#34;https://osf.io/fazdx&#34;&gt;aquí&lt;/a&gt;).&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;inscripción de pre-registro de investigación en plantilla OSF, se sugiere &lt;a href=&#34;https://osf.io/gnxav/&#34;&gt;AsPredicted&lt;/a&gt; (ver &lt;a href=&#34;https://cienciasocialabierta.netlify.app/class/03-class/&#34;&gt;sesion 3&lt;/a&gt;). Se pueden revisar ejemplos de pre-registro de investigaciones (Ej: &lt;a href=&#34;https://osf.io/fazdx&#34;&gt;aquí&lt;/a&gt;).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;la plantilla de As.Predicted consiste en una serie de campos que se deben ir completando en el pre-registro. También existe la opción de seleccionar &lt;strong&gt;open ended&lt;/strong&gt; en lugar de AsPredicted, lo que permite adjuntar un documento pdf con la información basado en un word como el que está &lt;a href=&#34;https://docs.google.com/document/d/13FFwD_UNUyA4O0iOGyy66_EViN1LkkM4QT_iiUiOwEE/edit&#34;&gt;aquí&lt;/a&gt;. En el caso de utilizar esta plantilla, en la sección de “conditions” se pueden especificar las variables independientes, y en “other” la evaluación de la apertura de los datos (ver abajo)&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Otros posibles formatos y sus correspondientes plantillas en word se encuentran &lt;a href=&#34;https://osf.io/zab38/wiki/home/&#34;&gt;aquí&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;si se opta por Open Ended también se puede considerar otra plantilla que es más apropiada para el trabajo con datos secundarios, como la &lt;a href=&#34;https://osf.io/p26rq/&#34;&gt;Preregistration template for the preregistration of analyses of preexisting data&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;en la descripción de los datos señalar su nivel de apertura y documentación según los criterios que se señalan en la &lt;a href=&#34;https://cienciasocialabierta.netlify.com/class/03-class/&#34;&gt;sesión 4&lt;/a&gt;, tomando como referencia aquellos referidos a los estándares &lt;a href=&#34;https://www.go-fair.org/fair-principles/&#34;&gt;FAIR&lt;/a&gt; y también las indicaciones de &lt;a href=&#34;https://lisa-coes.netlify.app/02componentes/&#34;&gt;LISA&lt;/a&gt; para apertura de datos.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;en la descripción de los datos señalar su nivel de apertura y documentación según los criterios que se señalan en la &lt;a href=&#34;https://cienciasocialabierta.netlify.app/class/03-class/&#34;&gt;sesión 4&lt;/a&gt;, tomando como referencia aquellos referidos a los estándares &lt;a href=&#34;https://www.go-fair.org/fair-principles/&#34;&gt;FAIR&lt;/a&gt; y también las indicaciones de &lt;a href=&#34;https://lisa-coes.netlify.app/02componentes/&#34;&gt;LISA&lt;/a&gt; para apertura de datos.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;entrega-2-30-reporte-dinámico-reproducible&#34; class=&#34;section level3&#34;&gt;

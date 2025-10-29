@@ -14,7 +14,7 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
-      beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
+      beforeInit: "https://multinivel.netlify.app/docpres/xaringan_custom/macros.js"
     seal: false # esto omite title slide automática
 ---
 class: front
@@ -69,14 +69,14 @@ About macros.js: permite escalar las imágenes como [scale 50%](path to image), 
 ## Juan Carlos Castillo
 ## Sociología FACSO - UChile
 ## 2do Sem 2021
-## [.orange[cienciasocialabierta.netlify.com]](https://cienciasocialabierta.netlify.com)
+## [.orange[cienciasocialabierta.netlify.app]](https://cienciasocialabierta.netlify.app)
 ]
 
 
 .pull-right[
 .right[
 
-![:scale 70%](https://cienciasocialabierta.netlify.com/img/hex_multiva.png)
+![:scale 70%](https://cienciasocialabierta.netlify.app/img/hex_multiva.png)
 ### .yellow[Sesión 9: Repositorio remoto en Github]
 
 
@@ -328,7 +328,7 @@ class: front
 
 .pull-left[
 # Ciencia Social Abierta
-## cienciasocialabierta.netlify.com
+## cienciasocialabierta.netlify.app
 ----
 ## Juan Carlos Castillo
 ## Sociología FACSO - UChile
@@ -338,7 +338,7 @@ class: front
 
 .pull-right[
 .right[
-![:scale 70%](https://cienciasocialabierta.netlify.com/img/hex_multiva.png)
+![:scale 70%](https://cienciasocialabierta.netlify.app/img/hex_multiva.png)
 ]
 
 

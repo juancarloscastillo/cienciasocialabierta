@@ -1,0 +1,203 @@
+---
+title: "Estadística Correlacional"
+subtitle: "Inferencia, asociación y reporte"
+details: |
+  SOC01019 • Segundo Semestre 2025<br>Departamento de Sociología, Facultad de Ciencias Sociales<br>Universidad de Chile
+sidebar: false
+toc: false
+page-layout: full
+format:
+  html:
+    template-partials:
+      - html/home/title-block.html
+execute:
+  freeze: auto   
+course-logo: /files/logo-correlacional.png
+listing:
+  id: informaciones
+  contents: "news/2025*.qmd"
+  type: grid
+  sort: "date desc"
+  categories: false
+---
+
+```{r set-dependencies, include=FALSE}
+# Site-wide targets dependencies
+withr::with_dir(here::here(), {
+  targets::tar_load(project_zips)
+  targets::tar_load(xaringan_slides)
+  targets::tar_load(xaringan_pdfs)
+})
+```
+
+::: {.home}
+
+::: {.grid .course-details}
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+### Profesor
+
+<div class="image-cropper">
+  <img src="https://ucampus.uchile.cl/d/r/usuario/ff/ffd4a9d15a5239c0a425a58a798889c8/perfil/3f226cddefb67f6a7d4c047fec39097f.jpg" alt="avatar" class="profile-pic" width= "100" height= "auto">
+</div>
+
+- {{< fa user >}} &nbsp; [{{< var instructor.name >}}]({{< var instructor.url >}})
+- {{< fa building >}} &nbsp; {{< var instructor.office >}}
+- {{< fa envelope >}} &nbsp; <a href="mailto:juancastillov@uchile.cl">juancastillov@uchile.cl</a>
+- {{< fa calendar-check >}} &nbsp; [Agendar reunión]({{< var instructor.appointment_url >}})
+
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+### Apoyo Docente
+
+<div class="image-cropper">
+  <img src="https://ucampus.uchile.cl/d/r/usuario/f1/f102fdb482bd26aa12d41abfa8054b0b/perfil/75bf44ba76242207373e3bda4ea0733f.jpg" alt="avatar" class="profile-pic"   width= "10" height= "auto">
+</div>
+- {{< fa user >}} &nbsp; Kevin Carrasco
+- {{< fa building >}} &nbsp; 328 Sociología FACSO, Universidad de Chile
+- {{< fa envelope >}} &nbsp; <a href="mailto:kevinkevin.carrasco@ug.uchile.cl ">kevin.carrasco@ug.uchile.cl </a>
+- {{< fa calendar-check >}} &nbsp; Agendar reunión
+
+:::
+
+::: {.g-col-12 .g-col-md-4 .contact-policy}
+### Actividades
+
+- {{< fa clock >}} &nbsp; **Lunes 08:30-10:00** - Aulario C Sala 6
+
+- {{< fa clock >}} &nbsp; **Miércoles 08:30-10:00** - Aulario B Sala 1
+
+
+:::
+:::
+:::
+
+### Ayudantes
+
+::: {.home}
+
+::: {.grid .course-details}
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+
+::: {.avatar-container}
+::: {.avatar-photo}
+![](images/ayudantes/bastian.png){.profile-pic}
+:::
+::: {.avatar-text}
+**Bastián Martin**
+:::
+:::
+
+::: {.avatar-container}
+::: {.avatar-photo}
+![](images/ayudantes/felipe.png){.profile-pic}
+:::
+::: {.avatar-text}
+**Felipe Vega**
+:::
+:::
+
+::: {.avatar-container}
+::: {.avatar-photo}
+![](images/ayudantes/isidora.png){.profile-pic}
+:::
+::: {.avatar-text}
+**Isidora Valencia**
+:::
+:::
+
+::: {.avatar-container}
+::: {.avatar-photo}
+![](images/ayudantes/javiera.png){.profile-pic}
+:::
+::: {.avatar-text}
+**Javiera Álvarez**
+:::
+:::
+
+::: 
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.avatar-container}
+::: {.avatar-photo}
+![](images/ayudantes/katherine.png){.profile-pic}
+:::
+::: {.avatar-text}
+**Katherine Aravena**
+:::
+:::
+
+::: {.avatar-container}
+::: {.avatar-photo}
+![](images/ayudantes/martinab.png){.profile-pic}
+:::
+::: {.avatar-text}
+**Martina Buzio**
+:::
+:::
+
+::: {.avatar-container}
+::: {.avatar-photo}
+![](images/ayudantes/martinaj.png){.profile-pic}
+:::
+::: {.avatar-text}
+**Martina Lagos**
+:::
+:::
+
+::: {.avatar-container}
+::: {.avatar-photo}
+![](https://res.cloudinary.com/sitegurus/image/upload/v1624100887/profile_pictures/default_qrqg0b.png){.profile-pic}
+:::
+::: {.avatar-text}
+**Nicolás Outerbridge**
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.avatar-container}
+::: {.avatar-photo}
+![](images/ayudantes/rodrigo.png){.profile-pic}
+:::
+::: {.avatar-text}
+**Rodrigo Huerta**
+:::
+:::
+
+::: {.avatar-container}
+::: {.avatar-photo}
+![](images/ayudantes/tomas.png){.profile-pic}
+:::
+::: {.avatar-text}
+**Tomás Urzúa**
+:::
+:::
+
+::: {.avatar-container}
+::: {.avatar-photo}
+![](images/ayudantes/valentina.png){.profile-pic}
+:::
+::: {.avatar-text}
+**Valentina Montencinos**
+:::
+:::
+
+
+:::
+:::
+
+
+ 
+ update
+ 
+## Últimas informaciones
+
+::: {#informaciones}
+:::
+
+-> ir a la [página de Informaciones](/news/index.qmd) del sitio.
+
+

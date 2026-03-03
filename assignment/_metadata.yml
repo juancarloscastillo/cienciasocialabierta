@@ -1,0 +1,9 @@
+date-heading:
+  content: "Sesión del "
+  class: "bg-assignment"
+date-format: "full"
+
+format:
+  html:
+    template-partials:
+      - ../html/title-block.html

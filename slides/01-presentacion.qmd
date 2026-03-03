@@ -1,7 +1,7 @@
 ---
 format:
   revealjs:
-    logo: ../images/logo-ciencia-abierta.png
+    logo: img/logo-ciencia-abierta.png
     theme: [css/custom_2025.scss]
     title-slide-attributes:
       visibility: false
@@ -21,7 +21,7 @@ editor: source
 
 <br>
 
-![](https://cienciasocialabierta.netlify.app/img/hex_multiva.png){width="100%" fig-align="right"}
+![](img/logo-ciencia-abierta.png){width="100%" fig-align="right"}
 :::
 
 :::{.column width="10%"}
@@ -94,7 +94,7 @@ Sociología FACSO UChile</span>
 
 ![](img/flujo_rep.png)
 
-### ¿Qué porcentaje de los estudios publicados son reproducibles?
+## ¿Qué porcentaje de los estudios publicados son reproducibles?
 
 :::: {.columns}
 
@@ -107,6 +107,9 @@ Sociología FACSO UChile</span>
 ::: {.column width="50%"}
 
 alrededor de un **40%!** (varía por disciplina)
+
+:::
+::::
 
 ## ¿Por qué se ocurre la crisis de reproducibilidad?
 
@@ -173,7 +176,7 @@ Adaptado de: [http://whyopenresearch.org/#](http://whyopenresearch.org/)
 
 <br>
 
-![](https://cienciasocialabierta.netlify.app/img/hex_multiva.png){width="100%" fig-align="right"}
+![](img/logo-ciencia-abierta.png){width="100%" fig-align="right"}
 :::
 
 :::{.column width="10%"}
